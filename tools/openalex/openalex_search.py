@@ -151,6 +151,7 @@ def _shape_work(w: dict) -> dict[str, Any]:
     if len(abstract) > 600:
         abstract = abstract[:600].rstrip() + "…"
     return {
+        "source": "openalex",
         "title": w.get("title") or w.get("display_name") or "(无标题)",
         "authors": authors[:8],
         "year": w.get("publication_year"),
@@ -164,6 +165,7 @@ def _shape_work(w: dict) -> dict[str, Any]:
         "oa_url": oa.get("oa_url"),
         "landing_url": pl.get("landing_page_url"),
         "openalex_id": w.get("id"),
+        "id": w.get("id"),
         "abstract": abstract,
     }
 

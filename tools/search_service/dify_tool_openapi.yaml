@@ -1,0 +1,77 @@
+openapi: 3.1.0
+info:
+  title: 统一文献检索工具
+  description: >-
+    面向文献检索智能体的实时学术检索接口，聚合三大免费开放数据源:
+    OpenAlex(广度综合)、Crossref(权威元数据/DOI)、Semantic Scholar(语义与引文)。
+    当用户想"查某个主题的具体论文/文献"时调用。既可指定单一数据源(searchLiterature)，
+    也可三源并查去重(searchLiteratureAll)。
+  version: 1.0.0
+servers:
+  # ⬇️ 部署 server.py 后改成你的地址(与 Dify 同网络填 http://litsearch:8000)
+  - url: https://YOUR-DOMAIN-OR-IP:8000
+paths:
+  /search:
+    get:
+      operationId: searchLiterature
+      summary: 检索学术文献(单一数据源)
+      description: >-
+        在指定数据源检索学术文献。英文检索词命中更全；中文主题建议先转成对应语言的
+        学术关键词。默认数据源 openalex。
+      parameters:
+        - {name: q, in: query, required: true, description: "检索词(中英文均可)", schema: {type: string}}
+        - name: source
+          in: query
+          required: false
+          description: "数据源: openalex(综合) / crossref(元数据) / semanticscholar(语义引文)"
+          schema: {type: string, enum: [openalex, crossref, semanticscholar], default: openalex}
+        - {name: limit, in: query, required: false, description: "返回条数 1-25", schema: {type: integer, minimum: 1, maximum: 25, default: 5}}
+        - {name: since, in: query, required: false, description: "起始出版年份", schema: {type: integer}}
+        - {name: until, in: query, required: false, description: "截止出版年份", schema: {type: integer}}
+        - {name: oa, in: query, required: false, description: "只返回开放获取(openalex/semanticscholar 有效)", schema: {type: boolean, default: false}}
+        - {name: work_type, in: query, required: false, description: "文献类型(openalex/crossref 有效)，如 article/journal-article/book", schema: {type: string}}
+        - {name: sort, in: query, required: false, description: "排序(各源支持值不同)", schema: {type: string, default: "relevance_score:desc"}}
+      responses:
+        "200": {description: 检索结果, content: {application/json: {schema: {$ref: "#/components/schemas/SearchResult"}}}}
+  /search_all:
+    get:
+      operationId: searchLiteratureAll
+      summary: 三源并查并去重
+      description: >-
+        同时在 OpenAlex、Crossref、Semantic Scholar 检索，按 DOI/标题去重，按被引降序返回。
+        适合"我想全面看看这个主题有哪些重要文献"。
+      parameters:
+        - {name: q, in: query, required: true, description: "检索词", schema: {type: string}}
+        - {name: limit, in: query, required: false, description: "每源返回条数 1-15", schema: {type: integer, minimum: 1, maximum: 15, default: 5}}
+        - {name: since, in: query, required: false, description: "起始出版年份", schema: {type: integer}}
+        - {name: until, in: query, required: false, description: "截止出版年份", schema: {type: integer}}
+        - {name: oa, in: query, required: false, description: "只返回开放获取", schema: {type: boolean, default: false}}
+      responses:
+        "200": {description: 合并去重后的检索结果, content: {application/json: {schema: {$ref: "#/components/schemas/SearchResult"}}}}
+components:
+  schemas:
+    Work:
+      type: object
+      properties:
+        source: {type: string, description: "来源数据源"}
+        title: {type: string}
+        authors: {type: array, items: {type: string}}
+        year: {type: integer}
+        venue: {type: string}
+        type: {type: string}
+        language: {type: string}
+        cited_by_count: {type: integer}
+        doi: {type: string}
+        is_oa: {type: boolean, nullable: true}
+        oa_url: {type: string, nullable: true}
+        landing_url: {type: string, nullable: true}
+        abstract: {type: string}
+    SearchResult:
+      type: object
+      properties:
+        query: {type: string}
+        source: {type: string}
+        total: {type: integer, description: 命中总数(单源)或去重后条数(并查)}
+        returned: {type: integer}
+        markdown: {type: string, description: 现成 Markdown 摘要，可直接展示}
+        results: {type: array, items: {$ref: "#/components/schemas/Work"}}
