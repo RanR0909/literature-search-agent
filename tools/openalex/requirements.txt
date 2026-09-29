@@ -1,0 +1,3 @@
+# 仅运行 server.py（Dify 微服务）时需要；openalex_search.py 本身零依赖。
+fastapi>=0.110
+uvicorn[standard]>=0.29

@@ -1,0 +1,114 @@
+openapi: 3.1.0
+info:
+  title: OpenAlex 文献检索工具
+  description: >-
+    供文献检索智能体调用的实时学术检索接口。数据源 OpenAlex（覆盖 2.5 亿+ 学术作品，
+    全学科全球，免费开放）。给定检索词，返回相关论文的标题、作者、年份、期刊、被引数、
+    开放获取状态与可访问链接、摘要。当用户想"查具体某个主题的论文/文献"时调用本工具。
+  version: 1.0.0
+servers:
+  # ⬇️ 部署 server.py 后，把这里改成你的公网地址（Dify 需能访问到）
+  - url: https://YOUR-DOMAIN-OR-IP:8000
+paths:
+  /search:
+    get:
+      operationId: searchLiterature
+      summary: 检索学术文献
+      description: >-
+        按检索词在 OpenAlex 检索学术文献。支持按年份区间、语言、开放获取、文献类型过滤与排序。
+        英文检索词命中更全；若用户给中文主题，建议先转成对应语言的学术关键词再检索。
+      parameters:
+        - name: q
+          in: query
+          required: true
+          description: 检索词（自然语言或关键词，中英文均可）
+          schema:
+            type: string
+        - name: limit
+          in: query
+          required: false
+          description: 返回条数，1-25，默认 5
+          schema:
+            type: integer
+            minimum: 1
+            maximum: 25
+            default: 5
+        - name: since
+          in: query
+          required: false
+          description: 起始出版年份，如 2010
+          schema:
+            type: integer
+        - name: until
+          in: query
+          required: false
+          description: 截止出版年份，如 2024
+          schema:
+            type: integer
+        - name: lang
+          in: query
+          required: false
+          description: 语言代码，如 en/fr/de/ja/zh
+          schema:
+            type: string
+        - name: oa
+          in: query
+          required: false
+          description: 是否只返回开放获取（可免费全文）的文献
+          schema:
+            type: boolean
+            default: false
+        - name: work_type
+          in: query
+          required: false
+          description: 文献类型，如 article/book/book-chapter
+          schema:
+            type: string
+        - name: sort
+          in: query
+          required: false
+          description: >-
+            排序：relevance_score:desc（相关度，默认）/ cited_by_count:desc（被引）/
+            publication_date:desc（最新）
+          schema:
+            type: string
+            default: relevance_score:desc
+      responses:
+        "200":
+          description: 检索结果
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  query:
+                    type: string
+                  total:
+                    type: integer
+                    description: 命中总数
+                  returned:
+                    type: integer
+                    description: 本次返回条数
+                  markdown:
+                    type: string
+                    description: 现成的 Markdown 摘要，可直接展示给用户
+                  results:
+                    type: array
+                    items:
+                      type: object
+                      properties:
+                        title: { type: string }
+                        authors:
+                          type: array
+                          items: { type: string }
+                        year: { type: integer }
+                        venue: { type: string }
+                        type: { type: string }
+                        language: { type: string }
+                        cited_by_count: { type: integer }
+                        doi: { type: string }
+                        is_oa: { type: boolean }
+                        oa_url: { type: string }
+                        landing_url: { type: string }
+                        openalex_id: { type: string }
+                        abstract: { type: string }
