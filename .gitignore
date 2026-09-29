@@ -4,3 +4,6 @@
 
 __pycache__/
 *.pyc
+deploy/dist/
+.env
+deploy/.env

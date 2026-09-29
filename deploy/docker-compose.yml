@@ -1,0 +1,33 @@
+# 本项目自有服务的编排（目前只有 OpenAlex 检索微服务）。
+#
+# Dify 本体不在这里编排——它有自己的一套 docker compose（见 deploy/README.md）。
+# 推荐把本服务和 Dify 接到同一个 docker 网络，Dify 用内网地址 http://openalex:8000 调它，
+# 不必公网暴露本服务。
+#
+# 单独启动本服务：
+#   cd 仓库根目录
+#   OPENALEX_MAILTO=you@example.com docker compose -f deploy/docker-compose.yml up -d --build
+#   curl "http://localhost:8000/search?q=digital+humanities&limit=3"
+
+services:
+  openalex:
+    build:
+      context: ..                      # 仓库根，Dockerfile 里按 tools/openalex/... 拷贝
+      dockerfile: deploy/openalex/Dockerfile
+    image: lit-navigator/openalex:latest
+    container_name: openalex
+    restart: unless-stopped
+    environment:
+      OPENALEX_MAILTO: ${OPENALEX_MAILTO:-}
+    ports:
+      - "8000:8000"                    # 若只给同网络的 Dify 用，可删掉这行不对外暴露
+    networks:
+      - lit-net
+
+networks:
+  lit-net:
+    driver: bridge
+    # 若要与 Dify 同网：先 `docker network create lit-net`，
+    # 并在 Dify 的 compose 里把服务加入该外部网络；然后把上面改为：
+    # lit-net:
+    #   external: true
