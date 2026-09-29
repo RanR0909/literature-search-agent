@@ -1,0 +1,277 @@
+[
+ {
+  "mmsid": "991021704086603966",
+  "name": "CAIRN",
+  "lang": "fre",
+  "type": "期刊;图书",
+  "ext": "主库",
+  "sub": "历史学;文学;哲学;教育学;法学;经济学;管理学;艺术学",
+  "intro": "Cairn.info成立于2005年，由法国出版社Belin、Eres、La Découverte和比利时出版社De Boeck共同创立，随后有80多家出版社加入。Cairn还与法国公众机构合作，如BnF（Gallica.fr)、the CNRS（Revues.org)以及法国高等教育部（Press.fr）与法国国家图书馆。Cairn法语数据库向用户提供广泛的在线法语出版物。",
+  "tier": "T1",
+  "urls": [
+   "http://tlink.lib.tsinghua.edu.cn/go?url=https://www.cairn.info/"
+  ],
+  "mirror": [],
+  "other": [],
+  "offcampus": "本库可通过以下方式实现校外远程访问<br />①<a href=\"http://tlink.lib.tsinghua.edu.cn/go?url=https://www.cairn.info/\">  智能网关</a><br />②<a target=\"_blank\" href=\"${global.offcampus.exproxy}\">  校外访问控制系统</a><br />③<a target=\"_blank\" href=\"${global.offcampus.myloft.url}\">  MyLoft远程访问插件</a>（<a target=\"_blank\" href=\"${global.offcampus.myloftpdf.url}\">注册安装指南</a>）<br />",
+  "notice": "<p>1.图书的获取。请先注册再使用。登录个人账号后，如果不勾选Non-subscription content，出现的图书为订阅图书，读者可自由阅览正文内容；如果勾选Non-subscription content，则会显示图书馆没有购买的图书，网站会要求读者购买后阅读。</p>\n<p>2.期刊的获取。期刊文章可以查看全文即下载PDF格式文档。</p>\n<p>3.杂志的获取。杂志文章可以浏览全文，但没有下载PDF格式文档的功能。如需下载，可以鼠标右键采用虚拟打印机打印的方式设置成PDF格式。</p>",
+  "accessurl": ""
+ },
+ {
+  "mmsid": "991021905062503966",
+  "name": "雕龙中日古籍全文资料库 敦煌史料",
+  "lang": "chi",
+  "type": "古籍",
+  "ext": "子库",
+  "sub": "哲学;文学;历史学",
+  "intro": "雕龙《敦煌史料数据库》主要广搜俄国、英国、法国、北京国家图书馆、北京大学图书馆、敦煌博物馆、敦煌研究所、天津艺术博物馆等来自不同国家和地区所藏的敦煌文献。除保存大量敦煌史料，更为敦煌学研究之珍贵史料，具有保存文献资料及提供学术研究的重要价值。",
+  "tier": "T1",
+  "urls": [
+   "http://tlink.lib.tsinghua.edu.cn/go?url=http://tk.cepiec.com.cn/ancientc/ancientkm"
+  ],
+  "mirror": [],
+  "other": [],
+  "offcampus": "本库可通过以下方式实现校外远程访问<br />①<a href=\"http://tlink.lib.tsinghua.edu.cn/go?url=http://tk.cepiec.com.cn/ancientc/ancientkm\">  智能网关</a><br />②<a target=\"_blank\" href=\"${global.offcampus.exproxy}\">  校外访问控制系统</a><br />③<a target=\"_blank\" href=\"${global.offcampus.myloft.url}\">  MyLoft远程访问插件</a>（<a target=\"_blank\" href=\"${global.offcampus.myloftpdf.url}\">注册安装指南</a>）<br />",
+  "notice": "<p>1.无并发用户数限制。</p>\n<p>2.全校每日可下载文献3000篇。</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>",
+  "accessurl": [
+   {
+    "v": "http://lib.tsinghua.edu.cn/PDF/sygn.pdf",
+    "url": "http://publish.ancientbooks.cn/docShuju/platformSublibIndex.jspx?libId=6"
+   }
+  ]
+ },
+ {
+  "mmsid": "991021872422803966",
+  "name": "ProQuest Early European Books",
+  "lang": "eng",
+  "type": "图书",
+  "ext": "子库",
+  "sub": "历史学;法学;理学;文学;哲学;医学;艺术学",
+  "intro": "收录1450年至1700年间，超过5万种欧洲图书文献。汇集了丹麦哥本哈根皇家图书馆、佛罗伦萨国立中央图书馆、荷兰海牙皇家图书馆、伦敦威康图书馆、法国国家图书馆（巴黎）的馆藏，是早期欧洲人文社科以及跨学科研究不可获取的珍贵第一手资源。截至目前，共18个专辑，目前我馆购买了1-10个专辑。包括主要的欧洲语言和地区，主题涵盖范围有历史，宗教，科学，文学，哲学，艺术和音乐等研究必需的主要资源，而影响力颇深的古典、中世纪作者和早期印刷技术中极为罕见的版本亦包罗其中。",
+  "tier": "T1",
+  "urls": [
+   "http://tlink.lib.tsinghua.edu.cn/go?url=https://www.proquest.com/eeb/?accountid=14426"
+  ],
+  "mirror": [],
+  "other": [],
+  "offcampus": "<p>本库可通过以下方式实现校外远程访问<br />①<a href=\"http://tlink.lib.tsinghua.edu.cn/go?url=https://www.proquest.com/eeb/?accountid=14426\" target=\"_blank\" rel=\"noopener\"> 智能网关</a><br />②<a href=\"${global.offcampus.exproxy}\" target=\"_blank\" rel=\"noopener\"> 校外访问控制系统</a><br />③ <a href=\"https://go.openathens.net/redirector/tsinghua.edu.cn?url=https%3A%2F%2Fwww.proquest.com%2Feeb%2F%3Faccountid%3D14426\" target=\"_blank\" rel=\"noopener\">机构用户身份认证</a>（Shibboleth或OpenAthens认证方式）<br />④<a href=\"${global.offcampus.myloft.url}\" target=\"_blank\" rel=\"noopener\"> MyLoft远程访问插件</a>（<a href=\"${global.offcampus.myloftpdf.url}\" target=\"_blank\" rel=\"noopener\">注册安装指南</a>）</p>",
+  "notice": "",
+  "accessurl": ""
+ },
+ {
+  "mmsid": "991021498930303966",
+  "name": "Gale Primary sources The making of modern law: Foreign, comparative, and international law, 1600–1926",
+  "lang": "eng",
+  "type": "图书;法律法规;数据事实",
+  "ext": "子库",
+  "sub": "法学;交叉学科",
+  "intro": "《现代法的形成：外国法、比较法和国际法》（1600-1926）是对《现代法的形成：法律论著》（1800-1926）的补充，为研究人员提供了查阅外国法、比较法和国际法文献的即时全文。本书汇集了2700多种书籍，共有近3500卷，140万页，涉及外国法、比较法、伊斯兰法、犹太法，甚至罗马法和古代法等领域的问题。2000年以上的标题绝大多数集中在国际法上，而专门讨论外国法的800多个标题涉及特定国家的法律制度。就主题而言，作品涵盖了广泛的法律领域，包括民事、商业、宪法、合同、刑事和侵权法，以及法理学、程序学和法律外交问题。",
+  "tier": "T1",
+  "urls": [
+   "http://tlink.lib.tsinghua.edu.cn/go?url=https://link.gale.com/apps/MMLF?u=tsinghua"
+  ],
+  "mirror": [],
+  "other": [],
+  "offcampus": "本库可通过以下方式实现校外远程访问<br />①<a href=\"http://tlink.lib.tsinghua.edu.cn/go?url=https://link.gale.com/apps/MMLF?u=tsinghua\">  智能网关</a><br />②<a target=\"_blank\" href=\"${global.offcampus.exproxy}\">  校外访问控制系统</a><br />",
+  "notice": "",
+  "accessurl": ""
+ },
+ {
+  "mmsid": "991021820415103966",
+  "name": "HeinOnline Gun regulation and legislation in America",
+  "lang": "eng",
+  "type": "期刊;数据事实;法律汇编;法律简报",
+  "ext": "子库",
+  "sub": "法学",
+  "intro": "美国枪支法规和立法文库汇集了重要的期刊、汇编的立法历史、CRS报告、国会听证会、美国最高法院简报、专著和其他有关美国枪支管制的困难和有争议的主题的相关材料。它还包括一个广泛的书目和外部资源的平衡选择，以进一步研究这一课题。",
+  "tier": "T1",
+  "urls": [
+   "http://tlink.lib.tsinghua.edu.cn/go?url=https://heinonline.org/HOL/Index?collection=gun&set_as_cursor=clear"
+  ],
+  "mirror": [],
+  "other": [],
+  "offcampus": "<p>本库可通过以下方式实现校外远程访问<br />①<a href=\"http://tlink.lib.tsinghua.edu.cn/go?url=https://heinonline.org/HOL/Index?collection=gun&amp;set_as_cursor=clear\"> 智能网关</a><br />②<a href=\"${global.offcampus.exproxy}\" target=\"_blank\" rel=\"noopener\"> 校外访问控制系统</a></p>\n<p style=\"margin-right: 0cm; margin-left: 0cm; font-size: 12pt; font-family: 宋体;\"><span style=\"font-family: 微软雅黑, sans-serif; color: #555555; border: none windowtext 1.0pt; padding: 0cm; background: white;\">③基于shibboleth认证访问（</span><a style=\"outline: currentcolor none 0px; cursor: pointer; box-sizing: border-box; transition: all 0.3s ease 0s; color: blue; text-decoration: underline;\" href=\"https://heinonline.org/HOL/oa/login?entityID=https://idp.tsinghua.edu.cn/idp/shibboleth\"><span style=\"font-family: 微软雅黑, sans-serif; border: none windowtext 1.0pt; padding: 0cm; background: white;\">WAYFless</span></a><span style=\"font-family: 微软雅黑, sans-serif; color: #555555; border: none windowtext 1.0pt; padding: 0cm; background: white;\">登录）</span></p>",
+  "notice": "",
+  "accessurl": ""
+ },
+ {
+  "mmsid": "991021745115903966",
+  "name": "HeinOnline International Law Association Reports",
+  "lang": "eng",
+  "type": "数据事实;法律文库;法律报告;会议录",
+  "ext": "子库",
+  "sub": "法学",
+  "intro": "国际法协会的目标是研究，澄清和发展公私法国际法，并促进国际间的理解和对国际法的尊重。 国际法协会的会议报告包含国际委员会的报告，会议工作会议上的讨论记录以及通过的决议。",
+  "tier": "T1",
+  "urls": [
+   "http://tlink.lib.tsinghua.edu.cn/go?url=https://heinonline.org/HOL/Index?collection=ilarc"
+  ],
+  "mirror": [],
+  "other": [],
+  "offcampus": "<p>本库可通过以下方式实现校外远程访问<br />①<a href=\"http://tlink.lib.tsinghua.edu.cn/go?url=https://heinonline.org/HOL/Index?collection=ilarc\"> 智能网关</a><br />②<a href=\"${global.offcampus.exproxy}\" target=\"_blank\" rel=\"noopener\"> 校外访问控制系统</a></p>\n<p>③基于shibboleth认证访问（<a href=\"https://heinonline.org/HOL/oa/login?entityID=https://idp.tsinghua.edu.cn/idp/shibboleth\">WAYFless</a>登录）</p>",
+  "notice": "",
+  "accessurl": ""
+ },
+ {
+  "mmsid": "991021498972003966",
+  "name": "HeinOnline U.S. Federal Legislative History Library",
+  "lang": "eng",
+  "type": "法律文库;法律汇编;法律书目;图书;法案",
+  "ext": "子库",
+  "sub": "法学",
+  "intro": "收录包含来自多个来源的2,400多种书目，包括政府印刷局，阿诺德和波特，卡温顿和伯灵，柯克兰和埃利斯，等等。威廉·S·海因公司（William S. Hein＆Co.，Inc.）还与法律专家签约，以汇编和出版内部有关主要公法的立法历史。这些汇编包括最终公法文本，众议院和参议院法案的变体，国会听证会，众议院和参议院的报告等。研究主要公共法律背后的立法意图，并跟踪法案从引入到通过的过程。通过这种宝贵的资源类型，可以获取对歧义法定语言的见解和澄清。所有标题均已索引到文档级别，并且可以完全搜索。除了立法历史内容之外，该数据库还包括屡获殊荣的《汇编立法历史来源》的数据库版本。利用该数据库来确定立法历史是否已根据公法进行汇编，并且还可以找到相关文档，例如书籍或学术文章。 HeinOnline中所有可用的材料都已链接并可以从该数据库访问。从数据库首页，用户还可以浏览立法参考清单或访问外部资源，以汇编联邦立法历史和其他各种立法研究指南。　",
+  "tier": "T1",
+  "urls": [
+   "http://tlink.lib.tsinghua.edu.cn/go?url=https://heinonline.org/HOL/Index?collection=leghis"
+  ],
+  "mirror": [],
+  "other": [],
+  "offcampus": "<p>本库可通过以下方式实现校外远程访问<br />①<a href=\"http://tlink.lib.tsinghua.edu.cn/go?url=https://heinonline.org/HOL/Index?collection=leghis\"> 智能网关</a><br />②<a href=\"${global.offcampus.exproxy}\" target=\"_blank\" rel=\"noopener\"> 校外访问控制系统</a></p>\n<p>③基于shibboleth认证访问（<a href=\"https://heinonline.org/HOL/oa/login?entityID=https://idp.tsinghua.edu.cn/idp/shibboleth\">WAYFless</a>登录）</p>",
+  "notice": "",
+  "accessurl": ""
+ },
+ {
+  "mmsid": "991021745113503966",
+  "name": "HeinOnline World Constitutions Illustrated",
+  "lang": "eng",
+  "type": "法律文库;期刊;图书;典籍",
+  "ext": "子库",
+  "sub": "法学",
+  "intro": "世界宪法文库收录包括每一个国家现行宪法的原文和英文译本，以及所有国家的宪法历史。包括11000多部历史和现行宪法和宪法文件《世界宪法文库》侧重于对历史和现行政府宪法的研究，使学者们能够研究世界各国的宪法和政治发展。它包括所有国家的大量宪法历史。对于每一份宪法文件，研究者可以找到原文、修改法律、合并文本和重要的相关文本。它还包括宪法期刊，数千本经典书籍，其他相关作品，如世界概况，学术文章和在线资源的链接。《世界宪法文库》以其原始语言包含了世界上每个国家的现行宪法。如果存在多个原始语言版本，我们提供它们。大多数国家也至少包括一个英文译本。由于翻译依赖于并揭示了当时制造商的偏好，我们在可用时提供多个版本。",
+  "tier": "T1",
+  "urls": [
+   "http://tlink.lib.tsinghua.edu.cn/go?url=https://heinonline.org/HOL/Index?collection=cow"
+  ],
+  "mirror": [],
+  "other": [],
+  "offcampus": "<p>本库可通过以下方式实现校外远程访问<br />①<a href=\"http://tlink.lib.tsinghua.edu.cn/go?url=https://heinonline.org/HOL/Index?collection=cow\"> 智能网关</a><br />②<a href=\"${global.offcampus.exproxy}\" target=\"_blank\" rel=\"noopener\"> 校外访问控制系统</a></p>\n<p>③ 基于shibboleth认证访问（<a href=\"https://heinonline.org/HOL/oa/login?entityID=https://idp.tsinghua.edu.cn/idp/shibboleth\">WAYFless</a>登录）</p>",
+  "notice": "",
+  "accessurl": ""
+ },
+ {
+  "mmsid": "991021498948103966",
+  "name": "The Hague Academy Collected Courses Online",
+  "lang": "eng",
+  "type": "图书;音视频;演讲集",
+  "ext": "主库",
+  "sub": "法学",
+  "intro": "海牙国际法学院在卡内基基金会的资助下于1923年成立，其校址位于和平宫，毗邻国际法庭和海牙常设仲裁法院等最高司法机构。该学院是国际公法与国际私法的研究和教学中心，其宗旨是进一步促进国际关系所涉法律问题的科学性高级研究。该学院的理事会（Curatorium）作为学院的科研机构，邀请全世界享负盛名的专业学者、执业人员、外交官以及其他名人到学院授课。这些课程针对一般或专门课题，采用系列讲座的形式，以英语或法语讲授（提供同声传译）。该学院将这些课程结集并以 Collected Courses of the Academy of International Law（《海牙国际法学院演讲集》）的形式出版，目前已出版了430余卷，这些结集无疑是国际公法和私法领域最为重要的百科全书性质的出版物。自2008 年起，《演讲集》提供电子数据库版本，方便读者检索研究近90年的国际法的相关研究成果。",
+  "tier": "T1",
+  "urls": [
+   "http://tlink.lib.tsinghua.edu.cn/go?url=https://brillpublications.cn/display/package/hac"
+  ],
+  "mirror": [],
+  "other": [],
+  "offcampus": "本库可通过以下方式实现校外远程访问<br />①<a href=\"http://tlink.lib.tsinghua.edu.cn/go?url=https://brillpublications.cn/display/package/hac\">  智能网关</a><br />②<a target=\"_blank\" href=\"${global.offcampus.exproxy}\">  校外访问控制系统</a><br />",
+  "notice": "",
+  "accessurl": ""
+ },
+ {
+  "mmsid": "991021914394003966",
+  "name": "中国国家图书馆 中华古籍资源库 法藏敦煌",
+  "lang": "chi",
+  "type": "古籍",
+  "ext": "子库",
+  "sub": "哲学",
+  "intro": "2015年，法国国家图书馆与中国国家图书馆达成合作意向，由法国国家图书馆向中国国家图书馆赠送馆藏全部敦煌遗书高清数字资源。在双方共同努力下，实现了这批敦煌遗书的数字化回归，并于2018年3月5日正式在线发布，共计5300余号3.1万余拍。",
+  "tier": "T1",
+  "urls": [
+   "http://read.nlc.cn/allSearch/searchList?searchType=10022&showType=1&pageNo=9&searchWord="
+  ],
+  "mirror": [],
+  "other": [],
+  "offcampus": "",
+  "notice": "",
+  "accessurl": ""
+ },
+ {
+  "mmsid": "991021498976503966",
+  "name": "Gale Primary sources The Times Digital Archive, 1785-2014",
+  "lang": "eng",
+  "type": "报纸;图文",
+  "ext": "子库",
+  "sub": "交叉学科",
+  "intro": "收录研究19世纪、20世纪及21世纪历史的备受推崇的在线资源。现今新增了20年的内容，收录自出版以来225年的《泰晤士报》的每一页内容。作为“世界报纸的记录”的伦敦《泰晤士报》涵盖所有主要的国际历史事件，从法国革命到伊拉克战争。为您呈现1785年至2010年间的每一期的每一页内容，形成一段时期内容的完整编年史。作为研究历史、文学、文化、商业等的必备资源，《泰晤士报》数字档案具有更新的用户界面，提供更优化的功能：全屏浏览文章，引文生成工具，可输出第三方书目项目，如：RefWorks，以用户命名的功能包括保存和检索文章等。",
+  "tier": "T1",
+  "urls": [
+   "http://tlink.lib.tsinghua.edu.cn/go?url=https://link.gale.com/apps/TTDA?u=tsinghua"
+  ],
+  "mirror": [],
+  "other": [],
+  "offcampus": "本库可通过以下方式实现校外远程访问<br />①<a href=\"http://tlink.lib.tsinghua.edu.cn/go?url=https://link.gale.com/apps/TTDA?u=tsinghua\">  智能网关</a><br />②<a target=\"_blank\" href=\"${global.offcampus.exproxy}\">  校外访问控制系统</a><br />",
+  "notice": "",
+  "accessurl": ""
+ },
+ {
+  "mmsid": "991021498966303966",
+  "name": "OCLC FirstSearch ClasePeriódica",
+  "lang": "spa",
+  "type": "文摘索引;期刊;会议录;图书;科技报告",
+  "ext": "子库",
+  "sub": "交叉学科",
+  "intro": "ClasePeriodica数据库由Clase和Periodica两部分组成，其中Clase对专门登载社会科学与人文科学的拉丁美洲期刊中的文献所作的索引； Periodica则涵盖专门登载科学与技术文献的期刊。该数据库对2,700多种以西班牙文、葡萄牙文、法文和英文发表的学术期刊中的65万多条书目引文提供检索。不但包括以泛美问题为主的期刊中的信息，还含有在24个不同的拉丁美洲和加勒比海地区出版的文章、论文、单行本、会议录、技术报告、采访、以及简注。其中，Clase收录的期刊从1975年开始至今，Periodica收录的期刊从1978年开始至今。主题有农业科学、历史、人类学、法律、艺术、图书馆学与信息科学、生物学、语言学与文学、化学、管理与会计、通讯科学、医药学、人口统计学、哲学、经济学、物理学、教育学、政治学、工程学、心理学、精密科学、宗教学、外交事务、社会学和地球科学。该数据库每三个月更新一次。",
+  "tier": "T1",
+  "urls": [
+   "http://tlink.lib.tsinghua.edu.cn/go?url=http://firstsearch.oclc.org/fsip?dbname=ClasePeriodica&done=referer"
+  ],
+  "mirror": [],
+  "other": [],
+  "offcampus": "本库可通过以下方式实现校外远程访问<br />①<a href=\"http://tlink.lib.tsinghua.edu.cn/go?url=http://firstsearch.oclc.org/fsip?dbname=ClasePeriodica&done=referer\">  智能网关</a><br />②<a target=\"_blank\" href=\"${global.offcampus.exproxy}\">  校外访问控制系统</a><br />",
+  "notice": "",
+  "accessurl": ""
+ },
+ {
+  "mmsid": "991021764100903966",
+  "name": "CSMAR Fama-French因子数据库",
+  "lang": "chi",
+  "type": "数据事实;工具类",
+  "ext": "子库",
+  "sub": "经济学",
+  "intro": "收录有关Fama-French三因子模型、五因子模型日、周、月频数据，重要字段：市场风险溢价因子、市值因子、账面市值比因子、盈利能力因子、投资模式因子。",
+  "tier": "T1",
+  "urls": [
+   "http://tlink.lib.tsinghua.edu.cn/go?url=https://data.csmar.com/"
+  ],
+  "mirror": [],
+  "other": [],
+  "offcampus": "本库可通过以下方式实现校外远程访问<br />①<a href=\"http://tlink.lib.tsinghua.edu.cn/go?url=https://data.csmar.com/\">  智能网关</a><br />②<a target=\"_blank\" href=\"${global.offcampus.exproxy}\">  校外访问控制系统</a><br />",
+  "notice": "<p>开始检索前， 请注册/登录个人账号，有关说明见&ldquo;<a href=\"https://ecollection.lib.tsinghua.edu.cn/databaseguide/guide/file/3e3b8b09bc25449a86e1c2922ae3846c\">CSMAR数据库使用指南</a>&rdquo;。</p>",
+  "accessurl": ""
+ },
+ {
+  "mmsid": "991021761517203966",
+  "name": "iresearch爱学术",
+  "lang": "eng",
+  "type": "图书",
+  "ext": "主库",
+  "sub": "综合",
+  "intro": "Iresearchbook（爱学术）电子书库是中国教育图书进出口有限公司打造的外文电子书集成平台。 截至2019年9月，数据库已收录12万种学术类电子图书，并持续增加。上线电子书涉及英语、德语、法语、西班牙语、葡萄牙语、阿拉伯语、意大利语、俄语等十余种语言，内容覆盖了人文社科、理工、医学等学科领域。2020年我馆订购爱学术平台黑格尔研究专辑。",
+  "tier": "T1",
+  "urls": [
+   "http://tlink.lib.tsinghua.edu.cn/go?url=https://www.iresearchbook.cn/f/"
+  ],
+  "mirror": [],
+  "other": [],
+  "offcampus": "<p>本库可通过以下方式实现校外远程访问<br />①<a href=\"http://tlink.lib.tsinghua.edu.cn/go?url=https://www.iresearchbook.cn/f/\"> 智能网关</a><br />②<a href=\"${global.offcampus.exproxy}\" target=\"_blank\" rel=\"noopener\"> 校外访问控制系统</a><br />③ 通过CARIS登录访问（<a href=\"/databaseguide/guide/file/b077cd89ba5744cabedda68b48ed2c1a\">访问指南</a>）</p>",
+  "notice": "<p>&nbsp;1. 在线阅读建议浏览器及时升级。&nbsp; &nbsp; &nbsp;</p>\n<p>&nbsp;2. 黑格尔研究专辑在线并发用户数为1。&nbsp; &nbsp; &nbsp;</p>",
+  "accessurl": ""
+ },
+ {
+  "mmsid": "991021498917703966",
+  "name": "ProQuest Ebook Central",
+  "lang": "eng",
+  "type": "图书",
+  "ext": "主库",
+  "sub": "综合",
+  "intro": "Ebook Central（简称EBC), 汇集原Ebook Library(EBL)、Ebrary、MyiLibrary三大平台电子书资源, 是一个综合性的电子书平台，收录全球1000多家世界知名综合性出版社、大学出版社、学术团体出版社（学会、协会、研究中心等）、教科书出版社、专业出版社、参考工具书出版社、国际组织与政府组织出版社出版的超过150万种电子书，其中DRM Free书目超过28万种,内容覆盖科学、技术、医学、社会科学、经济管理、哲学与宗教、心理学、教育学、法学、语言学、文学、历史学、地理学、艺术等学科，涉及英语、德语、西班牙语、法语、阿拉伯语、日语、意大利语、俄语等60多种语言。",
+  "tier": "T1",
+  "urls": [
+   "http://tlink.lib.tsinghua.edu.cn/go?url=https://ebookcentral.proquest.com/lib/tsinghua/home.action"
+  ],
+  "mirror": [],
+  "other": [],
+  "offcampus": "<p>本库可通过以下方式实现校外远程访问<br />①<a href=\"http://tlink.lib.tsinghua.edu.cn/go?url=https://ebookcentral.proquest.com/lib/tsinghua/home.action\" target=\"_blank\" rel=\"noopener\"> 智能网关</a><br />②<a href=\"${global.offcampus.exproxy}\" target=\"_blank\" rel=\"noopener\"> 校外访问控制系统</a><br />③<a href=\"${global.offcampus.myloft.url}\" target=\"_blank\" rel=\"noopener\">&nbsp;MyLoft远程访问插件</a>（<a href=\"${global.offcampus.myloftpdf.url}\" target=\"_blank\" rel=\"noopener\">注册安装指南</a>）<br />④ 校内IP注册个人账号，可在校外登录使用</p>",
+  "notice": "<p>1. 在线阅读请使用Google Chrome浏览器，使用IE浏览器可能会出现无法阅读全文的情况。<br />2. 如需下载资源，请先注册个人账号。登录个人帐号之后，才可按章节下载，或按页码下载（每本书的可下载页数各不相同），还可以下载全文，所下载的全文需要使用Adobe Digital Editions工具阅读，有效期不超过21天（注：部分电子书不支持全部下载），可以打印部分页面，不同书可打印页数各不相同。未注册用户可点击页面右上角的&ldquo;Sign in&rdquo;，再点击&ldquo;Join Ebook Central&rdquo;自行注册设置用户名和密码。<span style=\"color: #ba372a;\"><strong>原ebrary账号需重新在EBC注册方可生效，但bookself中的信息不会丢失，请按系统提示导入EBC账号即可。</strong></span></p>\n<p>3. 注册账号时，密码最少为 8 个字符，请勿使用空格。</p>\n<p>4. 由读者荐购并成功加购的图书并发用户数仅为1，下载阅读周期为7天，7天后其他读者可继续下载阅读。<br />5. 图书页面中，图书封面下含有&ldquo;request&rdquo;按钮的书即为图书馆并未订购的电子书，读者仅可阅读5分钟。如需进一步下载阅读，请点击&ldquo;request&rdquo;按钮，按提示填写相关信息并提交申请，审批结果会以邮件的形式回复给读者。<br />6. EBC会不定期增、删部分图书，您在使用该数据库过程中遇到问题时，请及时与责任馆员联系。</p>",
+  "accessurl": ""
+ }
+]

@@ -1,0 +1,547 @@
+[
+ {
+  "mmsid": "991021498915703966",
+  "name": "爱如生 中国基本古籍库",
+  "lang": "chi",
+  "type": "古籍",
+  "ext": "主库",
+  "sub": "历史学",
+  "intro": "《中国基本古籍库》精选先秦至民国的历代重要典籍，包括流传千古的名著、各学科基本文献以及罕见而实用的特殊著作等，分为4个子库、20个大类、100个细目。各取通行善本全文录入，另附一至二个珍贵版本影像做为参考。其收录范围涵盖全部中国历史与文化，总计收书10,000部、20万卷，版本14,000个、30万卷，影像1,200万页、录文18亿字。",
+  "tier": "T1",
+  "urls": [],
+  "mirror": [],
+  "other": [],
+  "offcampus": "<p>本库可通过以下方式实现校外远程访问<br />①<a href=\"https://software.tsinghua.edu.cn/helpsystem/sslvpn/aTrustForPCClientUserGuide202512.pdf\" target=\"_blank\" rel=\"noopener\">清华大学SSL VPN服务</a></p>",
+  "notice": "<p>1.《中国基本古籍库》当前只有10个并发用户数，请检索后尽快退出，以便其他用户登录。</p>\n<p>2.镜像版适用于中、英、日、韩等多语种Windows2000/2003/XP/Vista/2008/Windows7/Win10/Win11操作系统。要求1024&times;768&times;16以上显示模式。不支持Mac OS和Linux OS系统。</p>\n<p>3.在校外使用时，需要下载安装<a href=\"https://software.tsinghua.edu.cn/helpsystem/sslvpn/aTrustForPCClientUserGuide202512.pdf\" target=\"_blank\" rel=\"noopener\">SSL VPN</a>客户端。安装好以后，先用INFO账号登录SSL VPN客户端，再登录数据库客户端（用户名/密码：thlib）。&nbsp;</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>",
+  "accessurl": ""
+ },
+ {
+  "mmsid": "991022147090803966",
+  "name": "百年华文: 限量复制民国图书数据库",
+  "lang": "chi",
+  "type": "古籍",
+  "ext": "主库，赠送库",
+  "sub": "历史学;文学",
+  "intro": "《限量复制民国时期图书》是《百年华文人文社会科学学术图书要目》项目中两大子项目中的一个，是高校图工委文献资源建设工作组自2005年开始，汲取我国近几十年来民国时期图书目录的整理成果,组织一批重点高校图书馆的专业馆员系统搜集整理书目并选择了一批人文社会科学学术图书予以限量复制，这些图书基本上反映了我国民国时期学术图书出版和近现代文学作品出版的总体水平状况。其中包括了四个系列的民国图书：1、《民国籍粹》；2、《中国近现代翻译文学作品》；3、《中国近现代本土文学作品》；4、《民国时期文献资料海外拾遗》。这四个系列共计复制了16726种，18249册图书。",
+  "tier": "T1",
+  "urls": [
+   "http://tlink.lib.tsinghua.edu.cn/go?url=http://bnhw.hwshu.com/"
+  ],
+  "mirror": [],
+  "other": [],
+  "offcampus": "本库可通过以下方式实现校外远程访问<br />①<a href=\"http://tlink.lib.tsinghua.edu.cn/go?url=http://bnhw.hwshu.com/\">  智能网关</a><br />②<a target=\"_blank\" href=\"${global.offcampus.exproxy}\">  校外访问控制系统</a><br />",
+  "notice": "<p>1.检索字段：可以检索题名、作者、摘要、出版社等多项图书数据相关信息，并在检索结果显示中注明关键词出现的频次。<br />2.全文检索与下载：无需注册登录即可使用全文检索与下载功能。每次下载不超过50页，每个用户单位（学校或机构）每天的下载总量不超过1000页。下载页码可按需求随意输入页码，如&ldquo;2，4，15-21，34-36，72&rdquo;。<br />3.书目信息导出： 选择&ldquo;导出本页检索结果&rdquo;按钮，可将当前页显示的检索结果批量导出。导出单本图书书目信息时，可选择&ldquo;本机下载&rdquo;和&ldquo;发送邮件&rdquo;选项。<br />4.访问方式：IP限制，无并发用户数限制。</p>\n<p>5.如需在校外使用，请通过<a href=\"http://tlink.lib.tsinghua.edu.cn/go?url=http://www.hwshu.com/front/index/toindex.do\">智能网关</a>或<a href=\"https://eproxy.lib.tsinghua.edu.cn/\">校外访问控制系统</a>登录。</p>",
+  "accessurl": ""
+ },
+ {
+  "mmsid": "991021779475503966",
+  "name": "中国心理学预印本平台",
+  "lang": "chi",
+  "type": "论文",
+  "ext": "主库",
+  "sub": "教育学",
+  "intro": "预印本是尚未公开的研究论文的完整手稿。中国心理学预印本平台PsyChinaXiv创建于2018年，用于公开发布国内外心理学研究预印本论文，以利于快速分享研究成果，推动心理学研究成果的开放获取和广泛交流，构建一个公平公开、迅捷便利的普惠型学术交流新模式。  PsyChinaXiv为ChinaXiv的子平台，为中国科学院心理研究所与ChinaXiv共建。ChinaXiv的介绍请见http://www.chinaxiv.org 。",
+  "tier": "T1",
+  "urls": [
+   "http://psych.chinaxiv.org/server/index.htm"
+  ],
+  "mirror": [],
+  "other": [],
+  "offcampus": "<p>本库为网络免费资源，校外可直接访问。</p>",
+  "notice": "",
+  "accessurl": ""
+ },
+ {
+  "mmsid": "991021558927403966",
+  "name": "律商网",
+  "lang": "chi",
+  "type": "数据事实;实物手册;法律法规;裁判文书;案例",
+  "ext": "主库",
+  "sub": "法学",
+  "intro": "律商网（Lexis China）是律商联讯LexisNexis在中国推出的法律信息数据库。",
+  "tier": "T1",
+  "urls": [
+   "http://tlink.lib.tsinghua.edu.cn/go?url=https://hk.lexiscn.com/"
+  ],
+  "mirror": [],
+  "other": [],
+  "offcampus": "<p>本库可通过以下方式实现校外远程访问<br />①<a href=\"http://tlink.lib.tsinghua.edu.cn/go?url=https://hk.lexiscn.com/\"> 智能网关</a><br />②<a href=\"${global.offcampus.exproxy}\" target=\"_blank\" rel=\"noopener\"> 校外访问控制系统</a></p>\n<p>&nbsp;</p>",
+  "notice": "",
+  "accessurl": [
+   {
+    "v": "http://www.lawyee.org/default.html",
+    "url": "http://edu.lawyee.net/"
+   }
+  ]
+ },
+ {
+  "mmsid": "991021558926903966",
+  "name": "商务数据库 进出口货物贸易数据分库",
+  "lang": "chi",
+  "type": "数据事实",
+  "ext": "主库",
+  "sub": "经济学",
+  "intro": "本数据库提供中国目前全部42个直属海关每月进出口货物的量、值数据查询。本数据是反映各省市外贸发展情况最有价值的数据，同时，也是该地区某种商品进出口最精准的情报信息。",
+  "tier": "T1",
+  "urls": [
+   "http://tlink.lib.tsinghua.edu.cn/go?url=http://data.51ccd.com/"
+  ],
+  "mirror": [],
+  "other": [],
+  "offcampus": "本库可通过以下方式实现校外远程访问<br />①<a href=\"http://tlink.lib.tsinghua.edu.cn/go?url=http://data.51ccd.com/\">  智能网关</a><br />②<a target=\"_blank\" href=\"${global.offcampus.exproxy}\">  校外访问控制系统</a><br />",
+  "notice": "<p>校园IP范围内访问数据库，直接点击&ldquo;免登录访问&rdquo;。</p>",
+  "accessurl": ""
+ },
+ {
+  "mmsid": "991021764061003966",
+  "name": "中国微观经济数据查询系统 海关企业数据库",
+  "lang": "chi",
+  "type": "数据事实;工具类",
+  "ext": "子库",
+  "sub": "经济学",
+  "intro": "收录发生进出口的中国企业数据，数据来源于进出口企业提交给海关总署的贸易数据，每年记录在1000万条以上。统计字段主要有企业基本信息、HS商品（8位码）、收发货地、中转国、产销国、海关口岸、贸易方式、运输方式等，可用于研究中国企业的国际贸易行为。",
+  "tier": "T1",
+  "urls": [
+   "http://tlink.lib.tsinghua.edu.cn/go?url=http://microdata.sozdata.com/#/custom_index"
+  ],
+  "mirror": [],
+  "other": [],
+  "offcampus": "本库可通过以下方式实现校外远程访问<br />①<a href=\"http://tlink.lib.tsinghua.edu.cn/go?url=http://microdata.sozdata.com/#/custom_index\">  智能网关</a><br />②<a target=\"_blank\" href=\"${global.offcampus.exproxy}\">  校外访问控制系统</a><br />",
+  "notice": "<p>&nbsp; &nbsp;&nbsp;1. 通过数据库主页右上角&ldquo;身份认证&rdquo;的个人，享有更高的&ldquo;单次最大下载量&rdquo;。<br />&nbsp;&nbsp;&nbsp;&nbsp;2. 查询到的数据、图表可以导出到Excel。<br />&nbsp;&nbsp;&nbsp;&nbsp;3. 为保证全校用户的使用，读者在学习研究过程中如有大量数据需求，可以联系EPS公司提供数据定制服务，请不要集中大量下载数据。（联系方式：<a href=\"mailto:service@epsnet.com.cn\">service@epsnet.com.cn</a>）</p>",
+  "accessurl": ""
+ },
+ {
+  "mmsid": "991021498941303966",
+  "name": "中宏数据库 中宏产业研究平台",
+  "lang": "chi",
+  "type": "数据事实",
+  "ext": "子库",
+  "sub": "经济学;管理学",
+  "intro": "中宏产业数据库数据来自国家统计局、国家发改委、海关总署、各行业主管部门和行业协会等单位的统计资料。",
+  "tier": "T1",
+  "urls": [
+   "http://tlink.lib.tsinghua.edu.cn/go?url=http://mcin.macrochina.cn/"
+  ],
+  "mirror": [],
+  "other": [],
+  "offcampus": "本库可通过以下方式实现校外远程访问<br />①<a href=\"http://tlink.lib.tsinghua.edu.cn/go?url=http://mcin.macrochina.cn/\">  智能网关</a><br />②<a target=\"_blank\" href=\"${global.offcampus.exproxy}\">  校外访问控制系统</a><br />③<a target=\"_blank\" href=\"${global.offcampus.myloft.url}\">  MyLoft远程访问插件</a>（<a target=\"_blank\" href=\"${global.offcampus.myloftpdf.url}\">注册安装指南</a>）<br />",
+  "notice": "",
+  "accessurl": ""
+ },
+ {
+  "mmsid": "991021498941803966",
+  "name": "读览天下",
+  "lang": "chi",
+  "type": "报纸;期刊",
+  "ext": "主库",
+  "sub": "综合",
+  "intro": "收录超过2000个品种的综合性人文大众类期刊10000册以上，内容涵盖新闻人物、商业财经、运动健康、时尚生活、娱乐休闲、教育科技、文化艺术等领域。知名期刊包括百科知识、海外文摘、足球报、电脑报、服饰与美容、智族、摄影之友、影像视觉、瞭望东方周刊、中国经济周刊、经理人、互联网周刊、21世纪商业评论等。读览天下是数字杂志阅读平台，用户可以通过PC、iPhone、iPad、Android等多种平台自由阅读。读览天下-清华网站：http://qinghuadx.dooland.com/site/，清华专版客户端阅读：http://qinghuadx.dooland.com/site/dudubao/qh_index.php。",
+  "tier": "T1",
+  "urls": [
+   "http://qinghuadx.dooland.com/site/",
+   "http://qinghuadx.dooland.com/site/dudubao/qh_index.php"
+  ],
+  "mirror": [],
+  "other": [],
+  "offcampus": "本库主站点1,可通过以下方式实现校外远程访问<br />①<a target=\"_blank\" href=\"${global.offcampus.exproxy}\">  校外访问控制系统</a><br />",
+  "notice": "",
+  "accessurl": [
+   {
+    "v": "221",
+    "url": "https://lib-tsinghua.wqxuetang.com/#/"
+   }
+  ]
+ },
+ {
+  "mmsid": "991021774926503966",
+  "name": "全国报刊索引",
+  "lang": "chi",
+  "type": "期刊;报纸",
+  "ext": "主库",
+  "sub": "人文社科综合",
+  "intro": "《全国报刊索引数据库》由上海图书馆制作完成，收录资源包括晚清及民国时期出版的大部分期刊和部分报纸，内容涵盖政治、军事、外交、经济、教育、思想文化、科学、宗教等各方面的资料。该数据库采用原件扫描，人机交互界面友好，用户可从标题、作者、刊名等途径对文章进行检索、浏览并下载全文影像，史料珍贵，内容丰富，检索便捷，使用方便，对研究晚清以来的社会变革有较强的参考作用。",
+  "tier": "T1",
+  "urls": [
+   "http://tlink.lib.tsinghua.edu.cn/go?url=http://www.cnbksy.com/"
+  ],
+  "mirror": [
+   "http://tlink.lib.tsinghua.edu.cn/go?url=http://166.111.120.225:8090/"
+  ],
+  "other": [],
+  "offcampus": "本库主站点,可通过以下方式实现校外远程访问<br />①<a href=\"http://tlink.lib.tsinghua.edu.cn/go?url=http://www.cnbksy.com/\">  智能网关</a><br />②<a target=\"_blank\" href=\"${global.offcampus.exproxy}\">  校外访问控制系统</a><br />本库镜像站点,可通过以下方式实现校外远程访问<br />①<a href=\"http://tlink.lib.tsinghua.edu.cn/go?url=http://166.111.120.225:8090/\">  智能网关</a><br />",
+  "notice": "<p>1.软件及硬件环境</p>\n<p>&nbsp; 操作系统：中文版Microsoft Windows 2003 Server (Server Pack2)64位或以上版本操作系统。浏览器： IE7.0或以上版本、Mozila firefox3.0或以上版本。</p>\n<p>2.最大并发用户为50个。</p>",
+  "accessurl": ""
+ },
+ {
+  "mmsid": "991023355234403966",
+  "name": "全国报刊索引 民国日报",
+  "lang": "chi",
+  "type": "报纸",
+  "ext": null,
+  "sub": "人文社科综合",
+  "intro": "《民国日报》是近代中国有着较大影响的报纸之一。1916年1月22日《民国日报》在上海创刊，主事者为邵力子及叶楚伧，是中华革命党宣传革命主张的主要舆论阵地，一经问世便风行全国；1924年中国国民党 “一大”后成为国民党中央机关报；1932年1月短暂停刊，同年5月更名为《民报》继续出版，至1937年底停刊；1945年10月6日以原名复刊；1947年停刊。 《全国报刊索引》完成《民国日报》数字化100,000版，完整收录《民国日报》从创刊至终刊的所有版面（1916-1947年）。",
+  "tier": "T1",
+  "urls": [
+   "http://tlink.lib.tsinghua.edu.cn/go?url=https://www.cnbksy.com/v2/news/productDescription?id=204&isProduct=false"
+  ],
+  "mirror": [
+   "http://tlink.lib.tsinghua.edu.cn/go?url=http://166.111.120.225:8090/"
+  ],
+  "other": [],
+  "offcampus": "本库主站点,可通过以下方式实现校外远程访问<br />①<a href=\"http://tlink.lib.tsinghua.edu.cn/go?url=https://www.cnbksy.com/v2/news/productDescription?id=204&isProduct=false\">  智能网关</a><br />②<a target=\"_blank\" href=\"${global.offcampus.exproxy}\">  校外访问控制系统</a><br />本库镜像站点,可通过以下方式实现校外远程访问<br />①<a href=\"http://tlink.lib.tsinghua.edu.cn/go?url=http://166.111.120.225:8090/\">  智能网关</a><br />",
+  "notice": "<p>1.软件及硬件环境<br />&nbsp; 操作系统：中文版Microsoft Windows 2003 Server (Server Pack2)64位或以上版本操作系统。浏览器： IE7.0或以上版本、Mozila firefox3.0或以上版本。<br />2.最大并发用户数为5个。</p>",
+  "accessurl": ""
+ },
+ {
+  "mmsid": "991023355234203966",
+  "name": "全国报刊索引 时事新报",
+  "lang": "chi",
+  "type": "报纸",
+  "ext": null,
+  "sub": "人文社科综合",
+  "intro": "《时事新报》与《申报》《新闻报》《时报》并称为上海“四大报”，梁启超誉其为护国军时期“唯一之言论机关”。该报缘起于1907年创刊的《时事报》与1908年创办的《舆论日报》，1911年5月18日正式更名为《时事新报》，英文名称为The China Times；1937年11月因战事停刊，次年4月迁至重庆出版；1945年9月27日在上海复刊，同时重庆版继续出版；1947年3月21 日上海版改为晚刊，至1949年5月终刊；重庆版至1948年12月终刊。上海图书馆《全国报刊索引》完成《时事新报》数字化147,000版，收录《时事新报》从创刊至终刊的所有版面。",
+  "tier": "T1",
+  "urls": [
+   "http://tlink.lib.tsinghua.edu.cn/go?url=https://www.cnbksy.com/v2/news/productDescription?id=464&isProduct=false"
+  ],
+  "mirror": [
+   "http://tlink.lib.tsinghua.edu.cn/go?url=http://166.111.120.225:8090/"
+  ],
+  "other": [],
+  "offcampus": "本库主站点,可通过以下方式实现校外远程访问<br />①<a href=\"http://tlink.lib.tsinghua.edu.cn/go?url=https://www.cnbksy.com/v2/news/productDescription?id=464&isProduct=false\">  智能网关</a><br />②<a target=\"_blank\" href=\"${global.offcampus.exproxy}\">  校外访问控制系统</a><br />本库镜像站点,可通过以下方式实现校外远程访问<br />①<a href=\"http://tlink.lib.tsinghua.edu.cn/go?url=http://166.111.120.225:8090/\">  智能网关</a><br />",
+  "notice": "<p style=\"margin-top: 0pt; margin-bottom: 0pt; line-height: 20pt; background: #ffffff; text-align: left; font-family: 宋体; font-size: 12pt;\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">1.软件及硬件环境</span></p>\n<p style=\"margin-top: 0pt; margin-bottom: 0pt; line-height: 20pt; background: #ffffff; text-align: left; font-family: 宋体; font-size: 12pt;\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">&nbsp; 操作系统：中文版Microsoft Windows 2003 Server (Server Pack2)64位或以上版本操作系统。浏览器： IE7.0或以上版本、Mozila firefox3.0或以上版本。</span></p>\n<p style=\"margin-top: 0pt; margin-bottom: 0pt; line-height: 20pt; background: #ffffff; text-align: left; font-family: 宋体; font-size: 12pt;\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">2.最大并发用户数为5个。</span></p>",
+  "accessurl": ""
+ },
+ {
+  "mmsid": "991021537725803966",
+  "name": "中国近代报刊数据库 申报　",
+  "lang": "chi",
+  "type": "报纸",
+  "ext": "子库（主库未揭示）",
+  "sub": "人文社科综合",
+  "intro": "《中国近代报刊全文数据库》由台湾得泓公司研发，本馆购买了其《申报》全文数据库。《申报》是近代中国发行时间最久、具有广泛社会影响的报纸，创刊于清同治十一年三月二十三日（1872年4月30日），创办人为英商安纳斯脱•美查（Ernest Major），1949年5月27日停刊，前后总计延续77年，记录从清末到民国近80年间政治、军事、经济、文化、社会各方面情况，具有很高的史料价值，被称为近现代史的百科全书。《申报》数据库共收录报纸25,600期，共计470,000版。",
+  "tier": "T1",
+  "urls": [
+   "http://tlink.lib.tsinghua.edu.cn/go?url=http://tk.cepiec.com.cn/SP/"
+  ],
+  "mirror": [],
+  "other": [],
+  "offcampus": "本库可通过以下方式实现校外远程访问<br />①<a href=\"http://tlink.lib.tsinghua.edu.cn/go?url=http://tk.cepiec.com.cn/SP/\">  智能网关</a><br />②<a target=\"_blank\" href=\"${global.offcampus.exproxy}\">  校外访问控制系统</a><br />③<a target=\"_blank\" href=\"${global.offcampus.myloft.url}\">  MyLoft远程访问插件</a>（<a target=\"_blank\" href=\"${global.offcampus.myloftpdf.url}\">注册安装指南</a>）<br />",
+  "notice": "<p>1.无并发用户限制。</p>\n<p>&nbsp;</p>",
+  "accessurl": ""
+ },
+ {
+  "mmsid": "991021764101803966",
+  "name": "CSMAR 中国海外上市公司研究数据库",
+  "lang": "chi",
+  "type": "数据事实;工具类",
+  "ext": "子库",
+  "sub": "经济学",
+  "intro": "收录1999 年以来在海外不同交易所各个板块中挂牌上市的中国公司的公司基本情况、上市情况、资产负债表文件、利润表文件、现金流量表等内容。重要字段：中国海外上市公司股票总览表、最新海外上市公司基本信息表、中国海外上市公司基本信息变动表、资产负债表、利润表、现金流量表。",
+  "tier": "T1",
+  "urls": [
+   "http://tlink.lib.tsinghua.edu.cn/go?url=https://data.csmar.com/"
+  ],
+  "mirror": [],
+  "other": [],
+  "offcampus": "本库可通过以下方式实现校外远程访问<br />①<a href=\"http://tlink.lib.tsinghua.edu.cn/go?url=https://data.csmar.com/\">  智能网关</a><br />②<a target=\"_blank\" href=\"${global.offcampus.exproxy}\">  校外访问控制系统</a><br />",
+  "notice": "<p class=\"MsoNormal\">开始检索前， 请注册/登录个人账号，有关说明见&ldquo;<a href=\"https://ecollection.lib.tsinghua.edu.cn/databaseguide/guide/file/3e3b8b09bc25449a86e1c2922ae3846c\">CSMAR数据库使用指南</a>&rdquo;。</p>",
+  "accessurl": ""
+ },
+ {
+  "mmsid": "991021764101203966",
+  "name": "CSMAR 中国上市公司人物特征研究数据库",
+  "lang": "chi",
+  "type": "数据事实;工具类",
+  "ext": "子库",
+  "sub": "经济学",
+  "intro": "收录上市公司董监高团队成员的基本特征、背景特征、以及任职期间兼任信息等多个方面，其中背景特征包含金融背景、学术背景、海外背景、职业背景。数据全面、字段设计科学，真实准确揭示了上市公司董监高团队的个人及团队特征。",
+  "tier": "T1",
+  "urls": [
+   "http://tlink.lib.tsinghua.edu.cn/go?url=https://data.csmar.com/"
+  ],
+  "mirror": [],
+  "other": [],
+  "offcampus": "本库可通过以下方式实现校外远程访问<br />①<a href=\"http://tlink.lib.tsinghua.edu.cn/go?url=https://data.csmar.com/\">  智能网关</a><br />②<a target=\"_blank\" href=\"${global.offcampus.exproxy}\">  校外访问控制系统</a><br />",
+  "notice": "<p>开始检索前， 请注册/登录个人账号，有关说明见&ldquo;<a href=\"https://ecollection.lib.tsinghua.edu.cn/databaseguide/guide/file/3e3b8b09bc25449a86e1c2922ae3846c\">CSMAR数据库使用指南</a>&rdquo;。</p>",
+  "accessurl": ""
+ },
+ {
+  "mmsid": "991023118828603966",
+  "name": "EPS数据平台 区域行业贸易数据库",
+  "lang": "chi",
+  "type": "数据事实",
+  "ext": "子库",
+  "sub": "经济学",
+  "intro": "区域行业贸易数据库，底层数据来源于中国海关、联合国统计司，此数据库提供了中国31个省、自治区、直辖市及国家间的国民经济行业2017不同贸易方式对世界多个国家与地区的进出口统计数据。主要指标涵盖了进口、出口、进出口的第一数量、金额的年（月）度数据，全方位、深层次地展示区域间行业的贸易情况，对于了解、追踪我国各地区的对外或国家间贸易结构，研究、分析行业贸易发展趋势具有重要意义。 说明：数据是EPS实验室通过研究构建了HS2017与国民经济行业2017的对应关系汇总统计而来",
+  "tier": "T1",
+  "urls": [
+   "http://tlink.lib.tsinghua.edu.cn/go?url=https://olap.epsnet.com.cn/#/datas_data?cubeId=10017"
+  ],
+  "mirror": [],
+  "other": [],
+  "offcampus": "本库可通过以下方式实现校外远程访问<br />①<a href=\"http://tlink.lib.tsinghua.edu.cn/go?url=https://olap.epsnet.com.cn/#/datas_data?cubeId=10017\">  智能网关</a><br />②<a target=\"_blank\" href=\"${global.offcampus.exproxy}\">  校外访问控制系统</a><br />",
+  "notice": "",
+  "accessurl": ""
+ },
+ {
+  "mmsid": "991021764065703966",
+  "name": "EPS数据平台 世界贸易数据库",
+  "lang": "chi",
+  "type": "数据事实",
+  "ext": "子库",
+  "sub": "经济学",
+  "intro": "收录国际海关组织的多种商品分类标准数据查询，包括  HS1992、 HS1996、HS2002、HS2007、HS2012多个子库，已经覆盖多个国家、地区和经济体，6000多种HS2、HS4、HS6位编码商品的年度进出口数据。主要数据指标有：进口、出口、进出口、贸易差额、贸易总额等。数据起始于1992年，年度更新。",
+  "tier": "T1",
+  "urls": [
+   "http://tlink.lib.tsinghua.edu.cn/go?url=http://olap.epsnet.com.cn/transform.html?cubeId=6"
+  ],
+  "mirror": [],
+  "other": [],
+  "offcampus": "本库可通过以下方式实现校外远程访问<br />①<a href=\"http://tlink.lib.tsinghua.edu.cn/go?url=http://olap.epsnet.com.cn/transform.html?cubeId=6\">  智能网关</a><br />②<a target=\"_blank\" href=\"${global.offcampus.exproxy}\">  校外访问控制系统</a><br />",
+  "notice": "",
+  "accessurl": ""
+ },
+ {
+  "mmsid": "991021764068703966",
+  "name": "EPS数据平台 中国旅游数据库",
+  "lang": "chi",
+  "type": "数据事实",
+  "ext": "子库",
+  "sub": "经济学",
+  "intro": "收录入境旅游、国际旅游（外汇）收入、城镇农村居民国内旅游、星级饭店、旅行社、旅游景区和旅游企事业单位的年度、季度和月度数据。主要指标涵盖：入境旅游人数、国际旅游（外汇）收入、城镇与农村居民国内旅游情况、星级饭店基本情况、旅行社情况、旅游从业者情况和旅游院校情况。数据起始于1978年，年度、季度、月度更新。",
+  "tier": "T1",
+  "urls": [
+   "http://tlink.lib.tsinghua.edu.cn/go?url=http://olap.epsnet.com.cn/transform.html?cubeId=1141"
+  ],
+  "mirror": [],
+  "other": [],
+  "offcampus": "本库可通过以下方式实现校外远程访问<br />①<a href=\"http://tlink.lib.tsinghua.edu.cn/go?url=http://olap.epsnet.com.cn/transform.html?cubeId=1141\">  智能网关</a><br />②<a target=\"_blank\" href=\"${global.offcampus.exproxy}\">  校外访问控制系统</a><br />",
+  "notice": "",
+  "accessurl": ""
+ },
+ {
+  "mmsid": "991021774928503966",
+  "name": "高校财经数据库 INFOBANK环球商讯库　",
+  "lang": "chi",
+  "type": "数据事实",
+  "ext": "子库",
+  "sub": "经济学",
+  "intro": "收录China INFOBANK网站自1998年以来实时播发的“环球商讯”的全部新闻文献。INFOBANK每日对八大领域的重要资讯进行精选自主编辑，为用户提供精选资讯供参阅。（具体包括：中国要闻、国际要闻、金融要闻、商业要闻、科技要闻、社会新闻、港澳快讯、台湾新闻）。本数据库实时更新。",
+  "tier": "T1",
+  "urls": [
+   "http://tlink.lib.tsinghua.edu.cn/go?url=http://www.infobank.cn/IrisBin/Select.dll?Special?db=KX"
+  ],
+  "mirror": [],
+  "other": [],
+  "offcampus": "本库可通过以下方式实现校外远程访问<br />①<a href=\"http://tlink.lib.tsinghua.edu.cn/go?url=http://www.infobank.cn/IrisBin/Select.dll?Special?db=KX\">  智能网关</a><br />②<a target=\"_blank\" href=\"${global.offcampus.exproxy}\">  校外访问控制系统</a><br />",
+  "notice": "<p>1.该系统提供内容分析功能。利用的方法是：进入高校财经数据库，在页面的下方找到&ldquo;热点分析&rdquo;， 分别输入热点名称和关键词，选定时间段，然后开始进行分析。检索系统则根据输入的关键词搜索《中国经济新闻库》中的匹配文章，自动绘制出时间段内的折线图、饼图、柱状图。&nbsp;该功能的适用浏览器： 谷歌、360、搜狗、火狐。<br />2.全文显示为文本格式。&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<br />3.如在公休日出现数据库不能使用的情况，请联系中国资讯行：13001976440（熊滔）。<br />4.共有30个并发用户数。</p>",
+  "accessurl": ""
+ },
+ {
+  "mmsid": "991021774929403966",
+  "name": "高校财经数据库 中国经济新闻库　",
+  "lang": "chi",
+  "type": "数据事实",
+  "ext": "子库",
+  "sub": "经济学",
+  "intro": "收录中国范围内及相关的海外商业经济信息，以消息报导为主，数据源自中国千余种报章与期刊及部分合作伙伴提供的专业信息，按行业及地域分类，共包含19个领域197个类别。本数据库每日更新。",
+  "tier": "T1",
+  "urls": [
+   "http://tlink.lib.tsinghua.edu.cn/go?url=http://www.infobank.cn/irisbin/select.dll?special?db=HK"
+  ],
+  "mirror": [],
+  "other": [],
+  "offcampus": "本库可通过以下方式实现校外远程访问<br />①<a href=\"http://tlink.lib.tsinghua.edu.cn/go?url=http://www.infobank.cn/irisbin/select.dll?special?db=HK\">  智能网关</a><br />②<a target=\"_blank\" href=\"${global.offcampus.exproxy}\">  校外访问控制系统</a><br />",
+  "notice": "<p>1.该系统提供内容分析功能。利用的方法是：进入高校财经数据库，在页面的下方找到&ldquo;热点分析&rdquo;， 分别输入热点名称和关键词，选定时间段，然后开始进行分析。检索系统则根据输入的关键词搜索《中国经济新闻库》中的匹配文章，自动绘制出时间段内的折线图、饼图、柱状图。&nbsp;该功能的适用浏览器： 谷歌、360、搜狗、火狐。<br />2.全文显示为文本格式。<br />3.如在公休日出现数据库不能使用的情况，请联系中国资讯行：13001976440（熊滔）。<br />4.共有30个并发用户数。</p>",
+  "accessurl": ""
+ },
+ {
+  "mmsid": "991021774929003966",
+  "name": "高校财经数据库 中国统计数据库　",
+  "lang": "chi",
+  "type": "数据事实",
+  "ext": "子库",
+  "sub": "经济学;理学",
+  "intro": "收录的数据大部分是自1995年以来国家及各省市地方统计局的统计年鉴及海关统计、经济统计快报、中国人民银行统计季报等月度及季度统计资料，其中部分数据可追溯至1949年，亦包括部分海外地区的统计数据。数据按行业及地域分类，数据日期以同一篇文献中的最后日期为准。例：《中国统计年鉴1999》中绝大部分为1998年的统计数字，数据时间即为19981231。本数据库定期更新。",
+  "tier": "T1",
+  "urls": [
+   "http://tlink.lib.tsinghua.edu.cn/go?url=http://www.infobank.cn/irisbin/select.dll?special?db=TJ"
+  ],
+  "mirror": [],
+  "other": [],
+  "offcampus": "本库可通过以下方式实现校外远程访问<br />①<a href=\"http://tlink.lib.tsinghua.edu.cn/go?url=http://www.infobank.cn/irisbin/select.dll?special?db=TJ\">  智能网关</a><br />②<a target=\"_blank\" href=\"${global.offcampus.exproxy}\">  校外访问控制系统</a><br />",
+  "notice": "<p>该库为<a href=\"http://www.bjinfobank.com/indexShow.do?method=index\">高校财经数据库</a>的子库。</p>",
+  "accessurl": ""
+ },
+ {
+  "mmsid": "991021498959803966",
+  "name": "大成故纸堆",
+  "lang": "chi",
+  "type": "图书;期刊;图文",
+  "ext": "主库",
+  "sub": "综合",
+  "intro": "《大成故纸堆全文数据库》是专门收录1949年前古旧资源的综合型数据库，包括《大成老旧刊全文数据库》《大成古籍文献全文数据库》《大成民国图书全文数据库》《中国各地古方志集》《中共党史期刊数据库（-1949）》《大成近现代报纸数据库》《大成老照片数据库》等7个子库，内容涉及文学、历史学、哲学、医学、艺术学、经济学、法学、教育学、农学等各个学科，是研究古代中国、近现代中国以及近代世界的重要资源。",
+  "tier": "T1",
+  "urls": [
+   "http://tlink.lib.tsinghua.edu.cn/go?url=http://www.dachengdata.com/"
+  ],
+  "mirror": [],
+  "other": [],
+  "offcampus": "本库可通过以下方式实现校外远程访问<br />①<a href=\"http://tlink.lib.tsinghua.edu.cn/go?url=http://www.dachengdata.com/\">  智能网关</a><br />②<a target=\"_blank\" href=\"${global.offcampus.exproxy}\">  校外访问控制系统</a><br />",
+  "notice": "<p>1.只提供题录检索。</p>\n<p>2.全文为图像格式，提供PDF全文下载。</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>",
+  "accessurl": ""
+ },
+ {
+  "mmsid": "991021959309803966",
+  "name": "大成故纸堆 中国各地古方志集",
+  "lang": "chi",
+  "type": "地方志;图书",
+  "ext": "子库",
+  "sub": "人文社科综合",
+  "intro": "《中国各地古方志集》收录了中华人民共和国建国前编纂出版的地方志共3400多种、5万多卷，基本上涵盖了全国各个地域，也收录了一些非行政区域志，既包括通志也包括断代志。所收录方志以民国和清朝刊本为主，也包括了不少宋朝和明朝刊本，对于方志学和相关的历史研究、地理演变，政治变迁、经济发展、社会学等都有重要的史料价值。",
+  "tier": "T1",
+  "urls": [
+   "http://tlink.lib.tsinghua.edu.cn/go?url=http://difangzhi.dachengdata.com"
+  ],
+  "mirror": [],
+  "other": [],
+  "offcampus": "本库可通过以下方式实现校外远程访问<br />①<a href=\"http://tlink.lib.tsinghua.edu.cn/go?url=http://difangzhi.dachengdata.com\">  智能网关</a><br />②<a target=\"_blank\" href=\"${global.offcampus.exproxy}\">  校外访问控制系统</a><br />",
+  "notice": "<div>\n<div>\n<p>1.只提供题录检索。</p>\n<p>2.全文为图像格式，提供PDF全文下载。</p>\n</div>\n</div>",
+  "accessurl": ""
+ },
+ {
+  "mmsid": "991021614034603966",
+  "name": "瀚文民国书库",
+  "lang": "chi",
+  "type": "图书",
+  "ext": "主库",
+  "sub": "综合",
+  "intro": "《瀚文民国书库》是北京瀚文典藏文化有限公司重点推出的中国近代（民国）电子图书全文数据库，收录自1900年前后至1949年之前出版的优秀图书，共约八万余种十二万余册。",
+  "tier": "T1",
+  "urls": [
+   "http://tlink.lib.tsinghua.edu.cn/go?url=http://www.hwshu.com/front/index/toindex.do"
+  ],
+  "mirror": [],
+  "other": [],
+  "offcampus": "<p>本库可通过以下方式实现校外远程访问<br />①<a href=\"http://tlink.lib.tsinghua.edu.cn/go?url=http://www.hwshu.com/front/index/toindex.do\"> 智能网关</a><br />②<a href=\"${global.offcampus.exproxy}\" target=\"_blank\" rel=\"noopener\"> <span style=\"color: #843fa1;\">校外访问控制系统</span></a></p>",
+  "notice": "<p><span style=\"font-size: 12pt;\">1.检索字段：提供题名、作者、出版社、出版时间、学科分类、章节目录等多项图书数据相关信息。支持多词全文检索，最多可同时检索3个关键词，并在检索结果显示中，按不同颜色分列，且注明关键词在页面中出现的频次。</span><br /><span style=\"font-size: 12pt;\">2.全文检索与下载：无需注册登录即可使用全文检索与下载功能。每次下载不超过50页，每个用户单位（学校或机构）每天的下载总量不超过5000页。下载页码可按需求随意输入页码，如&ldquo;2,4,15-21,34-36,72&rdquo;（使用英文标点） 。</span><br /><span style=\"font-size: 12pt;\">3.书目信息导出： 选择&ldquo;导出本页检索结果&rdquo;按钮，可将当前页显示的检索结果批量导出。导出单本图书书目信息时，可选择&ldquo;本机下载&rdquo;和&ldquo;发送邮件&rdquo;选项。</span><br /><span style=\"font-size: 12pt;\">4.用户中心：如果您需要使用&ldquo;用户中心&rdquo;中的各项功能，请（注册）登录后使用书库，书库将会根据注册信息显示阅读记录。</span><br /><span style=\"font-size: 12pt;\">5.访问方式：IP限制，无并发用户数限制。</span><br /><span style=\"font-size: 12pt;\">6.如需在校外使用，请通过<a href=\"http://tlink.lib.tsinghua.edu.cn/go?url=http://www.hwshu.com/front/index/toindex.do\">智能网关</a>或<span style=\"color: #843fa1;\"><a style=\"color: #843fa1;\" href=\"https://eproxy.lib.tsinghua.edu.cn/\">校外访问控制系统</a></span>登录。</span></p>",
+  "accessurl": [
+   {
+    "v": "（登录出校）",
+    "url": "http://www.hwshu.com/front/index/toindex.do"
+   }
+  ]
+ },
+ {
+  "mmsid": "991021498957503966",
+  "name": "全国报刊索引 晚清、民国时期期刊全文数据库",
+  "lang": "chi",
+  "type": "期刊",
+  "ext": "子库",
+  "sub": "人文社科综合",
+  "intro": "《晚清期刊全文数据库（1833～1911）》收录1833年-1911年出版的500余种期刊、53万篇全文，几乎囊括了当时出版的所有期刊。晚清期刊集中揭示中国从封建社会向现代社会转型的特殊历史时期社会变迁的各方面内容，客观反映了这一历史时期的真实面目，具有较高的研究利用价值。《民国期刊全文数据库（1911～1949）》收录1911年-1949年出版的20,000余种期刊、近1,000万篇文献。作为历史档案的补充，民国时期出版的期刊具有重要的学术价值和史料价值，不少期刊文献表达了不同乃至互相对立的观点立场，不仅反映了民国时期独特的历史风貌，还原历史记忆，还是研究民国时期历史的第一手资料。",
+  "tier": "T1",
+  "urls": [
+   "http://tlink.lib.tsinghua.edu.cn/go?url=http://www.cnbksy.com/"
+  ],
+  "mirror": [
+   "http://tlink.lib.tsinghua.edu.cn/go?url=http://166.111.120.225:8090/"
+  ],
+  "other": [],
+  "offcampus": "本库主站点,可通过以下方式实现校外远程访问<br />①<a href=\"http://tlink.lib.tsinghua.edu.cn/go?url=http://www.cnbksy.com/\">  智能网关</a><br />②<a target=\"_blank\" href=\"${global.offcampus.exproxy}\">  校外访问控制系统</a><br />本库镜像站点,可通过以下方式实现校外远程访问<br />①<a href=\"http://tlink.lib.tsinghua.edu.cn/go?url=http://166.111.120.225:8090/\">  智能网关</a><br />",
+  "notice": "<p>1.软件及硬件环境<br />&nbsp; 操作系统：中文版Microsoft Windows 2003 Server (Server Pack2)64位或以上版本操作系统。<br />&nbsp; 浏览器： IE7.0或以上版本、Mozila firefox3.0或以上版本。</p>\n<p>2. 最大并发用户为50个。</p>\n<p>&nbsp;</p>",
+  "accessurl": ""
+ },
+ {
+  "mmsid": "991021498915003966",
+  "name": "搜数",
+  "lang": "chi",
+  "type": "数据事实",
+  "ext": "主库",
+  "sub": "综合",
+  "intro": "搜数是由北京精讯云顿数据软件有限公司推出的一个面向统计和调查数据的数据库。收录与统计和市场调查有关的数据，现已超过2亿9千多条，涵盖4000余本年鉴，覆盖全国31个省级和280余个地级行政区、港台两地，内容涉及54个行业大类。数据来源于国家及各省市地方统计局的统计年鉴及海关统计、经济统计快报、中国人民银行统计季报等月、季度统计资料以及国际统计资料、经济普查资料、行业统计资料、调查统计资料和港澳台统计资料，从而保证了数据的严谨及权威性。用户可下载EXCEL格式的统计表格，使用方便。数据起始年代：1949年。",
+  "tier": "T1",
+  "urls": [
+   "http://tlink.lib.tsinghua.edu.cn/go?url=http://www.soshoo.com.cn/",
+   "http://tlink.lib.tsinghua.edu.cn/go?url=http://www.soshoo.com"
+  ],
+  "mirror": [],
+  "other": [],
+  "offcampus": "本库主站点1,可通过以下方式实现校外远程访问<br />①<a href=\"http://tlink.lib.tsinghua.edu.cn/go?url=http://www.soshoo.com.cn/\">  智能网关</a><br />②<a target=\"_blank\" href=\"${global.offcampus.exproxy}\">  校外访问控制系统</a><br />本库主站点2,可通过以下方式实现校外远程访问<br />①<a href=\"http://tlink.lib.tsinghua.edu.cn/go?url=http://www.soshoo.com\">  智能网关</a><br />②<a target=\"_blank\" href=\"${global.offcampus.exproxy}\">  校外访问控制系统</a><br />",
+  "notice": "<p>1.如在公休日出现数据库不能使用的情况，请联系中国资讯行：130 0197 6440（熊韬）。<br />2.共有5个并发用户数。</p>",
+  "accessurl": ""
+ },
+ {
+  "mmsid": "991021498968503966",
+  "name": "万方数据知识服务平台 学术期刊",
+  "lang": "chi",
+  "type": "期刊",
+  "ext": "子库",
+  "sub": "综合",
+  "intro": "中国学术期刊数据库（China Online Journals，COJ）,收录始于1998年，包含8500余种期刊，其中包含北京大学、中国科学技术信息研究所、中国科学院文献情报中心、南京大学、中国社会科学院历年收录的核心期刊3600余种，年增300万篇，周更新2次，涵盖自然科学、工程技术、医药卫生、农业科学、哲学政法、社会科学、科教文艺等各个学科。",
+  "tier": "T1",
+  "urls": [
+   "http://tlink.lib.tsinghua.edu.cn/go?url=https://c.wanfangdata.com.cn/periodical"
+  ],
+  "mirror": [],
+  "other": [],
+  "offcampus": "<p>本库可通过以下方式实现校外远程访问<br />①<a href=\"http://tlink.lib.tsinghua.edu.cn/go?url=https://c.wanfangdata.com.cn/periodical\">&nbsp;智能网关</a><br />②<a href=\"${global.offcampus.exproxy}\" target=\"_blank\" rel=\"noopener\">&nbsp;校外访问控制系统</a><br />③&nbsp;<a href=\"https://shibboleth.wanfangdata.com.cn/Shibboleth.sso/Login?entityID=https%3A%2F%2Fidp.tsinghua.edu.cn%2Fidp%2Fshibboleth&amp;target=https%3A%2F%2Fshibboleth.wanfangdata.com.cn%2F\">机构用户身份认证</a>（Shibboleth或OpenAthens认证方式）<br />④<a href=\"http://ecollection.lib.tsinghua.edu.cn/databasenav/entrance/detail?mmsid=991021787300203966\" target=\"_blank\" rel=\"noopener\">&nbsp;MyLoft远程访问插件</a>（<a href=\"${global.offcampus.myloftpdf.url}\" target=\"_blank\" rel=\"noopener\">注册安装指南</a>）</p>",
+  "notice": "",
+  "accessurl": ""
+ },
+ {
+  "mmsid": "991023375625903966",
+  "name": "中国国家图书馆 革命文献与民国时期文献联合目录",
+  "lang": "chi",
+  "type": "革命文献;图书;报刊",
+  "ext": null,
+  "sub": "综合",
+  "intro": "截至2019年底，国家图书馆与上海图书馆、重庆图书馆、南京图书馆等31家普查成员单位共同合作完成70余万条普查数据的编制工作，包括民国平装书30万种，民国时期期刊1.4万种，民国时期报纸4千余种及其相应馆藏信息。目前，这批普查数据集中发布于“革命文献与民国时期文献联合目录”平台，旨在推进书目数据共建共享，为革命文献和民国时期文献保护和利用打下坚实基础。",
+  "tier": "T1",
+  "urls": [
+   "http://pcpt.nlc.cn/mgwx/historyDoc/connection.action"
+  ],
+  "mirror": [],
+  "other": [],
+  "offcampus": "",
+  "notice": "",
+  "accessurl": ""
+ },
+ {
+  "mmsid": "991021914398403966",
+  "name": "中国国家图书馆 民国时期文献 民国图书",
+  "lang": "chi",
+  "type": "图书",
+  "ext": "子库",
+  "sub": "综合",
+  "intro": "由国家图书馆民国图书资源库现推出民国图书63000余种全文影像资源，并将不断更新，全文阅读器建议使用Acrobat Reader7.0（中文版）以上版本。",
+  "tier": "T1",
+  "urls": [
+   "http://read.nlc.cn/allSearch/searchList?searchType=24&showType=1&pageNo=1"
+  ],
+  "mirror": [],
+  "other": [],
+  "offcampus": "",
+  "notice": "",
+  "accessurl": ""
+ },
+ {
+  "mmsid": "991021914397103966",
+  "name": "中国国家图书馆 中华古籍资源库",
+  "lang": "chi",
+  "type": "古籍",
+  "ext": "子库",
+  "sub": "综合",
+  "intro": "“中华古籍资源库”是国家图书馆（国家古籍保护中心）建设的综合性古籍特藏数字资源发布共享平台，是“中华古籍保护计划”的重要成果。该平台遵循边建设、边服务原则，目前在线发布资源包括国家图书馆藏善本和普通古籍、甲骨、敦煌文献、碑帖拓片、西夏文献、赵城金藏、地方志、家谱、年画、老照片等，以及馆外和海外征集资源，总量约10万部（件）。读者无需注册登录即可阅览全文影像，支持单库检索和多库检索，基本检索和高级检索，除“敦煌遗珍”、“中华寻根网”外实现了各子库资源的统一检索，支持模糊检索，同时兼容PC和移动端。",
+  "tier": "T1",
+  "urls": [
+   "http://read.nlc.cn/thematDataSearch/toGujiIndex"
+  ],
+  "mirror": [],
+  "other": [],
+  "offcampus": "",
+  "notice": "",
+  "accessurl": ""
+ }
+]

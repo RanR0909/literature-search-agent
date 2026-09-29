@@ -1,0 +1,698 @@
+[
+ {
+  "mmsid": "991021779482603966",
+  "name": "AMD America in World War Two: Oral Histories and Personal Accounts",
+  "lang": "eng",
+  "type": "档案",
+  "ext": "子库",
+  "sub": "历史学",
+  "intro": "收录文献全部源自位于美国新奥尔良的国家二战博物馆（The National WWII Museum, New Orleans），重点展现了第二次世界大战（World War II）对于美国的社会与经济的影响，同时也突出呈现了战争对美国普通民众与家庭的影响，以及对全球局势的影响。文献类型丰富，包括有个人信件、日记、手稿、实物图片、照片、兵役证明资料以及大量口述史资料等等。记录的事件主题内容十分广泛，如来自普通家庭的士兵被征调或招募至军队中进行军事化训练，而后参加美国本土或海外战役的过程，普通士兵在诺曼底登陆、对德国的军事占领等历史事件中的亲身经历，由300多位亲历二战的老兵分享的军旅生涯的回忆记述、口述史访谈视频、战俘营记述，等等。",
+  "tier": "T1",
+  "urls": [
+   "http://tlink.lib.tsinghua.edu.cn/go?url=https://www.americainworldwartwo.amdigital.co.uk"
+  ],
+  "mirror": [],
+  "other": [],
+  "offcampus": "本库可通过以下方式实现校外远程访问<br />①<a href=\"http://tlink.lib.tsinghua.edu.cn/go?url=https://www.americainworldwartwo.amdigital.co.uk\">  智能网关</a><br />②<a target=\"_blank\" href=\"${global.offcampus.exproxy}\">  校外访问控制系统</a><br />③<a target=\"_blank\" href=\"${global.offcampus.myloft.url}\">  MyLoft远程访问插件</a>（<a target=\"_blank\" href=\"${global.offcampus.myloftpdf.url}\">注册安装指南</a>）<br />",
+  "notice": "<p><span style=\"font-family: 微软雅黑, sans-serif;\">1.</span><span style=\"font-family: 微软雅黑, sans-serif;\">无并发用户数限制。</span></p>",
+  "accessurl": [
+   {
+    "v": "跨库检索，需登录出校，校内外可直接访问",
+    "url": "http://tlink.lib.tsinghua.edu.cn/go?url=http://www.amexplorer.amdigital.co.uk/"
+   }
+  ]
+ },
+ {
+  "mmsid": "991021729438803966",
+  "name": "Brepolis L'Année philologique",
+  "lang": "eng;ger;spa;fre;ita",
+  "type": "书目;文摘索引",
+  "ext": "子库",
+  "sub": "哲学;文学;历史学;理学;艺术学",
+  "intro": "收录了古希腊和罗马文明各个方面的学术著作。收录数据从1928年出版的第1卷开始，包括年度索引的所有卷。涵盖了广泛的学科，包括希腊/拉丁文学与语言学（其中包括早期基督教文本和基督教派）、希腊和罗马历史、艺术、考古学、哲学、宗教、神话、音乐、科学，以及学术分支专业，如钱币学、纸莎草学和碑文学。期刊文章的摘要以英语、德语、西班牙语、法语或意大利语提供，图书条目包括目录和书评信息。该库由法国国际文献出版社（SocieteInternationale de Bibliographie Classique）出版，编辑团队来自法国、德国、意大利、西班牙、瑞士和美国等国家，数据不断在更新。",
+  "tier": "T1",
+  "urls": [
+   "http://tlink.lib.tsinghua.edu.cn/go?url=http://apps.brepolis.net/BrepolisPortal/"
+  ],
+  "mirror": [],
+  "other": [],
+  "offcampus": "本库可通过以下方式实现校外远程访问<br />①<a href=\"http://tlink.lib.tsinghua.edu.cn/go?url=http://apps.brepolis.net/BrepolisPortal/\">  智能网关</a><br />②<a target=\"_blank\" href=\"${global.offcampus.myloft.url}\">  MyLoft远程访问插件</a>（<a target=\"_blank\" href=\"${global.offcampus.myloftpdf.url}\">注册安装指南</a>）<br />",
+  "notice": "<p>1. 平台上数据库名称为黑色字体表示本校已订购，灰色字体表示尚未订购。</p>\n<p>&nbsp;</p>",
+  "accessurl": ""
+ },
+ {
+  "mmsid": "991021729438503966",
+  "name": "Brepolis Latin, Greek & Oriental Texts",
+  "lang": "eng;lat",
+  "type": "参考工具;词典",
+  "ext": "子库",
+  "sub": "哲学;历史学;文学",
+  "intro": "Brepolis Latin, Greek & Oriental Texts（Brepolis拉丁语、希腊语及东方语文本数据库）提供丰富的中世纪至今的拉丁语文献，目前收录图书15,834本、作者5,143位，文本总字数达到1.8亿，是中世纪哲学、神学研究必备数据库。包含6个全文数据库：1.Library of Latin Texts（LLT，拉丁语文本数据库）；2.Monumenta Germaniae Historica（MGH，德意志历史文献集成数据库）；3.Archive of Celtic-Latin Literature（acLL，凯尔特-拉丁文学档案库）；4.Aristoteles Latinus Database（ALD，亚里士多德拉丁语数据库）；5.Sources Chrétiennes Online（基督教原始文献集数据库，未订购）；6.Patrologia Orientalis Database（东方教父文集数据库，未订购）。另，以上全文数据库可在跨库检索工具Cross Database Searchtool进行一站式检索，提供英语、法语、德语和意大利语四种检索界面。",
+  "tier": "T1",
+  "urls": [
+   "http://tlink.lib.tsinghua.edu.cn/go?url=http://apps.brepolis.net/BrepolisPortal/"
+  ],
+  "mirror": [],
+  "other": [],
+  "offcampus": "本库可通过以下方式实现校外远程访问<br />①<a href=\"http://tlink.lib.tsinghua.edu.cn/go?url=http://apps.brepolis.net/BrepolisPortal/\">  智能网关</a><br />②<a target=\"_blank\" href=\"${global.offcampus.myloft.url}\">  MyLoft远程访问插件</a>（<a target=\"_blank\" href=\"${global.offcampus.myloftpdf.url}\">注册安装指南</a>）<br />",
+  "notice": "<p>1. 平台上数据库名称为黑色字体表示本校已订购，灰色字体表示尚未订购。</p>\n<p>&nbsp;&nbsp;</p>",
+  "accessurl": ""
+ },
+ {
+  "mmsid": "991021498972603966",
+  "name": "De Gruyter",
+  "lang": "ger",
+  "type": "图书;期刊",
+  "ext": "主库",
+  "sub": "哲学;经济学;法学;文学;历史学;理学;工学;医学",
+  "intro": "德古意特出版社（De Gruyter）是一家综合性学术出版社，拥有270年的悠久历史，总部位于柏林。",
+  "tier": "T1",
+  "urls": [
+   "http://tlink.lib.tsinghua.edu.cn/go?url=https://www.degruyterbrill.com/"
+  ],
+  "mirror": [],
+  "other": [],
+  "offcampus": "本库可通过以下方式实现校外远程访问<br />①<a href=\"http://tlink.lib.tsinghua.edu.cn/go?url=https://www.degruyterbrill.com/\">  智能网关</a><br />②<a target=\"_blank\" href=\"${global.offcampus.exproxy}\">  校外访问控制系统</a><br />",
+  "notice": "<p>校内访问，请通过TUNet登录访问，不要使用代理服务器，不要使用搜狗、360等有内嵌式代理的浏览器；不要使用迅雷等下载工具下载全文。</p>",
+  "accessurl": ""
+ },
+ {
+  "mmsid": "991021498932203966",
+  "name": "Gale",
+  "lang": "eng;fre;ger",
+  "type": "图书;文摘索引;数据事实;档案;报纸;工具类;期刊;音视频;图文",
+  "ext": "主库",
+  "sub": "哲学;经济学;法学;教育学;文学;历史学;工学;医学;农学;艺术学",
+  "intro": "Cengage Gale集团是国际著名出版机构，在出版文学及传记工具书以及机构名录方面颇具权威性。Gale数据库平台整合了多种来源的信息，形成多个主题鲜明的专题数据库。",
+  "tier": "T1",
+  "urls": [
+   "http://tlink.lib.tsinghua.edu.cn/go?url=https://link.gale.com/apps/menu?u=tsinghua"
+  ],
+  "mirror": [],
+  "other": [],
+  "offcampus": "本库可通过以下方式实现校外远程访问<br />①<a href=\"http://tlink.lib.tsinghua.edu.cn/go?url=https://link.gale.com/apps/menu?u=tsinghua\">  智能网关</a><br />②<a target=\"_blank\" href=\"${global.offcampus.exproxy}\">  校外访问控制系统</a><br />",
+  "notice": "",
+  "accessurl": ""
+ },
+ {
+  "mmsid": "991021905304903966",
+  "name": "Gale Literary Index",
+  "lang": "eng;fre;ger;dut",
+  "type": "文摘索引;档案资料",
+  "ext": "子库",
+  "sub": "文学;历史学",
+  "intro": "Gale Literary Index 是Gale出版公司的主要文学作品的总索引。它将作者姓名（包括笔名和变体姓名）以及作品标题列表合并并交叉引用到一个来源中。Gale文学索引提供了从Gale和the Impressions Charles Scribner's Sons、St.James Press和Twayne Publishers的130多部文学作品中快速方便地检索作者和标题列表的功能。参考产品本身将包含作者的完整传记和关于其作品的评论文章。",
+  "tier": "T1",
+  "urls": [
+   "http://tlink.lib.tsinghua.edu.cn/go?url=https://link.gale.com/apps/LITN?u=tsinghua"
+  ],
+  "mirror": [],
+  "other": [],
+  "offcampus": "本库可通过以下方式实现校外远程访问<br />①<a href=\"http://tlink.lib.tsinghua.edu.cn/go?url=https://link.gale.com/apps/LITN?u=tsinghua\">  智能网关</a><br />②<a target=\"_blank\" href=\"${global.offcampus.exproxy}\">  校外访问控制系统</a><br />",
+  "notice": "",
+  "accessurl": ""
+ },
+ {
+  "mmsid": "991021905305603966",
+  "name": "Gale Literature LitFinder",
+  "lang": "eng;fre;ger;dut",
+  "type": "图书;数据事实;传记;图文;档案资料",
+  "ext": "子库",
+  "sub": "文学;历史学",
+  "intro": "提供对文学作品和二次文献资料的访问，涵盖各个历史时期的全球文学著作和作家；收录超过820,000篇诗歌引文，其中134,000篇为全文诗歌，以及10,000多篇短篇和长篇小说全文、1,300多部戏剧全文、约2,000篇演讲全文和4,000多篇16世纪至21世纪发表的散文等。研究者利用二次检索筛选选项可以轻松地找到所需的信息。",
+  "tier": "T1",
+  "urls": [
+   "http://tlink.lib.tsinghua.edu.cn/go?url=https://link.gale.com/apps/LITF?u=tsinghua"
+  ],
+  "mirror": [],
+  "other": [],
+  "offcampus": "本库可通过以下方式实现校外远程访问<br />①<a href=\"http://tlink.lib.tsinghua.edu.cn/go?url=https://link.gale.com/apps/LITF?u=tsinghua\">  智能网关</a><br />②<a target=\"_blank\" href=\"${global.offcampus.exproxy}\">  校外访问控制系统</a><br />",
+  "notice": "",
+  "accessurl": ""
+ },
+ {
+  "mmsid": "991021905305403966",
+  "name": "Gale Literature Scribner Writer Series",
+  "lang": "eng;fre;ger;dut",
+  "type": "图书;图文;档案资料",
+  "ext": "子库",
+  "sub": "历史学",
+  "intro": "收录对全球各地、各个历史时期作家生活和作品的原创、学者署名评论文章。条目内容包括文学评论、引文和传记信息，将作者及其作品至于个人和历史的背景之下。",
+  "tier": "T1",
+  "urls": [
+   "http://tlink.lib.tsinghua.edu.cn/go?url=https://link.gale.com/apps/G-Scrib?u=tsinghua"
+  ],
+  "mirror": [],
+  "other": [],
+  "offcampus": "本库可通过以下方式实现校外远程访问<br />①<a href=\"http://tlink.lib.tsinghua.edu.cn/go?url=https://link.gale.com/apps/G-Scrib?u=tsinghua\">  智能网关</a><br />②<a target=\"_blank\" href=\"${global.offcampus.exproxy}\">  校外访问控制系统</a><br />",
+  "notice": "",
+  "accessurl": ""
+ },
+ {
+  "mmsid": "991021905305003966",
+  "name": "Gale Literature Twaynes Author Series",
+  "lang": "eng;fre;ger;dut",
+  "type": "图书;数据事实;传记;图文;档案资料",
+  "ext": "子库",
+  "sub": "文学;历史学",
+  "intro": "该合集专注于提供对全球最知名作者生活和作品的深度批判性介绍。它呈现了对文学历史和文学运动影响力的深刻且原  创的评论。",
+  "tier": "T1",
+  "urls": [
+   "http://tlink.lib.tsinghua.edu.cn/go?url=https://link.gale.com/apps/G-Twayne?u=tsinghua"
+  ],
+  "mirror": [],
+  "other": [],
+  "offcampus": "本库可通过以下方式实现校外远程访问<br />①<a href=\"http://tlink.lib.tsinghua.edu.cn/go?url=https://link.gale.com/apps/G-Twayne?u=tsinghua\">  智能网关</a><br />②<a target=\"_blank\" href=\"${global.offcampus.exproxy}\">  校外访问控制系统</a><br />",
+  "notice": "",
+  "accessurl": ""
+ },
+ {
+  "mmsid": "991021498937103966",
+  "name": "Gale primary sources Archives of Latin American and Caribbean History, Sixteenth to Twentieth Century",
+  "lang": "eng;fre;ger;spa",
+  "type": "期刊;数据事实;新闻;音视频",
+  "ext": "子库",
+  "sub": "历史学;交叉学科",
+  "intro": "收录关于土地改革、性别问题、解放神学和埃米利亚诺萨帕塔方面的内容。100多万页的历史、文化和拉丁美洲的当代及历史原始资料，包含该领域专家的原始文章；近300份之前未被数字化的西班牙殖民地图，其中一些日期追溯至1700年代；检索结果有助于学生成长为研究人员，促进批判性思维和信息素养技能。",
+  "tier": "T1",
+  "urls": [
+   "http://tlink.lib.tsinghua.edu.cn/go?url=http://infotrac.galegroup.com/itweb/tsinghua?db=LAC"
+  ],
+  "mirror": [],
+  "other": [],
+  "offcampus": "本库可通过以下方式实现校外远程访问<br />①<a href=\"http://tlink.lib.tsinghua.edu.cn/go?url=http://infotrac.galegroup.com/itweb/tsinghua?db=LAC\">  智能网关</a><br />②<a target=\"_blank\" href=\"${global.offcampus.exproxy}\">  校外访问控制系统</a><br />",
+  "notice": "",
+  "accessurl": ""
+ },
+ {
+  "mmsid": "991021498942803966",
+  "name": "Gale primary sources Archives of Sexuality and Gender",
+  "lang": "eng;fre;ger;dut",
+  "type": "图书;报纸;期刊;图文;政府出版物;个人文件;戏剧作品",
+  "ext": "子库",
+  "sub": "历史学;法学",
+  "intro": "收录世界范围特别是北美洲著名研究机构的文档，包括通讯、专著、报纸、期刊、个人文件、政府文档、照片、戏剧作品、组织记录，以及更多代表新兴的同性恋权利运动的内容。涉及主题包括：犯罪、艾滋病、民权、地下文化、女性主义、精神健康、女性问题、同性恋社区等等。内容涵盖了大约200万页的英美研究、社会研究、历史、心理学、政治科学和同性恋研究。",
+  "tier": "T1",
+  "urls": [
+   "http://tlink.lib.tsinghua.edu.cn/go?url=https://link.gale.com/apps/AHSI?u=tsinghua"
+  ],
+  "mirror": [],
+  "other": [],
+  "offcampus": "本库可通过以下方式实现校外远程访问<br />①<a href=\"http://tlink.lib.tsinghua.edu.cn/go?url=https://link.gale.com/apps/AHSI?u=tsinghua\">  智能网关</a><br />②<a target=\"_blank\" href=\"${global.offcampus.exproxy}\">  校外访问控制系统</a><br />",
+  "notice": "",
+  "accessurl": ""
+ },
+ {
+  "mmsid": "991021498927003966",
+  "name": "Gale primary sources Archives Unbound",
+  "lang": "eng;fre;ger;dut",
+  "type": "图书;图文;数据事实;档案",
+  "ext": "子库",
+  "sub": "历史学;交叉学科",
+  "intro": "收录来自Gale的数字档案项目，提供高度专业化的珍稀原始资源合集• 侧重于专门领域的原始资料在线典藏档案• 时间跨度：16世纪-20世纪• 目前有69大类资源超过200个合集• 每个合集可单独使用，支持全文检索，也可交叉检索• 可满足历史、国际关系史等不同学者不同研究方向的专业需求• 档案来源：美国国家档案馆、美国国务院图书馆、美国国会图书馆、总统图书馆、英国国家档案馆、大英图书馆、美国联邦调查局图书馆等。",
+  "tier": "T1",
+  "urls": [
+   "http://tlink.lib.tsinghua.edu.cn/go?url=https://link.gale.com/apps/GDSC?u=tsinghua"
+  ],
+  "mirror": [],
+  "other": [],
+  "offcampus": "本库可通过以下方式实现校外远程访问<br />①<a href=\"http://tlink.lib.tsinghua.edu.cn/go?url=https://link.gale.com/apps/GDSC?u=tsinghua\">  智能网关</a><br />②<a target=\"_blank\" href=\"${global.offcampus.exproxy}\">  校外访问控制系统</a><br />",
+  "notice": "",
+  "accessurl": ""
+ },
+ {
+  "mmsid": "991021498980303966",
+  "name": "Gale primary sources Associated press collections online",
+  "lang": "eng;fre;ger",
+  "type": "数据事实;历史档案;新闻稿件;电报副本;信件;备忘录;内部出版物",
+  "ext": "子库",
+  "sub": "历史学;法学;交叉学科",
+  "intro": "该合集涵盖社会、政治、文化、科学历史等内容，包括： 一些未曾出版的新闻稿件，来自于分社的档案、新闻报道合集以及美联社新闻特写，此外还有有关美联社及内部员工的内部通讯信息， 美联社内部出版物 和 口述历史-内部员工采访。数据库内含6个合集：• 新闻特写与内部通讯• 美国城市分社合集 • 华盛顿哥伦比亚特区分社合集 • 华盛顿哥伦比亚特区分社合集 • 欧洲分社合集• 中东分社合集。通过美美国联合通讯社在线典藏（Associated Press Collections Online）研究人员可以发现来自这个非盈利新闻社的报告，并发现其过去七十年来的历史背景、新闻报道背景故事和组织内部管理。",
+  "tier": "T1",
+  "urls": [
+   "http://tlink.lib.tsinghua.edu.cn/go?url=https://link.gale.com/apps/APOA?u=tsinghua"
+  ],
+  "mirror": [],
+  "other": [],
+  "offcampus": "本库可通过以下方式实现校外远程访问<br />①<a href=\"http://tlink.lib.tsinghua.edu.cn/go?url=https://link.gale.com/apps/APOA?u=tsinghua\">  智能网关</a><br />②<a target=\"_blank\" href=\"${global.offcampus.exproxy}\">  校外访问控制系统</a><br />",
+  "notice": "",
+  "accessurl": ""
+ },
+ {
+  "mmsid": "991021498953003966",
+  "name": "Gale primary sources Brazilian and Portuguese History and Culture",
+  "lang": "por;dut;eng;fre;ger;ita;lat;spa",
+  "type": "图书;图文;数据事实;档案",
+  "ext": "子库",
+  "sub": "历史学;交叉学科",
+  "intro": "收录资源来自巴西外交官、历史学家和记者曼努埃尔·德·奥利维拉·利马（Manoel  de  Oliveira Lima）的私人图书馆，这个图书馆一直以来被认为是为学者提供葡萄牙和巴西人资料的最佳收藏之一。如今，通过Gale与该图书馆的合作，将其收藏资源数字化，因此越来越多的珍稀和独特的小册子可以访问。该合集涵盖了“漫长”的19世纪，聚焦了拉丁美洲最大的且最有影响力的国家。合集主题包括：殖民主义、传教士、废除奴隶贸易，经济发展和农产品贸易、土著、国际关系和为巴西独立而战。该合集即将上线“第二部分”，新增100万页的关于巴西独立、政治历史、国际关系、殖民主义、经济发展和宗教等方面的专著内容。时间覆盖1800年至1926年。",
+  "tier": "T1",
+  "urls": [
+   "http://tlink.lib.tsinghua.edu.cn/go?url=https://link.gale.com/apps/BPHC?u=tsinghua"
+  ],
+  "mirror": [],
+  "other": [],
+  "offcampus": "本库可通过以下方式实现校外远程访问<br />①<a href=\"http://tlink.lib.tsinghua.edu.cn/go?url=https://link.gale.com/apps/BPHC?u=tsinghua\">  智能网关</a><br />②<a target=\"_blank\" href=\"${global.offcampus.exproxy}\">  校外访问控制系统</a><br />",
+  "notice": "",
+  "accessurl": ""
+ },
+ {
+  "mmsid": "991021498926603966",
+  "name": "Gale primary sources British Literary Manuscripts Online",
+  "lang": "eng;fre;ger;dut",
+  "type": "数据事实;手稿;图文",
+  "ext": "子库",
+  "sub": "文学;历史学",
+  "intro": "收录从中世纪和文艺复兴时期到19世纪著名的和鲜为人知的作家的手稿，通过数千份的珍稀手稿和书籍，该合集提供了主要文学人物的生平和作品。学者可通过这些珍稀档案发现重要的文化和历史资源。时间跨度：1120-1900 。作家包括：阿芙 • 拉贝恩，威廉 • 布莱克，勃朗特姐妹，罗伯特 • 伯恩斯，托马斯 • 卡莱尔，威廉 •考珀，亚历山大 • 蒲柏，劳伦斯 • 斯特恩等等。涵盖早期英语文学的伟大作品，如《贝奥武夫》、《高文爵士与绿骑士》以及《坎特伯雷故事集》等，宗教著作如：《良心的刺痛》，约克和考文垂神秘戏剧，约翰威 • 克里夫、朱利安 • 诺维奇和马杰里 • 肯普的著作等。 收录文献载体形式： 信件、诗歌、故事、戏剧、编年史、宗教著作、随笔、小说、日记、期刊等。 包含2个部分： 第一部分：1600-1900。 第二部分：中世纪和文艺复兴时期",
+  "tier": "T1",
+  "urls": [
+   "http://tlink.lib.tsinghua.edu.cn/go?url=https://link.gale.com/apps/BLM?u=tsinghua"
+  ],
+  "mirror": [],
+  "other": [],
+  "offcampus": "本库可通过以下方式实现校外远程访问<br />①<a href=\"http://tlink.lib.tsinghua.edu.cn/go?url=https://link.gale.com/apps/BLM?u=tsinghua\">  智能网关</a><br />②<a target=\"_blank\" href=\"${global.offcampus.exproxy}\">  校外访问控制系统</a><br />",
+  "notice": "",
+  "accessurl": ""
+ },
+ {
+  "mmsid": "991021498924903966",
+  "name": "Gale primary sources Nineteenth Century Collections Online",
+  "lang": "eng;fre;ger",
+  "type": "图书;报纸;图文;数据事实",
+  "ext": "子库",
+  "sub": "法学;文学;历史学;交叉学科",
+  "intro": "收录对于该历史时期有研究价值的珍稀原始资料，是学术研究中宝贵的一手资料。该库按照主题共分为12个模块：• 英国政治与社会 • 亚洲与西方：外交和文化交流• 英国戏剧、音乐和文化：高雅文化与大众文化 • 科维欧洲文学藏品，1790-1840• 欧洲与非洲： 商业、基督教、文明和征服• 摄影：透过镜头看世界 • 科学、技术和医学，1780-1925 第一部分  • 科学、技术和医学， 1780-1925 第二部分• 女性：跨国关系网• 儿童文学与童年 • 绘制世界：地图与旅游文献• 宗教、灵性、改革与社会。",
+  "tier": "T1",
+  "urls": [
+   "http://tlink.lib.tsinghua.edu.cn/go?url=https://link.gale.com/apps/NCCO?u=tsinghua"
+  ],
+  "mirror": [],
+  "other": [],
+  "offcampus": "本库可通过以下方式实现校外远程访问<br />①<a href=\"http://tlink.lib.tsinghua.edu.cn/go?url=https://link.gale.com/apps/NCCO?u=tsinghua\">  智能网关</a><br />②<a target=\"_blank\" href=\"${global.offcampus.exproxy}\">  校外访问控制系统</a><br />",
+  "notice": "",
+  "accessurl": ""
+ },
+ {
+  "mmsid": "991021498934603966",
+  "name": "Gale primary sources Picture Post Historical Archive, 1938-1957",
+  "lang": "eng",
+  "type": "期刊;图文;数据事实",
+  "ext": "子库",
+  "sub": "历史学;法学",
+  "intro": "收录了《图画邮报》从创刊到结束的每一期杂志，对近50,000页的全彩内容进行数字化原版呈现，适用于各水平的研究者和学生，提供“电视诞生前”时代的流行娱乐和青年文化兴起方面的内容。作为摄影新闻的先驱，《图画邮报》运用生的图片和文字表达社会立场。研究人员可以了解该高度原则性的娱乐杂志是如何支持当时的社会和政治问题的。例如，纪念推出关于反对德国纳粹对犹太人迫害的“英国计划”和朝鲜战争时期有关南朝鲜处理政治罪犯的报道。",
+  "tier": "T1",
+  "urls": [
+   "http://tlink.lib.tsinghua.edu.cn/go?url=https://link.gale.com/apps/PIPO?u=tsinghua"
+  ],
+  "mirror": [],
+  "other": [],
+  "offcampus": "本库可通过以下方式实现校外远程访问<br />①<a href=\"http://tlink.lib.tsinghua.edu.cn/go?url=https://link.gale.com/apps/PIPO?u=tsinghua\">  智能网关</a><br />②<a target=\"_blank\" href=\"${global.offcampus.exproxy}\">  校外访问控制系统</a><br />",
+  "notice": "",
+  "accessurl": ""
+ },
+ {
+  "mmsid": "991021498923303966",
+  "name": "Gale primary sources Sabin Americana: History of the Americas, 1500–1926",
+  "lang": "eng;fre;ger;dut",
+  "type": "事实数据;图书;报纸;政府出版物;档案;小册子;地图;法律资料",
+  "ext": "子库",
+  "sub": "历史学;交叉学科",
+  "intro": "收录了美洲各个方面的一手资料，包含美洲的发现和探索、奴役和欧洲殖民、原住民、独立战争、经济发展、宗教和传教工作、社会和政治改革、西部扩张、著名个人以及更多资料。该档案可进行全文检索，取自约瑟夫 • 萨宾（Joseph Sabin）美洲参考书目，内容包括丰富的原始记录：探索与发现、开拓与西部扩张、美国南北战争、美洲原住民、奴隶制度、拉丁美洲/加勒比历史、废除奴隶制度及宗教历史。资料来源于一系列图书馆：亨廷顿图书馆、耶鲁大学、美国文物协会和美国国会图书馆。资料类型如：讲道、政治记录、报纸、书籍、小册子、地图、立法和文学。用户可以通过“萨宾史料”访问超过425年的历史，关于美洲演变的多样化观点——包括北美洲、中美洲、南美洲和西印度群岛。",
+  "tier": "T1",
+  "urls": [
+   "http://tlink.lib.tsinghua.edu.cn/go?url=https://link.gale.com/apps/SABN?u=tsinghua"
+  ],
+  "mirror": [],
+  "other": [],
+  "offcampus": "本库可通过以下方式实现校外远程访问<br />①<a href=\"http://tlink.lib.tsinghua.edu.cn/go?url=https://link.gale.com/apps/SABN?u=tsinghua\">  智能网关</a><br />②<a target=\"_blank\" href=\"${global.offcampus.exproxy}\">  校外访问控制系统</a><br />",
+  "notice": "",
+  "accessurl": ""
+ },
+ {
+  "mmsid": "991021498970203966",
+  "name": "Gale primary sources Slavery and Anti-Slavery: A Transnational Archive",
+  "lang": "eng;fre;ger;dut",
+  "type": "图书;期刊;报纸;手稿;数据事实;法律文献;档案",
+  "ext": "子库",
+  "sub": "历史学;交叉学科",
+  "intro": "收录奴隶制相关专题研究档案。完整记述奴隶制形成至奴隶解放的整个历史进程。文档类型包括。图书、手稿、报纸、期刊、高院记录，法律文献等。内含4个子合集：第一部分：奴隶制的辩论和废奴运动 第二部分：大西洋世界的奴隶贸易第三部分：奴隶制度 第四部分：解放时代。",
+  "tier": "T1",
+  "urls": [
+   "http://tlink.lib.tsinghua.edu.cn/go?url=https://link.gale.com/apps/SAS?u=tsinghua"
+  ],
+  "mirror": [],
+  "other": [],
+  "offcampus": "本库可通过以下方式实现校外远程访问<br />①<a href=\"http://tlink.lib.tsinghua.edu.cn/go?url=https://link.gale.com/apps/SAS?u=tsinghua\">  智能网关</a><br />②<a target=\"_blank\" href=\"${global.offcampus.exproxy}\">  校外访问控制系统</a><br />",
+  "notice": "",
+  "accessurl": ""
+ },
+ {
+  "mmsid": "991021498968003966",
+  "name": "Gale primary sources State Papers Online",
+  "lang": "eng;fre;ger;dut",
+  "type": "数据事实;政府出版物;手稿",
+  "ext": "子库",
+  "sub": "历史学;法学",
+  "intro": "该档案合集提供了当时服务于君主统治的秘书处的官方记录，涵盖了早期现代政府内政外务的方方面面，内容收录：社会和经济事务，法律和法规，宗教政策，皇室财产和情报，外交部文件、爱尔兰、苏格兰、边境文件、与欧洲大国的政治关系以及枢密院的登记记录。按照时间顺序，合集分为以下6个部分：第一部分，都铎王朝，亨利八世至伊丽莎白一世（1509年–1603年）：国内政府文件##第二部分，都铎王朝，亨利八世至伊丽莎白一世（1509年–1603年）：外交部文件、爱尔兰、苏格兰、边境文件以及枢密院法案##第三部分，斯图亚特王朝：詹姆斯一世至安妮一世（1603年–1714年）：国内政府文件##第四部分，斯图亚特王朝：詹姆斯一世至安妮一世（1603年–1714年）：外交部文件、爱尔兰以及枢密院登记记录##第五部分，十八世纪政府国内文件、军事、海军及枢密院登记记录##第六部分：十八世纪政府外交文件：低地国家和德国",
+  "tier": "T1",
+  "urls": [
+   "http://tlink.lib.tsinghua.edu.cn/go?url=https://link.gale.com/apps/SPOL?u=tsinghua"
+  ],
+  "mirror": [],
+  "other": [],
+  "offcampus": "本库可通过以下方式实现校外远程访问<br />①<a href=\"http://tlink.lib.tsinghua.edu.cn/go?url=https://link.gale.com/apps/SPOL?u=tsinghua\">  智能网关</a><br />②<a target=\"_blank\" href=\"${global.offcampus.exproxy}\">  校外访问控制系统</a><br />",
+  "notice": "",
+  "accessurl": ""
+ },
+ {
+  "mmsid": "991021498960903966",
+  "name": "Gale primary sources The Making of Modern World",
+  "lang": "eng;fre;ger",
+  "type": "图书;数据事实;档案资料",
+  "ext": "子库",
+  "sub": "经济学;法学;历史学;交叉学科",
+  "intro": "收录五份杰出藏品——伦敦大学图书馆的Goldsmiths经济文献资料库，哈佛商学院Kress商业与经济藏品，哥伦比亚大学Seligman合集，广岛经济大学Seligman合集以及堪萨斯大学经济史合集的优势，耶鲁大学图书馆的补充资料。该数据库为研究人员提供了理解社会科学形成的新途径。从广义的“经济”角度记录15世纪到20世纪初现代世界形成过程，体现政治、经济、金融、贸易、商业、交通运输、农业等方面内容。该合集提供丰富的珍稀原始资料：专著、丛书、政治小册子和布告等等。可以用于殖民、奴隶制、大西洋地区、区域研究、社会历史、等方面的学术研究和教学，对于研究经济和贸易相关方向的学者提供跨度500多年的原始资料，特别是早期西方经济及殖民扩张对亚洲以及中国影响的相关资料。档案来源：Goldsmiths 经济文献图书馆，伦敦大学参议会图书馆，Kress 商业经济图书馆，哈佛大学工商管理学院，哥伦比亚大学，堪萨斯大学，广岛经济大学。",
+  "tier": "T1",
+  "urls": [
+   "http://tlink.lib.tsinghua.edu.cn/go?url=https://link.gale.com/apps/MOME?u=tsinghua"
+  ],
+  "mirror": [],
+  "other": [],
+  "offcampus": "本库可通过以下方式实现校外远程访问<br />①<a href=\"http://tlink.lib.tsinghua.edu.cn/go?url=https://link.gale.com/apps/MOME?u=tsinghua\">  智能网关</a><br />②<a target=\"_blank\" href=\"${global.offcampus.exproxy}\">  校外访问控制系统</a><br />",
+  "notice": "",
+  "accessurl": ""
+ },
+ {
+  "mmsid": "991021558933903966",
+  "name": "Gale primary sources Women's Studies Archive",
+  "lang": "eng;fre;ger;dut",
+  "type": "数据事实;档案",
+  "ext": "子库",
+  "sub": "历史学;法学;交叉学科",
+  "intro": "数据库涵盖了全球范围内妇女生活的社会、政治和其它专业方面的档案材料，介绍了妇女在社会中的作用、经验和成就。广泛的原始资料提供了对一些妇女历史先驱的仔细观察，深入探讨了影响妇女的问题，以及她们对社会所做的许多贡献。妇女问题和身份跨越多个地理区域，提供了关于妇女经历和文化影响的各种观点。在档案中可以找到来自欧洲、南北美洲、非洲、印度、东亚和环太平洋地区的引人入胜的历史记录，内容有英语、法语、德语和荷兰语。",
+  "tier": "T1",
+  "urls": [
+   "http://tlink.lib.tsinghua.edu.cn/go?url=https://link.gale.com/apps/WMNS?u=tsinghua"
+  ],
+  "mirror": [],
+  "other": [],
+  "offcampus": "本库可通过以下方式实现校外远程访问<br />①<a href=\"http://tlink.lib.tsinghua.edu.cn/go?url=https://link.gale.com/apps/WMNS?u=tsinghua\">  智能网关</a><br />②<a target=\"_blank\" href=\"${global.offcampus.exproxy}\">  校外访问控制系统</a><br />",
+  "notice": "",
+  "accessurl": ""
+ },
+ {
+  "mmsid": "991021905908103966",
+  "name": "MEGA II @ De Gruyter",
+  "lang": "ger",
+  "type": "图书",
+  "ext": "子库",
+  "sub": "哲学;历史学;法学;经济学",
+  "intro": "德古意特出版社于2013年2月收购了位于柏林的科学院出版社，1946年“柏林德国科学院”创办了科学院出版社，其代表性出版物为《马克思恩格斯全集》，简称MEGA。MEGA II是《马克思恩格斯全集》历史考证版第二版，正式出版于1975年，是关于卡尔·马克思和弗里德里希·恩格斯的印刷物、手稿以及来往书信的完全的、历史的批判的全集。",
+  "tier": "T1",
+  "urls": [
+   "http://tlink.lib.tsinghua.edu.cn/go?url=https://www.degruyter.com/serial/mega-b/html"
+  ],
+  "mirror": [],
+  "other": [],
+  "offcampus": "<p>本库可通过以下方式实现校外远程访问<br />①<a href=\"http://tlink.lib.tsinghua.edu.cn/go?url=https://www.degruyter.com/serial/mega-b/html\"> 智能网关</a><br />②<a href=\"${global.offcampus.exproxy}\" target=\"_blank\" rel=\"noopener\"> 校外访问控制系统</a></p>",
+  "notice": "<p>1. 德古意特出版社所有的出版物都整合在同一个平台上，清华大学师生可以访问全文的是清华大学图书馆已订购的部分。</p>\n<p>2.&nbsp;校内访问，请通过TUNet登录访问，不要使用代理服务器，不要使用搜狗、360等有内嵌式代理的浏览器；不要使用迅雷等下载工具下载全文。</p>",
+  "accessurl": ""
+ },
+ {
+  "mmsid": "991021498961003966",
+  "name": "beck-online",
+  "lang": "ger",
+  "type": "期刊;图书;法律法规;法典",
+  "ext": "主库",
+  "sub": "法学",
+  "intro": "Beck-online 数据库由德国最大的法律出版集团 C.H.Beck 出版社出版，是全球收录德文法律信息最全和最权威的数据库之一。",
+  "tier": "T1",
+  "urls": [
+   "http://tlink.lib.tsinghua.edu.cn/go?url=https://beck-online.beck.de/Home"
+  ],
+  "mirror": [],
+  "other": [],
+  "offcampus": "本库可通过以下方式实现校外远程访问<br />①<a href=\"http://tlink.lib.tsinghua.edu.cn/go?url=https://beck-online.beck.de/Home\">  智能网关</a><br />②<a target=\"_blank\" href=\"${global.offcampus.exproxy}\">  校外访问控制系统</a><br />",
+  "notice": "",
+  "accessurl": ""
+ },
+ {
+  "mmsid": "991021905906403966",
+  "name": "Birkhäuser Architecture and Design @ De Gruyter",
+  "lang": "eng;ger;fre",
+  "type": "图书",
+  "ext": "子库",
+  "sub": "工学",
+  "intro": "博克豪斯（Birkhäuser）是一家专注于建筑设计和景观设计图书出版的出版社，1879年成立于瑞士巴塞尔，目前归于德古意特出版社，每年出版50余种图书。",
+  "tier": "T1",
+  "urls": [
+   "http://tlink.lib.tsinghua.edu.cn/go?url=https://www.degruyterbrill.com/search?query=*&startItem=0&pageSize=10&sortBy=relevance&documentVisibility=available&subjectFacet=AD&documentTypeFacet=book"
+  ],
+  "mirror": [],
+  "other": [],
+  "offcampus": "本库可通过以下方式实现校外远程访问<br />①<a href=\"http://tlink.lib.tsinghua.edu.cn/go?url=https://www.degruyterbrill.com/search?query=*&startItem=0&pageSize=10&sortBy=relevance&documentVisibility=available&subjectFacet=AD&documentTypeFacet=book\">  智能网关</a><br />②<a target=\"_blank\" href=\"${global.offcampus.exproxy}\">  校外访问控制系统</a><br />",
+  "notice": "<p>1. 德古意特出版社所有的出版物都整合在同一个平台上，清华大学师生可以访问全文的是清华大学图书馆已订购的部分。</p>\n<p>2. 校内访问，请通过TUNet登录访问，不要使用代理服务器，不要使用搜狗、360等有内嵌式代理的浏览器；不要使用迅雷等下载工具下载全文。&nbsp;</p>",
+  "accessurl": ""
+ },
+ {
+  "mmsid": "991021857923603966",
+  "name": "Brepolis",
+  "lang": "eng;fre;ger;ita;lat;spa",
+  "type": "百科全书;参考工具;书目;文摘索引;词典",
+  "ext": "主库",
+  "sub": "综合",
+  "intro": "Brepols出版社于1796年创建于比利时的历史文化名城蒂伦豪特市（Turnhout），是人文社科领域著名的学术出版社，特别关注历史、考古学、艺术史、语言和文学以及源作品的评论等。Brepolis是Brepols出版社和其合作伙伴的在线产品综合服务平台，包括拉丁语全文数据库、书目数据库、百科全书式数据库和免费访问的数据库，为国际人文学者提供服务。",
+  "tier": "T1",
+  "urls": [
+   "http://tlink.lib.tsinghua.edu.cn/go?url=http://apps.brepolis.net/BrepolisPortal"
+  ],
+  "mirror": [],
+  "other": [],
+  "offcampus": "本库可通过以下方式实现校外远程访问<br />①<a href=\"http://tlink.lib.tsinghua.edu.cn/go?url=http://apps.brepolis.net/BrepolisPortal\">  智能网关</a><br />②<a target=\"_blank\" href=\"${global.offcampus.myloft.url}\">  MyLoft远程访问插件</a>（<a target=\"_blank\" href=\"${global.offcampus.myloftpdf.url}\">注册安装指南</a>）<br />",
+  "notice": "<p>1. 平台上数据库名称为黑色字体表示本校已订购，灰色字体表示尚未订购。</p>\n<p>&nbsp;</p>",
+  "accessurl": ""
+ },
+ {
+  "mmsid": "991021729234803966",
+  "name": "Brepolis Lexikon des Mittelalters&International Encyclopaedia for the Middle Ages",
+  "lang": "ger;eng",
+  "type": "百科全书;参考工具",
+  "ext": "子库",
+  "sub": "综合",
+  "intro": "Lexikon des Mittelalters（LexMA，中世纪百科全书）是研究中世纪不可缺少的研究工具，是世界上重要的中世纪百科全书，1977至1999年间以德语出版，由3000名作者撰写的36,700篇署名文章涵盖了中世纪研究的各个方面。LexMA的时间范围是公元300-1500年，涉及的地理范围包括整个欧洲、中东部分地区和北非部分地区，记录了西方文化以及其邻近的拜占庭、阿拉伯和犹太世界的起源。International Encyclopaedia for the Middle Ages（IEMA，国际中世纪百科全书）是对LexMA的全新补编，补充和填补了LexMA的空白，由美国加州大学洛杉矶分校中世纪与文艺复兴研究中心和Brepols出版社联合出品。IEMA的时间范围是公元300-1500年，内容覆盖整个欧洲、北非和中东。",
+  "tier": "T1",
+  "urls": [
+   "http://tlink.lib.tsinghua.edu.cn/go?url=http://apps.brepolis.net/BrepolisPortal/"
+  ],
+  "mirror": [],
+  "other": [],
+  "offcampus": "本库可通过以下方式实现校外远程访问<br />①<a href=\"http://tlink.lib.tsinghua.edu.cn/go?url=http://apps.brepolis.net/BrepolisPortal/\">  智能网关</a><br />②<a target=\"_blank\" href=\"${global.offcampus.myloft.url}\">  MyLoft远程访问插件</a>（<a target=\"_blank\" href=\"${global.offcampus.myloftpdf.url}\">注册安装指南</a>）<br />",
+  "notice": "<p>1. 平台上数据库名称为黑色字体表示本校已订购，灰色字体表示尚未订购。</p>\n<p>&nbsp;</p>",
+  "accessurl": ""
+ },
+ {
+  "mmsid": "991021703738203966",
+  "name": "DigiZeitschriften Open Access",
+  "lang": "ger;eng",
+  "type": "期刊",
+  "ext": "主库",
+  "sub": "综合",
+  "intro": "DigiZeitschriften为德国一个非营利组织，由德国书商公会，德国著者保护组织赞助，主要将各图书馆旧有纸本期刊电子化并进行线上保存，资料年份为1824-2005年,目前收录德国国家及地方共400多种期刊。数据库涉及的主要学科领域有：经济、教育、古埃及文明、英文、图书馆管理、教育学、德语、语言学、地质、东方学、文学、音乐、艺术、数学、自然科学、哲学、法学、历史、科学、社会学、宗教等。数据库有德语和英语双语界面，可进行全文、元数据单独检索，也可对全文和元数据共同检索，提供全文文献，大部分文献可提供PDF格式下载。",
+  "tier": "T1",
+  "urls": [
+   "http://www.digizeitschriften.de/openaccess//"
+  ],
+  "mirror": [],
+  "other": [],
+  "offcampus": "",
+  "notice": "",
+  "accessurl": ""
+ },
+ {
+  "mmsid": "991021905305703966",
+  "name": "Gale Digital Scholar Lab",
+  "lang": "eng;fre;ger;dut",
+  "type": "工具类",
+  "ext": "子库",
+  "sub": "综合",
+  "intro": "Gale Scholar数字学术实验室, Gale基础资源数字检索工具，通过对历史文本的分析和可视化，重新发现和解释文献资源。",
+  "tier": "T1",
+  "urls": [
+   "http://tlink.lib.tsinghua.edu.cn/go?url=https://link.gale.com/apps/DSLAB?u=tsinghua"
+  ],
+  "mirror": [],
+  "other": [],
+  "offcampus": "本库可通过以下方式实现校外远程访问<br />①<a href=\"http://tlink.lib.tsinghua.edu.cn/go?url=https://link.gale.com/apps/DSLAB?u=tsinghua\">  智能网关</a><br />②<a target=\"_blank\" href=\"${global.offcampus.exproxy}\">  校外访问控制系统</a><br />",
+  "notice": "",
+  "accessurl": ""
+ },
+ {
+  "mmsid": "991021498967203966",
+  "name": "Gale primary sources Crime, Punishment, and Popular Culture, 1790-1920",
+  "lang": "eng;spa;fre;ita;ger",
+  "type": "图书;数据事实;审判文稿;案例笔记;犯罪文学",
+  "ext": "子库",
+  "sub": "法学",
+  "intro": "收录的合集文件中有许多基本的原始文献，如：审判文稿、著名审判的案例笔记、侦探社的文件、犯罪文学、神话和描述各个阶层想象的侦探小说。内容来自著名大大英图书馆、英国国家档案馆和美国文物学会，时间跨越了漫长的19世纪。出版物的语言包括：法语、德语、意大利语、西班牙语和英语。来自刑事司法、历史、社会学、文学和其他领域的学者可以在这个合集中找到丰富的资源，并且用于课堂教学。档案来源：大英图书馆、英国国家档案馆、美国国家档案馆、国会图书馆、剑桥图书馆、哈佛法学院图书馆。",
+  "tier": "T1",
+  "urls": [
+   "http://tlink.lib.tsinghua.edu.cn/go?url=https://link.gale.com/apps/CPPC?u=tsinghua"
+  ],
+  "mirror": [],
+  "other": [],
+  "offcampus": "本库可通过以下方式实现校外远程访问<br />①<a href=\"http://tlink.lib.tsinghua.edu.cn/go?url=https://link.gale.com/apps/CPPC?u=tsinghua\">  智能网关</a><br />②<a target=\"_blank\" href=\"${global.offcampus.exproxy}\">  校外访问控制系统</a><br />",
+  "notice": "",
+  "accessurl": ""
+ },
+ {
+  "mmsid": "991021498965403966",
+  "name": "Gale primary sources The making of modern law",
+  "lang": "eng;fre;ger;dut",
+  "type": "数据事实;法学专论;法律法规;案列",
+  "ext": "子库",
+  "sub": "法学;交叉学科",
+  "intro": "收录重要的法学专论，法律法规、案件审理等珍贵资料，涵盖了17世纪到20世纪权威档案，是现代法律形成是历史与当代法学研究必备资源。内容主要来自耶鲁、哈佛、哥伦比亚等全球知名法学院图书馆，是法学院学生（尤其研究国际法、法史、比较法等）获取早期一手资料及相关法令法规的权威途径。主要分为以下8个模块：• 现代法律形成： 法学专著，1800-1926 • 美国最高法院记录与法庭文件，1832-1978 • 审判，1600-1926 • 法规法令合集 第一部分，1620-1926• 法规法令合集 第二部分，1763-1970• 非英美国家法律，比较法及国际法学专著，1600-1926• 非英美国家法规法令合集 第一部分，1600-1970• 非英美国家法规法令合集 第二部分，1600-1970 档案来源：耶鲁法学院图书馆、哈佛法学院图书馆、哥伦比亚法学院图书馆、乔治华盛顿大学法学院图书馆、约克大学法学院图书馆、纽约市律师图书馆、国会法律图书馆。本模块为法规法令合集 第一部分（1620-1926）和法规法令合集 第二部分（1763-1970）。",
+  "tier": "T1",
+  "urls": [
+   "http://tlink.lib.tsinghua.edu.cn/go?url=https://link.gale.com/apps/MMLP?u=tsinghua",
+   "http://tlink.lib.tsinghua.edu.cn/go?url=https://link.gale.com/apps/MLFP?u=tsinghua",
+   "http://tlink.lib.tsinghua.edu.cn/go?url=https://link.gale.com/apps/MMLF?u=tsinghua",
+   "http://tlink.lib.tsinghua.edu.cn/go?url=https://link.gale.com/apps/MOML?u=tsinghua",
+   "http://tlink.lib.tsinghua.edu.cn/go?url=https://link.gale.com/apps/MMLT?u=tsinghua",
+   "http://tlink.lib.tsinghua.edu.cn/go?url=https://link.gale.com/apps/SCRB?u=tsinghua"
+  ],
+  "mirror": [],
+  "other": [],
+  "offcampus": "本库主站点1,可通过以下方式实现校外远程访问<br />①<a href=\"http://tlink.lib.tsinghua.edu.cn/go?url=https://link.gale.com/apps/MMLP?u=tsinghua\">  智能网关</a><br />②<a target=\"_blank\" href=\"${global.offcampus.exproxy}\">  校外访问控制系统</a><br />本库主站点2,可通过以下方式实现校外远程访问<br />①<a href=\"http://tlink.lib.tsinghua.edu.cn/go?url=https://link.gale.com/apps/MLFP?u=tsinghua\">  智能网关</a><br />②<a target=\"_blank\" href=\"${global.offcampus.exproxy}\">  校外访问控制系统</a><br />本库主站点3,可通过以下方式实现校外远程访问<br />①<a href=\"http://tlink.lib.tsinghua.edu.cn/go?url=https://link.gale.com/apps/MMLF?u=tsinghua\">  智能网关</a><br />②<a target=\"_blank\" href=\"${global.offcampus.exproxy}\">  校外访问控制系统</a><br />本库主站点4,可通过以下方式实现校外远程访问<br />①<a href=\"http://tlink.lib.tsinghua.edu.cn/go?url=https://link.gale.com/apps/MOML?u=tsinghua\">  智能网关</a><br />②<a target=\"_blank\" href=\"${global.offcampus.exproxy}\">  校外访问控制系统</a><br />本库主站点5,可通过以下方式实现校外远程访问<br />①<a href=\"http://tlink.lib.tsinghua.edu.cn/go?url=https://link.gale.com/apps/MMLT?u=tsinghua\">  智能网关</a><br />②<a target=\"_blank\" href=\"${global.offcampus.exproxy}\">  校外访问控制系统</a><br />本库主站点6,可通过以下方式实现校外远程访问<br />①<a href=\"http://tlink.lib.tsinghua.edu.cn/go?url=https://link.gale.com/apps/SCRB?u=tsinghua\">  智能网关</a><br />②<a target=\"_blank\" href=\"${global.offcampus.exproxy}\">  校外访问控制系统</a><br />",
+  "notice": "",
+  "accessurl": ""
+ },
+ {
+  "mmsid": "991022536788403966",
+  "name": "itext爱教材 De Gruyter",
+  "lang": "eng;ger",
+  "type": "图书",
+  "ext": "子库",
+  "sub": "经济学;理工综合;医学;管理学",
+  "intro": "德古意特出版社(De Gruyter) 拥有270多年的悠久历史，总部位于柏林，其出版物涵盖所有学科，是一家综合性学术出版社。重点出版领域：数学、物理学、语言学、医学、自然科学、哲学、法学、历史学、图书馆学及信息科学、文学研究、建筑与设计等。",
+  "tier": "T1",
+  "urls": [
+   "http://tlink.lib.tsinghua.edu.cn/go?url=https://www.itextbook.cn/f/db/officeDbDetail?connDbId=0a2fa01b821e4208b241724dc1c3215c"
+  ],
+  "mirror": [],
+  "other": [],
+  "offcampus": "<p>本库可通过以下方式实现校外远程访问<br />①<a href=\"http://tlink.lib.tsinghua.edu.cn/go?url=https://www.itextbook.cn/f/db/officeDbDetail?connDbId=0a2fa01b821e4208b241724dc1c3215c\"> 智能网关</a><br />②<a href=\"${global.offcampus.exproxy}\" target=\"_blank\" rel=\"noopener\"> 校外访问控制系统</a></p>\n<p>③<a href=\"https://sp-itext.carsi.edu.cn/api/authorize?response_type=code&amp;client_id=itext&amp;state=ajc&amp;idp=https://idp.tsinghua.edu.cn/idp/shibboleth\">CARSI</a>（教育网联邦认证与资源共享基础设施）校外访问方式</p>",
+  "notice": "<p>1.De Gruyter电子教材目录请见相关参照。<br />2.所有电子教材均可在水木搜索检索使用。&nbsp;<br />3.爱教材平台校外访问（CARSI方式）指南请见相关参照。<br />4.爱教材平台的电子全文有两种使用方式：一是在线浏览，无并发用户数限制；二是下载阅读，请点击首页（或系统其他页面）右上角【下载Reader】，安装阅读器之后下载阅读。阅读器如果出现无法正常使用的情况，请卸载后重新下载安装使用。<br />5.电脑端校内访问可以在线浏览也可以下载，校外访问（Carsi方式）只能在线浏览；手机访问没有APP和阅读器，只能通过手机浏览器Carsi方式访问，不能下载。<br />6.每种图书并发用户数（含下载到阅读器的数量）是5个，借阅天数是40天，可以续借，到期系统会自动归还。建议读者使用完毕后及时在阅读器归还（归还方法：点击阅读器右上方图书详情按钮，然后选择某种图书点击归还）。</p>",
+  "accessurl": ""
+ },
+ {
+  "mmsid": "991021498971503966",
+  "name": "Staudingers德国民法典评注 @ JURIS",
+  "lang": "ger",
+  "type": "图书;法典评注",
+  "ext": "主库",
+  "sub": "法学",
+  "intro": "《Staudinger德国民法典评注》丛书由Otto Schmidt博士与德国De Gruyter出版社联合出版，是目前对德国民法典最全面和最权威的注释和评论。",
+  "tier": "T1",
+  "urls": [
+   "http://tlink.lib.tsinghua.edu.cn/go?url=https://www.juris.de/jportal/portal/page/jurisw.psml?action=JLoginUser&username=TsinghuaUniversity"
+  ],
+  "mirror": [],
+  "other": [],
+  "offcampus": "本库可通过以下方式实现校外远程访问<br />①<a href=\"http://tlink.lib.tsinghua.edu.cn/go?url=https://www.juris.de/jportal/portal/page/jurisw.psml?action=JLoginUser&username=TsinghuaUniversity\">  智能网关</a><br />②<a target=\"_blank\" href=\"${global.offcampus.exproxy}\">  校外访问控制系统</a><br />",
+  "notice": "<p style=\"text-indent: 2em;\">进入数据库后，点击&ldquo;Kommentare&rdquo;左侧的倒三角，即可进入民法典评注页面。</p>",
+  "accessurl": ""
+ },
+ {
+  "mmsid": "991021373324403966",
+  "name": "Theologische Realenzyklopädie Online @ De Gruyter",
+  "lang": "ger",
+  "type": "图书",
+  "ext": "子库",
+  "sub": "哲学",
+  "intro": "神学百科全书是一部现代专业百科全书、神学综合研究工具、德语专题数据库，包括36卷文本（1976-2004），还有插图、地图、图形和表格。",
+  "tier": "T1",
+  "urls": [
+   "http://tlink.lib.tsinghua.edu.cn/go?url=https://www.degruyterbrill.com/database/tre/html"
+  ],
+  "mirror": [],
+  "other": [],
+  "offcampus": "本库可通过以下方式实现校外远程访问<br />①<a href=\"http://tlink.lib.tsinghua.edu.cn/go?url=https://www.degruyterbrill.com/database/tre/html\">  智能网关</a><br />②<a target=\"_blank\" href=\"${global.offcampus.exproxy}\">  校外访问控制系统</a><br />",
+  "notice": "<p>1. 德古意特出版社所有的出版物都整合在同一个平台上，清华大学师生可以访问全文的是清华大学图书馆已订购的部分。</p>\n<p>2. 校内访问，请通过TUNet登录访问，不要使用代理服务器，不要使用搜狗、360等有内嵌式代理的浏览器；不要使用迅雷等下载工具下载全文。&nbsp;</p>",
+  "accessurl": ""
+ },
+ {
+  "mmsid": "991021498967703966",
+  "name": "Gale Primary sources The making of modern law: Foreign Primary Sources, 1600–1970",
+  "lang": "eng",
+  "type": "法律法规;期刊;法律评论;数据事实",
+  "ext": "子库",
+  "sub": "法学;交叉学科",
+  "intro": "《 现代法律形成：外国主要来源》（Making of Modern Law:Foreign Primary Sources，1600-1970）补充了《 现代法律形成：外国法、比较法和国际法》（Making of Modern Law:Foreign，Comparative，and International Law，1600-1926）中的论文集，通过专著出版物提供了对各种法律法典的解释性分析。涉及包括英国、爱尔兰、法国、德国、奥地利、瑞士以及北欧和东欧的其他国家。有一半的标题是英文的，其中有一个很大的英国部分，包括1801年至1922年的公共法案。《现代法律形成：外国原始资料》，1600-1970年分为两部分。第一部分：1600-1970包括650多个标题，分布在近2000卷，总页数近140万页。它包括法规、会议法规、期刊、法规和评论。研究人员将发现与司法、民事诉讼、商法、刑法和程序、习惯法、林业和农业法、海商法和军事法等有关的工作。本书的大部分内容都是关于法国、德国和英国（以及爱尔兰）的法律和法律史。研究人员还将发现集中在奥地利、比利时、荷兰、俄罗斯和斯堪的纳维亚国家的小规模材料收藏。第二部分：1600-1970包含约140万页从近1500个标题分布在近2700卷。作品包括教会法典和评注；民法和程序、商法、刑法和程序材料；罗马法法典和评注。它还包括来自许多国家的评论，如澳大利亚、玻利维亚、巴西、智利、哥伦比亚、哥斯达黎加、古巴、多米尼加共和国、厄瓜多尔、埃及、萨尔瓦多、危地马拉、洪都拉斯、印度、牙买加、荷兰、新西兰、尼加拉瓜、巴拿马、巴拉圭、秘鲁、葡萄牙、乌拉圭和委内瑞拉。阿根廷、加拿大、意大利、墨西哥和西班牙的藏品特别多。",
+  "tier": "T1",
+  "urls": [
+   "http://tlink.lib.tsinghua.edu.cn/go?url=https://link.gale.com/apps/MLFP?u=tsinghua"
+  ],
+  "mirror": [],
+  "other": [],
+  "offcampus": "本库可通过以下方式实现校外远程访问<br />①<a href=\"http://tlink.lib.tsinghua.edu.cn/go?url=https://link.gale.com/apps/MLFP?u=tsinghua\">  智能网关</a><br />②<a target=\"_blank\" href=\"${global.offcampus.exproxy}\">  校外访问控制系统</a><br />",
+  "notice": "",
+  "accessurl": ""
+ },
+ {
+  "mmsid": "991021498945203966",
+  "name": "EBSCOhost Art & Architecture Source",
+  "lang": "eng",
+  "type": "期刊;图书;手册;博物馆公报",
+  "ext": "子库",
+  "sub": "艺术学;工学;交叉学科",
+  "intro": "Art & Architecture Source是由Art & Architecture Complete 和Art Full Text二个数据库合并而成的。收录的内容有：室内设计、广告艺术、装饰艺术、景观设计、城市规划、建筑历史、建筑设计、环境艺术、考古、工艺、美术及雕塑等方面的期刊、手册、图书及博物馆公报等文献；包括来自法国、意大利、荷兰、德国、和西班牙的730多种全文期刊和220多种全文书籍,63000多幅来自Picture Desk等出版社的图片集等。",
+  "tier": "T1",
+  "urls": [
+   "http://tlink.lib.tsinghua.edu.cn/go?url=https://research.ebsco.com/c/eqbspq/search?db=asu"
+  ],
+  "mirror": [],
+  "other": [],
+  "offcampus": "<p>本库可通过以下方式实现校外远程访问<br />①<a href=\"http://tlink.lib.tsinghua.edu.cn/go?url=https://research.ebsco.com/c/eqbspq/search?db=asu\"> 智能网关</a><br />②<a href=\"${global.offcampus.exproxy}\" target=\"_blank\" rel=\"noopener\"> 校外访问控制系统</a><br />③ <a href=\"https://shibboleth.ebscohost.com/Shibboleth.sso/Login?SAMLDS=1&amp;target=https%3A%2F%2Fshibboleth.ebscohost.com%2FShibAgent.aspx%3Fshib_returl%3Dhttps%253a%252f%252fsearch.ebscohost.com%252flogin.aspx%253fauthtype%253dshib%26IdpId%3D&amp;entityID=https://idp.tsinghua.edu.cn/idp/shibboleth&amp;providerID=http://shibboleth.ebscohost.com\">机构用户身份认证</a>（Shibboleth或OpenAthens认证方式）<br />④<a href=\"${global.offcampus.myloft.url}\" target=\"_blank\" rel=\"noopener\"> MyLoft远程访问插件</a>（<a href=\"${global.offcampus.myloftpdf.url}\" target=\"_blank\" rel=\"noopener\">注册安装指南</a>）</p>\n<p>⑤ 校园网IP绑定或配码个人移动设备（操作方法请见<a href=\"https://ecollection.lib.tsinghua.edu.cn/databaseguide/guide/file/3c9f5bdfe8414f16bd778482d3b095fe\">PPT</a>及Android系统的<a href=\"https://ecollection.lib.tsinghua.edu.cn/databaseguide/guide/file/c57d0ca60a9e42a28e6646e4761deb31\">apk</a>安装程序）</p>",
+  "notice": "",
+  "accessurl": ""
+ },
+ {
+  "mmsid": "991021558927203966",
+  "name": "HBN环球ETF基金数据库",
+  "lang": "chi",
+  "type": "数据事实;基金数据;工具类",
+  "ext": "主库",
+  "sub": "经济学;管理学",
+  "intro": "HBN环球ETF基金数据库是目前国内汇集全球ETF基金丰富、全面的ETF数据库，涵盖了包括中国、美国、英国、德国、澳大利亚等世界主要交易所上市的ETF基金数据。数据主要来自上海证券交易所、深圳证券交易所、纽约证券交易所、伦敦证券交易所、法兰克福证券交易所、澳大利亚证券交易所、多伦多证券交易所、新加坡证券交易所、香港证券交易所等权威机构。主要为高校、金融研究机构和金融企业的研究部门等提供数据支持。",
+  "tier": "T1",
+  "urls": [
+   "http://tlink.lib.tsinghua.edu.cn/go?url=http://data.harborn.cn/login?loginName=qhdxETF&loginPwd=qhdx"
+  ],
+  "mirror": [],
+  "other": [],
+  "offcampus": "本库可通过以下方式实现校外远程访问<br />①<a href=\"http://tlink.lib.tsinghua.edu.cn/go?url=http://data.harborn.cn/login?loginName=qhdxETF&loginPwd=qhdx\">  智能网关</a><br />②<a target=\"_blank\" href=\"${global.offcampus.exproxy}\">  校外访问控制系统</a><br />",
+  "notice": "",
+  "accessurl": ""
+ },
+ {
+  "mmsid": "991021498963103966",
+  "name": "知识视界",
+  "lang": "chi",
+  "type": "音视频",
+  "ext": "主库",
+  "sub": "综合",
+  "intro": "收录的节目分为自然科学、人文历史、工程技术、军事侦探、医学保健、专题讲座、语言学习等七个大类三十多个二级分类。目前我校读者可访问该平台上5000余小时的视频节目。整体上“知识视界”视频教育资源分为基础性、实用性和前沿性三个类别。基础性节目介绍了各种专业的科学原理和专业知识；实用性节目将展示给学生实际操作场面和社会生活场景；前沿性节目则介绍了国内外在高科技领域和其他领域最新理论成果。这些科教片来自澳大利亚、美国、德国、法国、日本等不同国家，地道的外语发音， 提供中外文双语字幕（字幕可进行显示或隐藏设置），带来原汁原味的英、德、法、日等多语种大量专业的词汇，是学习专业外语的最佳选择之一。与设在本馆的镜像站点相比，“知识视界”视频教育资源库的网络平台还具有一些独特的功能：画面检索：该检索功能支持中英文双语词条检索，可以对节目的每一秒画面进行检索，使用户能方便快捷的在近百万个词条中检索到所需的画面内容。通过画面检索，用户可以不用浏览大量视频资源便可以快速找到感兴趣的视频镜头，同时还可以进行片段播放。视频片段截取：通过时间码的指定来截取要截取的片段，截取后的片段保存在个人账户中。使用视频截取功能，须先注册用户。",
+  "tier": "T1",
+  "urls": [
+   "http://tlink.lib.tsinghua.edu.cn/go?url=http://www.libvideo.com/"
+  ],
+  "mirror": [
+   "http://zssj.lib.tsinghua.edu.cn/"
+  ],
+  "other": [],
+  "offcampus": "<p>本库主站点,可通过以下方式实现校外远程访问<br />①<a href=\"http://tlink.lib.tsinghua.edu.cn/go?url=http://www.libvideo.com/\"> 智能网关</a>&nbsp;<br />②<a href=\"${global.offcampus.exproxy}\" target=\"_blank\" rel=\"noopener\"> 校外访问控制系统</a><br />本库镜像站点,可通过以下方式实现校外远程访问<br />①<a href=\"${global.offcampus.sslvpn.url}\" target=\"_blank\" rel=\"noopener\">清华大学SSL VPN服务</a></p>",
+  "notice": "<p>1. 使用&ldquo;视频片段&rdquo;截取功能须提前注册。</p>",
+  "accessurl": ""
+ }
+]

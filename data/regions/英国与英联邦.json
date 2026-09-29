@@ -1,0 +1,873 @@
+[
+ {
+  "mmsid": "991021703139803966",
+  "name": "AMD",
+  "lang": "eng",
+  "type": "档案",
+  "ext": "主库",
+  "sub": "历史学;文学;法学;艺术学;交叉学科",
+  "intro": "本套数据库由英国Adam Matthew Digital（AMD）学术出版社推出，共包含74个数据库，内容涉及世界各国历史、政治、文化与文学等研究范畴，包含珍贵档案、珍稀史料和珍藏手稿等丰富内容。AMD是英国著名的学术出版公司，成立于1990年，主要出版内容为原始手稿、稀有图书与其他学术文献等。出版项目超过600个，内容源于欧洲、北美洲和澳大利亚的图书馆与档案馆馆藏，以满足学者与研究图书馆需求为自己的出版目标。出版物均由领先的专家们在他们的研究领域内规划，可供本科生教学及学术研究使用。代表资源有《英国外交部档案系列数据库》《海外收藏的中国近代史珍稀史料文献库》《世界历史文化原始资料数据库集成》《英国圣公会差会期刊》等。",
+  "tier": "T1",
+  "urls": [
+   "http://tlink.lib.tsinghua.edu.cn/go?url=https://www.amexplorer.amdigital.co.uk/"
+  ],
+  "mirror": [],
+  "other": [],
+  "offcampus": "本库可通过以下方式实现校外远程访问<br />①<a href=\"http://tlink.lib.tsinghua.edu.cn/go?url=https://www.amexplorer.amdigital.co.uk/\">  智能网关</a><br />②<a target=\"_blank\" href=\"${global.offcampus.exproxy}\">  校外访问控制系统</a><br />③<a target=\"_blank\" href=\"${global.offcampus.myloft.url}\">  MyLoft远程访问插件</a>（<a target=\"_blank\" href=\"${global.offcampus.myloftpdf.url}\">注册安装指南</a>）<br />",
+  "notice": "<p><span lang=\"EN-US\" style=\"font-family: 微软雅黑, sans-serif;\">1.</span><span style=\"font-family: 微软雅黑, sans-serif;\">无并发用户数限制。</span></p>\n<p><span style=\"font-family: 微软雅黑, sans-serif;\">&nbsp;</span></p>\n<p>&nbsp;</p>",
+  "accessurl": ""
+ },
+ {
+  "mmsid": "991021906682003966",
+  "name": "AMD AM Scholar Church Missionary Society Archive",
+  "lang": "eng",
+  "type": "档案",
+  "ext": "子库",
+  "sub": "哲学;历史学;交叉学科",
+  "intro": "收录有关英国圣公会差会（Church Missionary Society，CMS)以及许多其他与之相关或合并的传教士社团的丰富的档案资料，时间覆盖1799-1959年，文献类型包括年度报告、会议录、财务报告、个人文件、来往公文、书信发文簿、报刊、旅行日志、日记，照片和图片等。英国圣公会差会是一个世界性的传教机构，成立于1799年4月12日，至今仍在活跃。通过这些资料可以洞察全球历史的发展进程。",
+  "tier": "T1",
+  "urls": [
+   "http://tlink.lib.tsinghua.edu.cn/go?url=https://www.amscholar.amdigital.co.uk/cms"
+  ],
+  "mirror": [],
+  "other": [],
+  "offcampus": "本库可通过以下方式实现校外远程访问<br />①<a href=\"http://tlink.lib.tsinghua.edu.cn/go?url=https://www.amscholar.amdigital.co.uk/cms\">  智能网关</a><br />②<a target=\"_blank\" href=\"${global.offcampus.exproxy}\">  校外访问控制系统</a><br />③<a target=\"_blank\" href=\"${global.offcampus.myloft.url}\">  MyLoft远程访问插件</a>（<a target=\"_blank\" href=\"${global.offcampus.myloftpdf.url}\">注册安装指南</a>）<br />",
+  "notice": "<p>1.无并发用户数限制。</p>",
+  "accessurl": ""
+ },
+ {
+  "mmsid": "991021906683403966",
+  "name": "AMD AM Scholar Empire Studies",
+  "lang": "eng",
+  "type": "档案",
+  "ext": "子库",
+  "sub": "历史学;交叉学科",
+  "intro": "提供探索大英帝国历史的丰富原始资料，包括来自政府和官方部门的档案资料、论文集、个人日记、稀有报刊和会议记录等，时间覆盖1734-1968年。这些资料源自英国国家档案馆、大英图书馆、剑桥大学图书馆、牛津大学图书馆、伦敦大学英联邦研究所、新南威尔士州立图书馆和州档案管理局，涉及主题非常广泛，报刊帝国与殖民统治、种族与阶级、政策与管制、性与性别、选举权与妇女权利、殖民生活与定居、囚犯转移、旅行文学等等。",
+  "tier": "T1",
+  "urls": [
+   "http://tlink.lib.tsinghua.edu.cn/go?url=https://www.amscholar.amdigital.co.uk/Empire"
+  ],
+  "mirror": [],
+  "other": [],
+  "offcampus": "本库可通过以下方式实现校外远程访问<br />①<a href=\"http://tlink.lib.tsinghua.edu.cn/go?url=https://www.amscholar.amdigital.co.uk/Empire\">  智能网关</a><br />②<a target=\"_blank\" href=\"${global.offcampus.exproxy}\">  校外访问控制系统</a><br />③<a target=\"_blank\" href=\"${global.offcampus.myloft.url}\">  MyLoft远程访问插件</a>（<a target=\"_blank\" href=\"${global.offcampus.myloftpdf.url}\">注册安装指南</a>）<br />",
+  "notice": "<p>1.无并发用户数限制。</p>",
+  "accessurl": ""
+ },
+ {
+  "mmsid": "991021906681703966",
+  "name": "AMD Church Missionary Society Periodicals",
+  "lang": "eng",
+  "type": "档案",
+  "ext": "子库",
+  "sub": "哲学;历史学;交叉学科",
+  "intro": "收录文献为英国圣公会差会的期刊、信函及报告、插图和照片等出版物，时间跨度超过200多年（1804-2009年）。英国圣公会差会丰富多样的出版物，在促进社会工作、筹款、不同国家的信息报告以及传教社群的交流上发挥着至关重要的作用，揭示了自19世纪初以来的关键事件，不仅代表了福音和传教历史，也代表了冲突、殖民主义和全球化的真正全球视角。因此本数据库为现代世界史研究者提供了一个有趣的视角，即以圣公会差会的视角了解特定的国家和人民。",
+  "tier": "T1",
+  "urls": [
+   "http://tlink.lib.tsinghua.edu.cn/go?url=https://www.churchmissionarysociety.amdigital.co.uk/"
+  ],
+  "mirror": [],
+  "other": [],
+  "offcampus": "本库可通过以下方式实现校外远程访问<br />①<a href=\"http://tlink.lib.tsinghua.edu.cn/go?url=https://www.churchmissionarysociety.amdigital.co.uk/\">  智能网关</a><br />②<a target=\"_blank\" href=\"${global.offcampus.exproxy}\">  校外访问控制系统</a><br />③<a target=\"_blank\" href=\"${global.offcampus.myloft.url}\">  MyLoft远程访问插件</a>（<a target=\"_blank\" href=\"${global.offcampus.myloftpdf.url}\">注册安装指南</a>）<br />",
+  "notice": "<p>1.无并发用户数限制。</p>",
+  "accessurl": ""
+ },
+ {
+  "mmsid": "991021779483703966",
+  "name": "AMD Confidential Print: North America, 1824-1961",
+  "lang": "eng",
+  "type": "档案",
+  "ext": "子库",
+  "sub": "法学;历史学;交叉学科",
+  "intro": "收录文献来源于英国国家档案馆（The National Archives，UK）收藏的有关北美、英语加勒比地区乃至部分南美地区的机密印刷文件，囊括历史、文化、政治、贸易、对外政策、工业发展等丰富内容，涵盖了奴隶制、禁令、第一次和第二次世界大战、种族隔离、领土争端、国际联盟、麦卡锡主义和核弹等主题，资料类型包括报告、急件、政治领导策略描述报告、每周政治总结、月度经济报告等，大部分材料涵盖了十九世纪末和二十世纪上半叶。",
+  "tier": "T1",
+  "urls": [
+   "http://tlink.lib.tsinghua.edu.cn/go?url=https://cn.archivesdirect.amdigital.co.uk/CP_NorthAmerica"
+  ],
+  "mirror": [],
+  "other": [],
+  "offcampus": "本库可通过以下方式实现校外远程访问<br />①<a href=\"http://tlink.lib.tsinghua.edu.cn/go?url=https://cn.archivesdirect.amdigital.co.uk/CP_NorthAmerica\">  智能网关</a><br />②<a target=\"_blank\" href=\"${global.offcampus.exproxy}\">  校外访问控制系统</a><br />③<a target=\"_blank\" href=\"${global.offcampus.myloft.url}\">  MyLoft远程访问插件</a>（<a target=\"_blank\" href=\"${global.offcampus.myloftpdf.url}\">注册安装指南</a>）<br />",
+  "notice": "<p><span lang=\"EN-US\" style=\"font-family: 微软雅黑, sans-serif;\">1.</span><span style=\"font-family: 微软雅黑, sans-serif;\">无并发用户数限制。</span></p>",
+  "accessurl": [
+   {
+    "v": "跨库检索，需登录出校，校内外可直接访问",
+    "url": "http://tlink.lib.tsinghua.edu.cn/go?url=http://www.amexplorer.amdigital.co.uk/"
+   }
+  ]
+ },
+ {
+  "mmsid": "991021914403803966",
+  "name": "AMD Defining Gender",
+  "lang": "eng",
+  "type": "档案",
+  "ext": "子库",
+  "sub": "历史学",
+  "intro": "数据库提供数量庞大的从性别角度透视研究历史、文学、社会学与教育的原始资料，并提供澳大利亚、加拿大、英国与美国著名学者撰写的引导论文，时间覆盖15世纪中期至20世纪初期，涉及主题包括言行与礼仪、家庭生活与家族、消费与休闲、教育与认知、性别感知等。",
+  "tier": "T1",
+  "urls": [
+   "http://tlink.lib.tsinghua.edu.cn/go?url=https://www.gender.amdigital.co.uk/"
+  ],
+  "mirror": [],
+  "other": [],
+  "offcampus": "本库可通过以下方式实现校外远程访问<br />①<a href=\"http://tlink.lib.tsinghua.edu.cn/go?url=https://www.gender.amdigital.co.uk/\">  智能网关</a><br />②<a target=\"_blank\" href=\"${global.offcampus.exproxy}\">  校外访问控制系统</a><br />③<a target=\"_blank\" href=\"${global.offcampus.myloft.url}\">  MyLoft远程访问插件</a>（<a target=\"_blank\" href=\"${global.offcampus.myloftpdf.url}\">注册安装指南</a>）<br />",
+  "notice": "<p>1.无并发用户数限制。</p>",
+  "accessurl": ""
+ },
+ {
+  "mmsid": "991021906684303966",
+  "name": "AMD Eighteenth Century Journals",
+  "lang": "eng",
+  "type": "档案",
+  "ext": "子库",
+  "sub": "文学;历史学;交叉学科",
+  "intro": "共收录1685到1835年间出版的约600种珍贵期刊，涵盖欧洲历史、文化、工业史、哲学、文学和政治史等多个主题，内容极为丰富，为18世纪的研究提供了宝贵资料。分为五个专辑：专辑I：报纸和期刊（1693-1793），来源于牛津博德莱安图书馆（Bodleian Library, Oxford）；专辑II: 报纸和期刊（1699-1812），来源于德克萨斯大学奥斯汀分校人文研究中心（Harry Ransom Humanities Research Centre, University of Texas at Austin）；专辑III：报纸和期刊（1680-1816），来源于大英图书馆位于科林代尔的报纸阅览室和剑桥大学图书馆（British Library Newspapers, Colindale and Cambridge University Library）；专辑IV： 报纸和期刊（1708-1820），来源于切塔姆图书馆、利兹大学曼彻斯特与布拉泽顿图书馆（ Chetham's Library, Manchester and the Brotherton Library, University of Leeds）；专辑V： 女性杂志及其它（1712-1835），来源于英国伯明翰中央图书馆、大英图书馆、剑桥大学图书馆、利物浦约翰摩尔大学图书馆（Birmingham Central Library, British Library, Cambridge University Library and Liverpool John Moores University Library）。",
+  "tier": "T1",
+  "urls": [
+   "http://tlink.lib.tsinghua.edu.cn/go?url=https://www.18thcjournals.amdigital.co.uk/"
+  ],
+  "mirror": [],
+  "other": [],
+  "offcampus": "本库可通过以下方式实现校外远程访问<br />①<a href=\"http://tlink.lib.tsinghua.edu.cn/go?url=https://www.18thcjournals.amdigital.co.uk/\">  智能网关</a><br />②<a target=\"_blank\" href=\"${global.offcampus.exproxy}\">  校外访问控制系统</a><br />③<a target=\"_blank\" href=\"${global.offcampus.myloft.url}\">  MyLoft远程访问插件</a>（<a target=\"_blank\" href=\"${global.offcampus.myloftpdf.url}\">注册安装指南</a>）<br />",
+  "notice": "<p>1.无并发用户数限制。</p>",
+  "accessurl": ""
+ },
+ {
+  "mmsid": "991021906683103966",
+  "name": "AMD Empire Online",
+  "lang": "eng",
+  "type": "档案",
+  "ext": "子库",
+  "sub": "文学;历史学;交叉学科",
+  "intro": "收录文献源自大英图书馆（The British Library）等世界各地20余家图书馆与档案馆的手稿、印刷品和视觉原始资料，包括期刊、小说、传教士档案、探险日记与记录、信件誊录簿与信件、个人笔记、政府官方文件、旅行札记、奴隶文件、回忆录、儿童冒险故事、传统民俗、民间传说、展览目录与指南、地图、海报、照片和插图等等，时间跨越5个世纪（15世纪末至21世纪初），从全球视角描绘帝国兴衰的故事，为探索殖民地的历史、政治、文化与社会提供珍贵的资源。",
+  "tier": "T1",
+  "urls": [
+   "http://tlink.lib.tsinghua.edu.cn/go?url=https://www.empire.amdigital.co.uk/"
+  ],
+  "mirror": [],
+  "other": [],
+  "offcampus": "本库可通过以下方式实现校外远程访问<br />①<a href=\"http://tlink.lib.tsinghua.edu.cn/go?url=https://www.empire.amdigital.co.uk/\">  智能网关</a><br />②<a target=\"_blank\" href=\"${global.offcampus.exproxy}\">  校外访问控制系统</a><br />③<a target=\"_blank\" href=\"${global.offcampus.myloft.url}\">  MyLoft远程访问插件</a>（<a target=\"_blank\" href=\"${global.offcampus.myloftpdf.url}\">注册安装指南</a>）<br />",
+  "notice": "<p>1.无并发用户数限制。</p>\n<p>2.通过<a href=\"https://eproxy.lib.tsinghua.edu.cn/\">校外访问控制系统</a>登录的方式暂无法下载全文&nbsp;。</p>",
+  "accessurl": ""
+ },
+ {
+  "mmsid": "991021906684103966",
+  "name": "AMD First World War Portal",
+  "lang": "eng",
+  "type": "档案",
+  "ext": "子库",
+  "sub": "军事学;历史学;交叉学科",
+  "intro": "收录有关第一次世界大战（World War I）的文献资源与珍贵史料，文献源自世界各地的档案馆、图书馆、博物馆和战争纪念馆的珍贵馆藏，文献类型包括参战士兵日记、口述史资料和英国政府官方有关战争的宣传资料等，内附真实照片与图片。数据库包含四部分内容：1.个人经历（Personal Experiences）；2.宣传与征兵（Propaganda and Recruitment）；3.观点与纪实（Visual Perspectives and Narratives）；4.全球冲突（A Global Conflict）。",
+  "tier": "T1",
+  "urls": [
+   "http://tlink.lib.tsinghua.edu.cn/go?url=https://www.firstworldwar.amdigital.co.uk"
+  ],
+  "mirror": [],
+  "other": [],
+  "offcampus": "本库可通过以下方式实现校外远程访问<br />①<a href=\"http://tlink.lib.tsinghua.edu.cn/go?url=https://www.firstworldwar.amdigital.co.uk\">  智能网关</a><br />②<a target=\"_blank\" href=\"${global.offcampus.exproxy}\">  校外访问控制系统</a><br />③<a target=\"_blank\" href=\"${global.offcampus.myloft.url}\">  MyLoft远程访问插件</a>（<a target=\"_blank\" href=\"${global.offcampus.myloftpdf.url}\">注册安装指南</a>）<br />",
+  "notice": "<p>1.无并发用户数限制。</p>",
+  "accessurl": ""
+ },
+ {
+  "mmsid": "991021914404203966",
+  "name": "AMD Food and Drink in History",
+  "lang": "eng",
+  "type": "档案",
+  "ext": "子库",
+  "sub": "历史学;交叉学科",
+  "intro": "收录的文献资料来自大英图书馆（The British Library）、英国国家档案馆（The National Archives，UK）等全球12家文献馆藏机构，涵盖时间跨越六个世纪（16-21世纪，具体时间覆盖1514-2010年）的全球饮食文化的发展史，从不同社会阶层、不同身份地位、不同民族与种族等多个范畴对全球各地的饮食历史进行洞察，也从侧面反映出不同历史时期与不同社会的经济与文化状况。文献类型多样，包括食谱与烹饪书、一战与二战期间食品供给记录、酿酒与蒸馏技术存档资料、食品生产流程纪要、食品与饮料的包装与零售、营销报告、宣传海报、食品监管与食品经济学有关的参考文献资料等等。",
+  "tier": "T1",
+  "urls": [
+   "http://tlink.lib.tsinghua.edu.cn/go?url=https://www.foodanddrink.amdigital.co.uk/"
+  ],
+  "mirror": [],
+  "other": [],
+  "offcampus": "本库可通过以下方式实现校外远程访问<br />①<a href=\"http://tlink.lib.tsinghua.edu.cn/go?url=https://www.foodanddrink.amdigital.co.uk/\">  智能网关</a><br />②<a target=\"_blank\" href=\"${global.offcampus.exproxy}\">  校外访问控制系统</a><br />③<a target=\"_blank\" href=\"${global.offcampus.myloft.url}\">  MyLoft远程访问插件</a>（<a target=\"_blank\" href=\"${global.offcampus.myloftpdf.url}\">注册安装指南</a>）<br />",
+  "notice": "<p>1.无并发用户数限制。</p>",
+  "accessurl": ""
+ },
+ {
+  "mmsid": "991021498960103966",
+  "name": "AMD Foreign Office Files for China, 1919-1980",
+  "lang": "eng",
+  "type": "政府出版物;档案",
+  "ext": "子库",
+  "sub": "历史学;法学",
+  "intro": "收录文献源自英国国家档案馆（The National Archives，UK），包括政府备忘录、官方与非官方信函、地图、法庭案件纪录、会议、调查和考察报告、经济统计和分析报告、公文文件等，时间覆盖1919-1980年，全面记述了那段时期中国的历史、社会与文化，分为英国外交部档案（中国：1919-1948）和英国外交部档案（中国：1949－1980）两个部分。",
+  "tier": "T1",
+  "urls": [
+   "http://tlink.lib.tsinghua.edu.cn/go?url=https://cn.archivesdirect.amdigital.co.uk/FO_China"
+  ],
+  "mirror": [],
+  "other": [],
+  "offcampus": "本库可通过以下方式实现校外远程访问<br />①<a href=\"http://tlink.lib.tsinghua.edu.cn/go?url=https://cn.archivesdirect.amdigital.co.uk/FO_China\">  智能网关</a><br />②<a target=\"_blank\" href=\"${global.offcampus.exproxy}\">  校外访问控制系统</a><br />③<a target=\"_blank\" href=\"${global.offcampus.myloft.url}\">  MyLoft远程访问插件</a>（<a target=\"_blank\" href=\"${global.offcampus.myloftpdf.url}\">注册安装指南</a>）<br />",
+  "notice": "<p><span lang=\"EN-US\" style=\"font-family: 微软雅黑, sans-serif;\">1.</span><span style=\"font-family: 微软雅黑, sans-serif;\">无并发用户数限制。</span></p>\n<p><span style=\"font-family: 微软雅黑, sans-serif;\">2. 通过<span style=\"font-family: 宋体;\"><a href=\"https://eproxy.lib.tsinghua.edu.cn/\"><span style=\"color: #1e50a2; font-family: 微软雅黑, sans-serif;\">校外访问控制系统</span></a>登录的</span>方式暂无法下载全文&nbsp;。 </span></p>",
+  "accessurl": [
+   {
+    "v": "跨库检索，需登录出校，校内外可直接访问",
+    "url": "http://tlink.lib.tsinghua.edu.cn/go?url=http://www.amexplorer.amdigital.co.uk/"
+   }
+  ]
+ },
+ {
+  "mmsid": "991021906684203966",
+  "name": "AMD Macmillan Cabinet Papers, 1957-1963",
+  "lang": "eng",
+  "type": "档案",
+  "ext": "子库",
+  "sub": "法学;历史学;交叉学科",
+  "intro": "提供了获取前英国首相哈罗德·麦克米伦（Harold Macmillan，1894-1986）执政期间最高政府文档的直接途径。内容涵盖了柏林危机（1958-1961）、古巴导弹危机（1962）、英联邦移民法令（1962）和普罗富莫丑闻（1963.06）等重要事件。收录档案全部源自英国国家档案馆（The National Archives, UK）的收藏，是研究世界史及英国政治的重要资源之一。",
+  "tier": "T1",
+  "urls": [
+   "http://tlink.lib.tsinghua.edu.cn/go?url=https://cn.archivesdirect.amdigital.co.uk/Macmillan"
+  ],
+  "mirror": [],
+  "other": [],
+  "offcampus": "本库可通过以下方式实现校外远程访问<br />①<a href=\"http://tlink.lib.tsinghua.edu.cn/go?url=https://cn.archivesdirect.amdigital.co.uk/Macmillan\">  智能网关</a><br />②<a target=\"_blank\" href=\"${global.offcampus.exproxy}\">  校外访问控制系统</a><br />③<a target=\"_blank\" href=\"${global.offcampus.myloft.url}\">  MyLoft远程访问插件</a>（<a target=\"_blank\" href=\"${global.offcampus.myloftpdf.url}\">注册安装指南</a>）<br />",
+  "notice": "<div>\n<div>\n<p>1.无并发用户数限制。</p>\n</div>\n</div>",
+  "accessurl": ""
+ },
+ {
+  "mmsid": "991021906683703966",
+  "name": "AMD Medical Services and Warfare",
+  "lang": "eng",
+  "type": "档案",
+  "ext": "子库",
+  "sub": "军事学;历史学;医学",
+  "intro": "19世纪中叶的战争年代，在北美与欧洲地区的战斗前线，医疗服务起着至关重要的作用。本数据收录大量战争日记、战争与医疗记述、来往信件、手稿、地图与图片、时事通讯记录等资料，时间覆盖1850-1949年，提供从军事、科学、专家和个人的视角探索战争前线伤员损伤、治疗和疾病，有关研究人员可从中研究战争医疗服务的历史，包括X射线、整形手术、假肢、康复、护理以及战后心理治疗等内容。收录资料来源广泛，如英国护士和统计学家弗罗伦斯•南丁格尔（Florence Nightingale）的个人来往信件，大量志愿者、护士、救护车司机的日记，红十字协会的医疗记录与资料等，内容丰富。",
+  "tier": "T1",
+  "urls": [
+   "http://tlink.lib.tsinghua.edu.cn/go?url=https://www.medicalservicesandwarfare.amdigital.co.uk/"
+  ],
+  "mirror": [],
+  "other": [],
+  "offcampus": "本库可通过以下方式实现校外远程访问<br />①<a href=\"http://tlink.lib.tsinghua.edu.cn/go?url=https://www.medicalservicesandwarfare.amdigital.co.uk/\">  智能网关</a><br />②<a target=\"_blank\" href=\"${global.offcampus.exproxy}\">  校外访问控制系统</a><br />③<a target=\"_blank\" href=\"${global.offcampus.myloft.url}\">  MyLoft远程访问插件</a>（<a target=\"_blank\" href=\"${global.offcampus.myloftpdf.url}\">注册安装指南</a>）<br />",
+  "notice": "<p>1.无并发用户数限制。</p>",
+  "accessurl": ""
+ },
+ {
+  "mmsid": "991021906684503966",
+  "name": "AMD Perdita Manuscripts, 1500-1700",
+  "lang": "eng",
+  "type": "档案",
+  "ext": "子库",
+  "sub": "文学;历史学",
+  "intro": "收录来自英国与北美洲10余家图书馆与档案馆的原始文学手稿230多份，时间覆盖1500-1700年，为研究早期不列颠女性文学与戏剧作品的学者提供了不可缺少的资源。收录收录源自英国的诺丁汉特伦特大学（Nottingham Trent University）和华威大学（University of Warwick）的名为“Perdita Project”的合作项目，很多手稿十分有研究与收藏价值，资料珍贵，内容极为丰富。“Perdita”一词的原意为“lost”（迷失），在16-17世纪很多女性作家撰写的作品仅是以手稿的形式存在并散落各地难以汇总，大都处于“lost”（迷失）状态，项目初衷是广泛收集早期女性作家的文学手稿，并从早期妇女所创作的这些戏剧作品手稿中研究不同的写作手法和作品表达的深刻寓意，“Perdita Project”项目因此而得名并成功完成。",
+  "tier": "T1",
+  "urls": [
+   "http://tlink.lib.tsinghua.edu.cn/go?url=https://www.perditamanuscripts.amdigital.co.uk/"
+  ],
+  "mirror": [],
+  "other": [],
+  "offcampus": "本库可通过以下方式实现校外远程访问<br />①<a href=\"http://tlink.lib.tsinghua.edu.cn/go?url=https://www.perditamanuscripts.amdigital.co.uk/\">  智能网关</a><br />②<a target=\"_blank\" href=\"${global.offcampus.exproxy}\">  校外访问控制系统</a><br />③<a target=\"_blank\" href=\"${global.offcampus.myloft.url}\">  MyLoft远程访问插件</a>（<a target=\"_blank\" href=\"${global.offcampus.myloftpdf.url}\">注册安装指南</a>）<br />",
+  "notice": "<p>1.无并发用户数限制。</p>",
+  "accessurl": ""
+ },
+ {
+  "mmsid": "991021906684603966",
+  "name": "AMD The Grand Tour",
+  "lang": "eng",
+  "type": "档案",
+  "ext": "子库",
+  "sub": "文学;历史学",
+  "intro": "收录了英国著名艺术家、作家和思想家的游学作品，源自大英图书馆（British Library）、耶鲁大学拜内克古籍善本图书馆（Beinecke Rare Book and Manuscript Library，Yale University）和英国白金汉郡档案馆（Buckinghamshire Archives）等著名馆藏机构的珍贵馆藏资料，展示出作者在与欧洲文化的接触中的思考与洞察。同时还收录了许多不知名或无名的游学者的具有深刻思想的作品，包括许多女性游学者的作品，其中对于欧洲大陆生活与社会文化的描写展示了几个世纪以来她们在游学旅行中细致入微的观察。本数据库中收录的手稿、文献和作品使得学者可以从全方位的视角探寻这一时期欧洲各个国家不同的社会风貌与文化生活，时间聚焦1550-1850年。涵盖主题包括欧洲政治与宗教生活、各国外交与对外政、物质追求与文化、生活体验与个人感官、日常生活所见所闻和欧洲王室生活与社会民俗等等，十分丰富。",
+  "tier": "T1",
+  "urls": [
+   "http://tlink.lib.tsinghua.edu.cn/go?url=https://www.grandtour.amdigital.co.uk/"
+  ],
+  "mirror": [],
+  "other": [],
+  "offcampus": "本库可通过以下方式实现校外远程访问<br />①<a href=\"http://tlink.lib.tsinghua.edu.cn/go?url=https://www.grandtour.amdigital.co.uk/\">  智能网关</a><br />②<a target=\"_blank\" href=\"${global.offcampus.exproxy}\">  校外访问控制系统</a><br />③<a target=\"_blank\" href=\"${global.offcampus.myloft.url}\">  MyLoft远程访问插件</a>（<a target=\"_blank\" href=\"${global.offcampus.myloftpdf.url}\">注册安装指南</a>）<br />",
+  "notice": "<p>1.无并发用户数限制。</p>\n<p>2.通过<a href=\"https://eproxy.lib.tsinghua.edu.cn/\">校外访问控制系统</a>登录的方式暂无法下载全文&nbsp;。</p>",
+  "accessurl": ""
+ },
+ {
+  "mmsid": "991021906681403966",
+  "name": "AMD Virginia Company Archives",
+  "lang": "eng",
+  "type": "档案",
+  "ext": "子库",
+  "sub": "历史学",
+  "intro": "提供英国剑桥大学麦格达伦学院（Magdelene College）馆藏的有关“伦敦弗吉尼亚公司”的档案收藏，档案时间覆盖1590-1790年（（重点聚焦1606-1624年），包括完整的费尔家族（The Ferrar Family）文献集（记述了整个家族在早期的弗尼吉亚的社会生活史）、不列颠－美洲间贸易记述、殖民者与美洲原住民的早期紧张关系档案资料等。这些珍贵的档案包括大量手稿记述资料、传记、日记、地图与图片等，记录了有关弗吉尼亚州的起源史与早期经贸发展等方面的内容，是研究大西洋世界与早期殖民地时期的基础文献资料之一。",
+  "tier": "T1",
+  "urls": [
+   "http://tlink.lib.tsinghua.edu.cn/go?url=https://www.virginiacompanyarchives.amdigital.co.uk/"
+  ],
+  "mirror": [],
+  "other": [],
+  "offcampus": "本库可通过以下方式实现校外远程访问<br />①<a href=\"http://tlink.lib.tsinghua.edu.cn/go?url=https://www.virginiacompanyarchives.amdigital.co.uk/\">  智能网关</a><br />②<a target=\"_blank\" href=\"${global.offcampus.exproxy}\">  校外访问控制系统</a><br />③<a target=\"_blank\" href=\"${global.offcampus.myloft.url}\">  MyLoft远程访问插件</a>（<a target=\"_blank\" href=\"${global.offcampus.myloftpdf.url}\">注册安装指南</a>）<br />",
+  "notice": "<div>\n<div>\n<p>1.无并发用户数限制。</p>\n</div>\n</div>",
+  "accessurl": ""
+ },
+ {
+  "mmsid": "991021914404103966",
+  "name": "AMD World's Fairs: A Global History of Expositions",
+  "lang": "eng",
+  "type": "档案",
+  "ext": "子库",
+  "sub": "历史学;交叉学科",
+  "intro": "收录一个多世纪以来记录着全球200多场著名博览会和展览的历史的各类文献资料，时间覆盖1851-2015年，资料源自英国、美国和加拿大的著名图书馆和档案馆馆藏，例如，大英图书馆（The National Archives, UK）、美国哈格利博物馆和图书馆（Hagley Museum and Library）、加拿大图书馆和档案馆（Library and Archives Canada）等。从规划阶段到展会结束后留下来的“文化遗产”，收录资料包罗万象，包括博览会纪念物、纪念品和个人的记述，以及来自组织委员会的官方记录和国际接待方的官方记录，包括小册子、导游手册、官方目录、期刊、附录和函件、地图、照片、明信片和插图等等。",
+  "tier": "T1",
+  "urls": [
+   "http://tlink.lib.tsinghua.edu.cn/go?url=https://www.worldsfairs.amdigital.co.uk/"
+  ],
+  "mirror": [],
+  "other": [],
+  "offcampus": "本库可通过以下方式实现校外远程访问<br />①<a href=\"http://tlink.lib.tsinghua.edu.cn/go?url=https://www.worldsfairs.amdigital.co.uk/\">  智能网关</a><br />②<a target=\"_blank\" href=\"${global.offcampus.exproxy}\">  校外访问控制系统</a><br />③<a target=\"_blank\" href=\"${global.offcampus.myloft.url}\">  MyLoft远程访问插件</a>（<a target=\"_blank\" href=\"${global.offcampus.myloftpdf.url}\">注册安装指南</a>）<br />",
+  "notice": "<p>1.无并发用户数限制。</p>",
+  "accessurl": ""
+ },
+ {
+  "mmsid": "991021498974703966",
+  "name": "Gale primary sources British Library Newspapers",
+  "lang": "eng",
+  "type": "报纸;数据事实",
+  "ext": "子库",
+  "sub": "法学;历史学",
+  "intro": "收录英国从18世纪到20世纪初的报纸，包含国家、区域及地方性报纸。该合集通过一系列的报纸库为广大读者及研究人员提供了丰富的反映社会、政治、文化等多方面资源。来源于大英图书馆的独家馆藏。",
+  "tier": "T1",
+  "urls": [
+   "http://tlink.lib.tsinghua.edu.cn/go?url=https://link.gale.com/apps/BNCN?u=tsinghua"
+  ],
+  "mirror": [],
+  "other": [],
+  "offcampus": "本库可通过以下方式实现校外远程访问<br />①<a href=\"http://tlink.lib.tsinghua.edu.cn/go?url=https://link.gale.com/apps/BNCN?u=tsinghua\">  智能网关</a><br />②<a target=\"_blank\" href=\"${global.offcampus.exproxy}\">  校外访问控制系统</a><br />",
+  "notice": "",
+  "accessurl": ""
+ },
+ {
+  "mmsid": "991021498956703966",
+  "name": "Gale primary sources China and the Modern World",
+  "lang": "eng;chi",
+  "type": "期刊;数据事实;档案",
+  "ext": "子库",
+  "sub": "法学;历史学;哲学;教育学;文学",
+  "intro": "收录了130年间（1817-1949）中国发行，或关于中国的17种英语期刊合集，揭示了晚清时期至民国时期的中国实况，中国从封建社会向现代社会转化的过程。约16万页内容，涉及基督教发展，政治，文化，教育，汉学，社会道德，文学等方面，提供北京、广州等早期传教地区的研究资料。档案主要来源：中国国家图书馆 、耶鲁大学神学院图书馆、美国欧柏林大学图书馆 。",
+  "tier": "T1",
+  "urls": [
+   "http://tlink.lib.tsinghua.edu.cn/go?url=https://link.gale.com/apps/CFER?u=tsinghua"
+  ],
+  "mirror": [],
+  "other": [],
+  "offcampus": "本库可通过以下方式实现校外远程访问<br />①<a href=\"http://tlink.lib.tsinghua.edu.cn/go?url=https://link.gale.com/apps/CFER?u=tsinghua\">  智能网关</a><br />②<a target=\"_blank\" href=\"${global.offcampus.exproxy}\">  校外访问控制系统</a><br />",
+  "notice": "",
+  "accessurl": ""
+ },
+ {
+  "mmsid": "991021498936403966",
+  "name": "Gale primary sources Eighteenth Century Collections Online",
+  "lang": "eng",
+  "type": "图书;数据事实",
+  "ext": "子库",
+  "sub": "哲学;经济学;法学;教育学;文学;历史学;理学;艺术学",
+  "intro": "收录18世纪期间在英国以英语和其他外语出版的关键性出版物180,000余种，包含超过3,300 万页基于 English Short Title Catalogue 的文章，还有数千部重要的美洲作品。目前全球超过1,250家，中国超过15家图书馆可在线访问，为全世界研究18世纪的学者、研究人员和教师提供卓越的在线资源.原始资料来源包括：大英图书馆、 牛津大学、 哈佛大学、 剑桥大学、苏格兰国家图书馆、爱尔兰国家图书馆、 美国国会图书馆等。学科范围包括：文学、历史、艺术、宗教、法律、哲学、音乐、科学等学科。",
+  "tier": "T1",
+  "urls": [
+   "http://tlink.lib.tsinghua.edu.cn/go?url=https://link.gale.com/apps/ECCO?u=tsinghua"
+  ],
+  "mirror": [],
+  "other": [],
+  "offcampus": "本库可通过以下方式实现校外远程访问<br />①<a href=\"http://tlink.lib.tsinghua.edu.cn/go?url=https://link.gale.com/apps/ECCO?u=tsinghua\">  智能网关</a><br />②<a target=\"_blank\" href=\"${global.offcampus.exproxy}\">  校外访问控制系统</a><br />",
+  "notice": "",
+  "accessurl": ""
+ },
+ {
+  "mmsid": "991021498955303966",
+  "name": "Gale primary sources Nineteenth Century UK Periodicals",
+  "lang": "eng",
+  "type": "期刊;图文;数据事实",
+  "ext": "子库",
+  "sub": "法学;历史学;交叉学科",
+  "intro": "收录英国文化生活发展的深入解析，随着出版业的发展，休闲阅读、妇女权利、儿童娱乐和体育方面的内容大量增加，同时还涵盖了帝国的扩张、经济以及非贸易的英国扩张主义的叙述内容，收录大英图书馆、苏格兰国家图书馆、澳大利亚国家图书馆和南非国家图书馆卓越藏品中的图片，为研究浪漫主义和维多利亚时代的经济、生活及非商业方面的学者提供了无以伦比的在线资源。整个合集共包含两个系列：• 系列1：新读者：妇女、儿童、幽默、休闲以及运动• 系列2：大英帝国：旅游和人类学、经济学、传教士和殖民。",
+  "tier": "T1",
+  "urls": [
+   "http://tlink.lib.tsinghua.edu.cn/go?url=https://link.gale.com/apps/NCUK?u=tsinghua"
+  ],
+  "mirror": [],
+  "other": [],
+  "offcampus": "本库可通过以下方式实现校外远程访问<br />①<a href=\"http://tlink.lib.tsinghua.edu.cn/go?url=https://link.gale.com/apps/NCUK?u=tsinghua\">  智能网关</a><br />②<a target=\"_blank\" href=\"${global.offcampus.exproxy}\">  校外访问控制系统</a><br />",
+  "notice": "",
+  "accessurl": ""
+ },
+ {
+  "mmsid": "991021498974403966",
+  "name": "Gale primary sources Punch Historical Archive,1841-1992",
+  "lang": "eng",
+  "type": "期刊;数据事实",
+  "ext": "子库",
+  "sub": "历史学;法学",
+  "intro": "收录《笨拙》杂志1841年至1992年刊载内容的完整数字化典藏，备受赞誉的盖尔报纸回溯数据库平台（Gale NewsVault）上呈现了这一颇具代表性的英国杂志。从W.M.Thackeray到 P.G. Wodehouse，被赞为最著名的幽默杂志《笨拙》发表了多位最佳喜剧作家的英文作品。《笨拙》中著名的漫画曾影响过多个政府，它捕捉了两个多世纪的漫长岁月中所发生的巨变。《笨拙》杂志拥有19世纪至20世纪政治与社会历史方面无与伦比的内容资源。本典藏涵盖了该杂志的全部期刊，可通过卓越的检索功能在历年的内容之中畅游探索。",
+  "tier": "T1",
+  "urls": [
+   "http://tlink.lib.tsinghua.edu.cn/go?url=https://link.gale.com/apps/PNCH?u=tsinghua"
+  ],
+  "mirror": [],
+  "other": [],
+  "offcampus": "本库可通过以下方式实现校外远程访问<br />①<a href=\"http://tlink.lib.tsinghua.edu.cn/go?url=https://link.gale.com/apps/PNCH?u=tsinghua\">  智能网关</a><br />②<a target=\"_blank\" href=\"${global.offcampus.exproxy}\">  校外访问控制系统</a><br />",
+  "notice": "",
+  "accessurl": ""
+ },
+ {
+  "mmsid": "991021699939503966",
+  "name": "Gale primary sources Seventeenth and Eighteenth Century Burney Newspapers Collection",
+  "lang": "eng",
+  "type": "报纸;图书;新闻公告;手抄本",
+  "ext": "子库",
+  "sub": "文学;历史学",
+  "intro": "收录两个世纪以来最大的英语新闻媒体收藏。该藏品由Charles Burney牧师（1757年–1817年）收藏，帮助研究者了解现代报纸的发展，从不定期发表的抄本和公告，到咖啡馆的新闻书籍，最终发展到目前的报纸形式。出版物来自英格兰、苏格兰、爱尔兰和几个英国殖民地。",
+  "tier": "T1",
+  "urls": [
+   "http://tlink.lib.tsinghua.edu.cn/go?url=https://link.gale.com/apps/BBCN?u=tsinghua"
+  ],
+  "mirror": [],
+  "other": [],
+  "offcampus": "本库可通过以下方式实现校外远程访问<br />①<a href=\"http://tlink.lib.tsinghua.edu.cn/go?url=https://link.gale.com/apps/BBCN?u=tsinghua\">  智能网关</a><br />②<a target=\"_blank\" href=\"${global.offcampus.exproxy}\">  校外访问控制系统</a><br />",
+  "notice": "",
+  "accessurl": ""
+ },
+ {
+  "mmsid": "991021498977603966",
+  "name": "Gale primary sources Smithsonian Collections Online",
+  "lang": "eng",
+  "type": "图书;数据事实;图文",
+  "ext": "子库",
+  "sub": "历史学",
+  "intro": "收录了史密森学会（Smithsonian Institute）的在线产品，由盖尔公司与美国史密森学会携手合作，提供数字化的原始资料，为用户带来多学科主题的研究与教育内容。根据与史密森学会合作项目共分4个模块：•世界博览会与展览会： 展望明天• 贸易文献与行业商品• 飞行的发展，1784-1991•《航空与航天双月刊》与《史密森学会月刊》在线典藏。史密森学会是世界上规模最大的博物馆和研究机构综合体，拥有19家博物馆及美术馆、1家国家动物园及9所研究机构，其中包括国立美国历史博物馆、国立美国自然历史博物馆、国家航空和太空博物馆等，共有约1.37亿件藏品。史密森学会是美国唯一一所由美国政府资助、半官方性质的博物馆机构，该机构大多数设施位于华盛顿特区，此外还有部分设施散布在从纽约到弗吉尼亚州，甚至巴拿马的广阔区域。该机构于1846年成立，资金源于英国科学家詹姆斯 • 史密森（James Smithson）对美国的遗赠。",
+  "tier": "T1",
+  "urls": [
+   "http://tlink.lib.tsinghua.edu.cn/go?url=https://link.gale.com/apps/SMIT?u=tsinghua"
+  ],
+  "mirror": [],
+  "other": [],
+  "offcampus": "本库可通过以下方式实现校外远程访问<br />①<a href=\"http://tlink.lib.tsinghua.edu.cn/go?url=https://link.gale.com/apps/SMIT?u=tsinghua\">  智能网关</a><br />②<a target=\"_blank\" href=\"${global.offcampus.exproxy}\">  校外访问控制系统</a><br />",
+  "notice": "",
+  "accessurl": ""
+ },
+ {
+  "mmsid": "991021699938803966",
+  "name": "Gale primary sources The Illustrated London News Historical Archive, 1842-2003",
+  "lang": "eng",
+  "type": "数据事实;报纸;图文;档案",
+  "ext": "子库",
+  "sub": "历史学;文学",
+  "intro": "收录自该周报1842年创刊以来至2003年的最后一期的每一期内容——包含所有的分类和展示广告——特别刊号及报告，以高画质的彩色图像重现。近260,000页的数字典藏提供了有关当代英国生活的丰富描述及独特的视角。《伦敦新闻画报》提供了前所未有的视觉之旅，关于胜利、悲剧、每日生活、当代大英帝国以及世界性的纪念事件。为学生和研究人员提供课题，如：社会历史、时尚、戏剧、媒体、文学、广告、平面设计和政治，以及公众，特别是宗谱学。",
+  "tier": "T1",
+  "urls": [
+   "http://tlink.lib.tsinghua.edu.cn/go?url=https://link.gale.com/apps/ILN?u=tsinghua"
+  ],
+  "mirror": [],
+  "other": [],
+  "offcampus": "本库可通过以下方式实现校外远程访问<br />①<a href=\"http://tlink.lib.tsinghua.edu.cn/go?url=https://link.gale.com/apps/ILN?u=tsinghua\">  智能网关</a><br />②<a target=\"_blank\" href=\"${global.offcampus.exproxy}\">  校外访问控制系统</a><br />",
+  "notice": "",
+  "accessurl": ""
+ },
+ {
+  "mmsid": "991022899108803966",
+  "name": "Marx & Engels Collected Works @ Project MUSE",
+  "lang": "eng",
+  "type": "图书",
+  "ext": "子库",
+  "sub": "哲学;历史学;法学;经济学",
+  "intro": "本资源为马恩全集的英文版，由英国Lawrence & Wishart Publishers（劳伦斯&维沙特出版社）于1975－2004年出版，共50卷，收录了各语种中最全面的马克思与恩格斯著作。收录内容包括：1835－1895年间所有著作；未出版过的手稿与信件；哲学、历史、政治、经济领域的著作；马克思的资本论以及与之直接相关的初稿和著作，尤其是1857－1858年的经济学手稿（《政治经济学批判大纲》），以及富有理论内容的信件。",
+  "tier": "T1",
+  "urls": [
+   "http://tlink.lib.tsinghua.edu.cn/go?url=https://muse.jhu.edu/search?action=search&limit=series_id:768&min=1&max=10&t=series_facet_select"
+  ],
+  "mirror": [],
+  "other": [],
+  "offcampus": "本库可通过以下方式实现校外远程访问<br />①<a href=\"http://tlink.lib.tsinghua.edu.cn/go?url=https://muse.jhu.edu/search?action=search&limit=series_id:768&min=1&max=10&t=series_facet_select\">  智能网关</a><br />②<a target=\"_blank\" href=\"${global.offcampus.exproxy}\">  校外访问控制系统</a><br />③<a target=\"_blank\" href=\"${global.offcampus.myloft.url}\">  MyLoft远程访问插件</a>（<a target=\"_blank\" href=\"${global.offcampus.myloftpdf.url}\">注册安装指南</a>）<br />",
+  "notice": "<p>1. 可以下载全文的PDF电子版。</p>\n<p>2. 呈现的是检索结果页面，未按照卷次排序。</p>\n<p>本资源属于<a href=\"https://ecollection.lib.tsinghua.edu.cn/databasenav/entrance/detail?mmsid=991021556139803966\">Project MUSE</a>平台。</p>",
+  "accessurl": ""
+ },
+ {
+  "mmsid": "991021872423003966",
+  "name": "ProQuest British Periodicals",
+  "lang": "eng",
+  "type": "期刊",
+  "ext": "子库",
+  "sub": "哲学;文学;历史学;法学;工学;理学;艺术学;交叉学科",
+  "intro": "收录1680年至2005年间出版的490多种英国全文期刊的文献，涵盖了英国两个多世纪以来的历史与文化，覆盖学科有文学、哲学、历史、科学、社会科学、美术、戏剧、考古以及建筑等。",
+  "tier": "T1",
+  "urls": [
+   "http://tlink.lib.tsinghua.edu.cn/go?url=https://www.proquest.com/britishperiodicals/?accountid=14426"
+  ],
+  "mirror": [],
+  "other": [],
+  "offcampus": "<p>本库可通过以下方式实现校外远程访问<br />①<a href=\"http://tlink.lib.tsinghua.edu.cn/go?url=https://www.proquest.com/britishperiodicals/?accountid=14426\" target=\"_blank\" rel=\"noopener\"> 智能网关</a><br />②<a href=\"${global.offcampus.exproxy}\" target=\"_blank\" rel=\"noopener\"> 校外访问控制系统</a><br />③ <a href=\"https://go.openathens.net/redirector/tsinghua.edu.cn?url=https%3A%2F%2Fwww.proquest.com%2Fbritishperiodicals%2F%3Faccountid%3D14426\" target=\"_blank\" rel=\"noopener\">机构用户身份认证</a>（Shibboleth或OpenAthens认证方式）<br />④<a href=\"${global.offcampus.myloft.url}\" target=\"_blank\" rel=\"noopener\"> MyLoft远程访问插件</a>（<a href=\"${global.offcampus.myloftpdf.url}\" target=\"_blank\" rel=\"noopener\">注册安装指南</a>）</p>",
+  "notice": "",
+  "accessurl": ""
+ },
+ {
+  "mmsid": "991021873235703966",
+  "name": "ProQuest Documents on British Policy Overseas",
+  "lang": "eng",
+  "type": "档案",
+  "ext": "子库",
+  "sub": "历史学;法学;交叉学科;管理学",
+  "intro": "收录1898-1990年间英国外交部有关英国外交政策、海外政策及相关领域的重要原始档案，总计逾5.6万份，包含外国政策指导、信件、备忘录、商业报告等，内容覆盖英国的历史、政治、外交与情报等研究领域。这些原始资料由其官方历史学家甄选，并同时对所选文件做了解密处理。数据库中文献可进行全文检索与浏览，为学者提供丰富、全面的英国外交史研究第一手资料。",
+  "tier": "T1",
+  "urls": [
+   "http://tlink.lib.tsinghua.edu.cn/go?url=https://www.proquest.com/dbpo/?accountid=14426"
+  ],
+  "mirror": [],
+  "other": [],
+  "offcampus": "<p>本库可通过以下方式实现校外远程访问<br />①<a href=\"http://tlink.lib.tsinghua.edu.cn/go?url=https://www.proquest.com/dbpo/?accountid=14426\" target=\"_blank\" rel=\"noopener\"> 智能网关</a><br />②<a href=\"${global.offcampus.exproxy}\" target=\"_blank\" rel=\"noopener\"> 校外访问控制系统</a><br />③ <a href=\"https://go.openathens.net/redirector/tsinghua.edu.cn?url=https%3A%2F%2Fwww.proquest.com%2Fdbpo%2F%3Faccountid%3D14426\" target=\"_blank\" rel=\"noopener\">机构用户身份认证</a>（Shibboleth或OpenAthens认证方式）<br />④<a href=\"${global.offcampus.myloft.url}\" target=\"_blank\" rel=\"noopener\"> MyLoft远程访问插件</a>（<a href=\"${global.offcampus.myloftpdf.url}\" target=\"_blank\" rel=\"noopener\">注册安装指南</a>）</p>",
+  "notice": "",
+  "accessurl": ""
+ },
+ {
+  "mmsid": "991021906681003966",
+  "name": "AMD Mass Observation Online",
+  "lang": "eng",
+  "type": "档案",
+  "ext": "子库",
+  "sub": "法学",
+  "intro": "英国《大众观察》（Mass-Observation）于1937年由人类学家汤姆·哈里逊（Tom Harrisson）、诗人查尔斯·马奇（Charles Madge）、艺术家兼电影制片人汉弗莱·詹宁斯（Humphrey Jennings）联合创立，致力于从事英国文化与社会学、哲学与人类学方面的深入研究与探索，聚焦20世纪英国的历史与文化。本数据库提供源自英国萨塞克斯大学的大众观察档案专藏（The Mass Observation Archive, University of Sussex, Special Collections），资料日期范围集中于1937-1967年间，内容涵盖二战期间及后期的英国社会、人民生活热点问题的调查报告、大众观察档案馆出版物、工人阶级状况等，文献类型包括个人手稿、报告、问卷、公文、原始材料、照片及地图等，内容丰富。",
+  "tier": "T1",
+  "urls": [
+   "http://tlink.lib.tsinghua.edu.cn/go?url=https://www.massobservation.amdigital.co.uk/"
+  ],
+  "mirror": [],
+  "other": [],
+  "offcampus": "本库可通过以下方式实现校外远程访问<br />①<a href=\"http://tlink.lib.tsinghua.edu.cn/go?url=https://www.massobservation.amdigital.co.uk/\">  智能网关</a><br />②<a target=\"_blank\" href=\"${global.offcampus.exproxy}\">  校外访问控制系统</a><br />③<a target=\"_blank\" href=\"${global.offcampus.myloft.url}\">  MyLoft远程访问插件</a>（<a target=\"_blank\" href=\"${global.offcampus.myloftpdf.url}\">注册安装指南</a>）<br />",
+  "notice": "<p>1.无并发用户数限制。</p>",
+  "accessurl": ""
+ },
+ {
+  "mmsid": "991021914408303966",
+  "name": "AMD Popular Culture in Britain and America, 1950-1975",
+  "lang": "eng",
+  "type": "档案",
+  "ext": "子库",
+  "sub": "法学",
+  "intro": "收录大量的手稿、视觉材料、短时效物品和视频剪辑等珍稀文献，很好的展现了1950-1975年这段时间里，英国和美国两个文化大国大众文化的方方面面，尤其是在社会、政治及文化生活上的变迁。本数据库涵盖的主题还涉及艺术学与建筑、消费文化、药物与医疗、公民权利与平等抗争、生态与环境、时尚与潮流、文学与戏剧、文化宣传与音乐、政治与社会、妇女权利与权益、物质追求与精神憧憬等等，可以让读者很好的了解到当时大众文化的各方面，具有很高的研究与实用价值。",
+  "tier": "T1",
+  "urls": [
+   "http://tlink.lib.tsinghua.edu.cn/go?url=https://www.rockandroll.amdigital.co.uk/"
+  ],
+  "mirror": [],
+  "other": [],
+  "offcampus": "本库可通过以下方式实现校外远程访问<br />①<a href=\"http://tlink.lib.tsinghua.edu.cn/go?url=https://www.rockandroll.amdigital.co.uk/\">  智能网关</a><br />②<a target=\"_blank\" href=\"${global.offcampus.exproxy}\">  校外访问控制系统</a><br />③<a target=\"_blank\" href=\"${global.offcampus.myloft.url}\">  MyLoft远程访问插件</a>（<a target=\"_blank\" href=\"${global.offcampus.myloftpdf.url}\">注册安装指南</a>）<br />",
+  "notice": "<p>1.无并发用户数限制。</p>",
+  "accessurl": ""
+ },
+ {
+  "mmsid": "991021779483503966",
+  "name": "AMD The Nixon Years, 1969-1974",
+  "lang": "eng",
+  "type": "档案",
+  "ext": "子库",
+  "sub": "法学;交叉学科",
+  "intro": "数据库内容全部来源于英国国家档案馆（The National Archives, UK），时间覆盖尼克松政府整个执政时期的1969-1974年，既包括高水平的来自英裔美国人的时事评述文献与重要历史事件的详情记述资料，也包含有与社会地位、美国国内改革、贸易、文化与环境等主题相关的大量珍贵存档资料。这些文件向学者与研究人员提供了宝贵的机会，让研究者从英国、欧洲与联邦国家的角度对历史事件进行充分的研究与重新的审视，如尼克松对冷战危机的处理，执政时期的重大成就，以及在水门事件与总统弹劾中有争议的活动与执行权的运用等。",
+  "tier": "T1",
+  "urls": [
+   "http://tlink.lib.tsinghua.edu.cn/go?url=https://cn.archivesdirect.amdigital.co.uk/Nixon"
+  ],
+  "mirror": [],
+  "other": [],
+  "offcampus": "本库可通过以下方式实现校外远程访问<br />①<a href=\"http://tlink.lib.tsinghua.edu.cn/go?url=https://cn.archivesdirect.amdigital.co.uk/Nixon\">  智能网关</a><br />②<a target=\"_blank\" href=\"${global.offcampus.exproxy}\">  校外访问控制系统</a><br />③<a target=\"_blank\" href=\"${global.offcampus.myloft.url}\">  MyLoft远程访问插件</a>（<a target=\"_blank\" href=\"${global.offcampus.myloftpdf.url}\">注册安装指南</a>）<br />",
+  "notice": "<p><span lang=\"EN-US\" style=\"font-family: 微软雅黑, sans-serif;\">1.</span><span style=\"font-family: 微软雅黑, sans-serif;\">无并发用户数限制。</span></p>",
+  "accessurl": [
+   {
+    "v": "跨库检索，需登录出校，校内外可直接访问",
+    "url": "http://tlink.lib.tsinghua.edu.cn/go?url=http://www.amexplorer.amdigital.co.uk/"
+   }
+  ]
+ },
+ {
+  "mmsid": "991021914408203966",
+  "name": "AMD Victorian Popular Culture",
+  "lang": "eng",
+  "type": "档案",
+  "ext": "子库",
+  "sub": "法学",
+  "intro": "收录文献资料丰富，全面描述了历史上维多利亚时代的英国、美国和欧洲大众娱乐文化的各个层面，时间覆盖1779-1930年，包括四个部分：（1）感觉、魔幻与唯灵论  收录的资源展现了维多利亚时代魔术表演和技巧的流行与英美两国唯灵论出现之间的微妙关系。（2）马戏、杂耍和奇异文化  收录了记录各种有特色娱乐文化内容的资源，展现了大众文化表演的方方方面，包含极具欣赏价值的大量海报、插图及彩图。（3）音乐厅、剧院和大众娱乐  收录了维多利亚时代戏剧、哑剧等艺术演出的有关材料。（4）电影、视觉娱乐与影院的出现  收录了维多利亚和爱德华时代有关视觉娱乐、早期全景成像、早期动作场景制作等方面的文献资源。",
+  "tier": "T1",
+  "urls": [
+   "http://tlink.lib.tsinghua.edu.cn/go?url=https://www.victorianpopularculture.amdigital.co.uk/"
+  ],
+  "mirror": [],
+  "other": [],
+  "offcampus": "本库可通过以下方式实现校外远程访问<br />①<a href=\"http://tlink.lib.tsinghua.edu.cn/go?url=https://www.victorianpopularculture.amdigital.co.uk/\">  智能网关</a><br />②<a target=\"_blank\" href=\"${global.offcampus.exproxy}\">  校外访问控制系统</a><br />③<a target=\"_blank\" href=\"${global.offcampus.myloft.url}\">  MyLoft远程访问插件</a>（<a target=\"_blank\" href=\"${global.offcampus.myloftpdf.url}\">注册安装指南</a>）<br />",
+  "notice": "<p>1.无并发用户数限制。</p>",
+  "accessurl": ""
+ },
+ {
+  "mmsid": "991021906680803966",
+  "name": "AMD Women in the National Archives",
+  "lang": "eng",
+  "type": "档案",
+  "ext": "子库",
+  "sub": "法学;交叉学科",
+  "intro": "包含两大类资源：1.英国国家档案馆（National Archives，UK）馆藏妇女研究资源检索工具（“Finding Aid”），该辅助查找工具可以覆盖英国国家档案馆持有的所有文档类别。2.不列颠、英帝国与殖民地疆土的参政权问题原始文件，原始文件涵盖1903-1928年英国妇女选举权运动和1930-1962年殖民地妇女选举权的授予。",
+  "tier": "T1",
+  "urls": [
+   "http://tlink.lib.tsinghua.edu.cn/go?url=https://cn.archivesdirect.amdigital.co.uk/WTNA"
+  ],
+  "mirror": [],
+  "other": [],
+  "offcampus": "本库可通过以下方式实现校外远程访问<br />①<a href=\"http://tlink.lib.tsinghua.edu.cn/go?url=https://cn.archivesdirect.amdigital.co.uk/WTNA\">  智能网关</a><br />②<a target=\"_blank\" href=\"${global.offcampus.exproxy}\">  校外访问控制系统</a><br />③<a target=\"_blank\" href=\"${global.offcampus.myloft.url}\">  MyLoft远程访问插件</a>（<a target=\"_blank\" href=\"${global.offcampus.myloftpdf.url}\">注册安装指南</a>）<br />",
+  "notice": "<p>1.&ldquo;Finding Aid&rdquo;（馆藏妇女研究资源检索工具）模块暂不提供使用。</p>\n<p>2.无并发用户数限制。</p>",
+  "accessurl": ""
+ },
+ {
+  "mmsid": "991021498949003966",
+  "name": "Gale primary sources Chatham House Online Archive",
+  "lang": "eng",
+  "type": "期刊;图书;数据事实",
+  "ext": "子库",
+  "sub": "法学;交叉学科",
+  "intro": "查塔姆研究所（Chatham House），正式名称为“英国皇家国际事务研究所”（The Royal Institute of International Affairs），成立于1920年，位于伦敦圣詹姆斯广场的查塔姆大厦内，是一家非营利性非政府性的智库组织；其使命为分析国际事务与时事，以及推广其认识，被同业认为是世界国际事务领域的领导机构。该组织提供：独立的分析和有根据的辩论，以及关于全球发展的重大讨论；关于全球、区域和特定国家挑战的独立和严谨的分析。现今，盖尔公司与查塔姆研究所进行合作，为您带来其20世纪以及21世纪的内容丰富的数字典藏，直接为研究人员和学生带来可在线检索的国际事务知识和专业分析技能。",
+  "tier": "T1",
+  "urls": [
+   "http://tlink.lib.tsinghua.edu.cn/go?url=https://link.gale.com/apps/CHOA?u=tsinghua"
+  ],
+  "mirror": [],
+  "other": [],
+  "offcampus": "本库可通过以下方式实现校外远程访问<br />①<a href=\"http://tlink.lib.tsinghua.edu.cn/go?url=https://link.gale.com/apps/CHOA?u=tsinghua\">  智能网关</a><br />②<a target=\"_blank\" href=\"${global.offcampus.exproxy}\">  校外访问控制系统</a><br />",
+  "notice": "",
+  "accessurl": ""
+ },
+ {
+  "mmsid": "991021903107303966",
+  "name": "Gale primary sources The Making of Modern Law:Legal Treatises, 1800–1926",
+  "lang": "eng",
+  "type": "图书;法律论文;数据事实",
+  "ext": "子库",
+  "sub": "法学",
+  "intro": "《现代法律的制定：法律论著》，1800-1926年是当今最全面的英美法律论著全文集。该档案来源于世界上最重要的法律图书馆，几乎涵盖了美国和英国法律的方方面面，包含了大量用于美国和英国法律史研究的分析、理论和实践文献。它以案例书、当地实践手册、表格书、非专业读者作品、小册子、信件、演讲以及当时最有影响力的作家和法律思想家的其他作品为特色。这本书集由22000本书组成，最初是19世纪和20世纪的法律专著，这是一本缩微胶卷集，来自哈佛法学院图书馆、耶鲁大学、约克大学、哥伦比亚大学以及美国、加拿大和英国的21所其他机构",
+  "tier": "T1",
+  "urls": [
+   "http://tlink.lib.tsinghua.edu.cn/go?url=https://link.gale.com/apps/MOML?u=tsinghua"
+  ],
+  "mirror": [],
+  "other": [],
+  "offcampus": "本库可通过以下方式实现校外远程访问<br />①<a href=\"http://tlink.lib.tsinghua.edu.cn/go?url=https://link.gale.com/apps/MOML?u=tsinghua\">  智能网关</a><br />②<a target=\"_blank\" href=\"${global.offcampus.exproxy}\">  校外访问控制系统</a><br />",
+  "notice": "",
+  "accessurl": ""
+ },
+ {
+  "mmsid": "991021761463903966",
+  "name": "HeinOnline Statutes of the Realm",
+  "lang": "eng",
+  "type": "数据事实;法律法规",
+  "ext": "子库",
+  "sub": "法学",
+  "intro": "该库是英国国会法案的权威汇编，最早可追溯到1707年的议会联盟，而大不列颠议会法案则一直传到1714年安妮女王去世。",
+  "tier": "T1",
+  "urls": [
+   "http://tlink.lib.tsinghua.edu.cn/go?url=https://heinonline.org/HOL/Index?collection=statore&set_as_cursor=clear"
+  ],
+  "mirror": [],
+  "other": [],
+  "offcampus": "<p>本库可通过以下方式实现校外远程访问<br />①<a href=\"http://tlink.lib.tsinghua.edu.cn/go?url=https://heinonline.org/HOL/Index?collection=statore&amp;set_as_cursor=clear\"> 智能网关</a><br />②<a href=\"${global.offcampus.exproxy}\" target=\"_blank\" rel=\"noopener\"> 校外访问控制系统</a></p>\n<p>③基于shibboleth认证访问（<a href=\"https://heinonline.org/HOL/oa/login?entityID=https://idp.tsinghua.edu.cn/idp/shibboleth\">WAYFless</a>登录）</p>",
+  "notice": "",
+  "accessurl": ""
+ },
+ {
+  "mmsid": "991021498905603966",
+  "name": "WESTLAW",
+  "lang": "eng",
+  "type": "期刊;图书;检索平台;法律法规;词典;百科全书",
+  "ext": "主库",
+  "sub": "法学;文学",
+  "intro": "Westlaw数据库收录了判例、法律法规、法学期刊等内容，其中包括：（1）判例：收录了美国联邦和州判例、英国、欧盟、澳大利亚、中国香港地区和加拿大的所有判例。除此之外，还提供其它国际机构的判例报告，包括国际法院、国际刑事法院（前南法院和卢旺达法庭）、世贸组织等判例报告。（2）法律法规：除了出版大量的法律法规，还收录了各国的法律条文，其中主要包括英国成文法、美国联邦和州法、欧盟法规、中国香港地区和加拿大的法律法规。（3）法学期刊：1000余种法学期刊，覆盖了当今80%以上的英文核心期刊。（4）法学专著、教材、词典和百科全书：独家完整收录了法律界最为权威的法律词典——Black’s Law Dictionary, 12th（《布莱克法律词典》（第十二版））、American Law Reports（《美国法律精解》）、American Jurisprudence（《美国法律大百科》）、Corpus Juris Secundum (《美国法律释义续编》)、USCA（《美国联邦法典注释》）。（5）新闻、公司和商业信息：除提供法律信息外，还提供包括New York Times（《纽约时报》）在内的新闻报道以及新闻频道的报告底稿。另外，还包括如Forbes（《福布斯杂志》）、Fortune（《财富杂志》）、Harvard Business Review（《哈佛商业评论》）、The Economics（《经济学人》）、Business Week（《商业周刊》）等经济类刊物。",
+  "tier": "T1",
+  "urls": [
+   "https://signon.thomsonreuters.com/federation/CARSI?entityid=https://idp.tsinghua.edu.cn/idp/shibboleth&returnto=https://www.westlaw.com"
+  ],
+  "mirror": [],
+  "other": [],
+  "offcampus": "<p style=\"line-height: 1.75em;\"><strong>访问方法：</strong></p>\n<p style=\"line-height: 1.75em;\">（1）点击访问入口链接，进入身份认证系统，输入账密登录（<span style=\"color: #000000;\"><span style=\"color: #fa0101;\">如是第一次访问数据库，需要进行简单的注册，包括姓名、邮箱等。完成注册后再次访问无需重复注册，注册信息一经提交无法个人修改，如确需修改，请联系责任馆员</span> </span>）。</p>\n<p style=\"line-height: 1.75em;\">（2）完成上述操作后，系统提示输入Client ID（输入随意数字即可），点击Continue即可正常访问。</p>\n<p style=\"line-height: 1.75em;\"><strong>注：请通过数据库说明页的访问入口链接进行访问</strong></p>",
+  "notice": "",
+  "accessurl": ""
+ },
+ {
+  "mmsid": "991021905305503966",
+  "name": "AMD AM Scholar Literary Studies",
+  "lang": "eng",
+  "type": "档案",
+  "ext": "子库",
+  "sub": "文学",
+  "intro": "收录18至19世纪英美文学家们的珍贵文献，包括文学手稿、书信、日记、报刊、作品集、珍贵图书、出版社商务记录等，重点聚焦英美文学最有价值的最具研究深度的文学手稿，包括那一时期最有影响力的作家英国诗人罗伯特•勃朗宁（Robert Browning）和英国小说家乔治•艾略特（George Eliot）的手稿，是文学作品与体裁、文学史研究方面最为全面、最有价值的研究资料之一。",
+  "tier": "T1",
+  "urls": [
+   "http://tlink.lib.tsinghua.edu.cn/go?url=https://www.amscholar.amdigital.co.uk/LitStudies"
+  ],
+  "mirror": [],
+  "other": [],
+  "offcampus": "本库可通过以下方式实现校外远程访问<br />①<a href=\"http://tlink.lib.tsinghua.edu.cn/go?url=https://www.amscholar.amdigital.co.uk/LitStudies\">  智能网关</a><br />②<a target=\"_blank\" href=\"${global.offcampus.exproxy}\">  校外访问控制系统</a><br />③<a target=\"_blank\" href=\"${global.offcampus.myloft.url}\">  MyLoft远程访问插件</a>（<a target=\"_blank\" href=\"${global.offcampus.myloftpdf.url}\">注册安装指南</a>）<br />",
+  "notice": "<p><span lang=\"EN-US\" style=\"font-family: 微软雅黑, sans-serif;\">1.</span><span style=\"font-family: 微软雅黑, sans-serif;\">无并发用户数限制。</span></p>\n<p><span style=\"font-family: 微软雅黑, sans-serif;\">2. 通过<span style=\"font-family: 宋体;\"><a href=\"https://eproxy.lib.tsinghua.edu.cn/\"><span style=\"color: #1e50a2; font-family: 微软雅黑, sans-serif;\">校外访问控制系统</span></a>登录的</span>方式暂无法下载全文&nbsp;。</span></p>",
+  "accessurl": ""
+ },
+ {
+  "mmsid": "991021903105503966",
+  "name": "AMD Eighteenth Century Drama",
+  "lang": "eng",
+  "type": "档案",
+  "ext": "子库",
+  "sub": "文学",
+  "intro": "收录文献内容提供了独特的视角，向人们展示18世纪剧院文化与社会生活的方方面面，时间覆盖1737-1824年，收录内容主要源自美国亨廷顿图书馆（Huntington Library）的约翰•拉蓬特收藏（John Larpent Collection），资料还来自英国皇家乔治国王剧院（Georgian Theatre Royal，Richmond）、维多利亚和阿尔伯特博物馆（Victoria and Albert Museum）、加里克会图书馆（Garrick Club Library）、伦敦大学（University of London）和大英图书馆（British Library）等机构的收藏。",
+  "tier": "T1",
+  "urls": [
+   "http://tlink.lib.tsinghua.edu.cn/go?url=https://www.eighteenthcenturydrama.amdigital.co.uk"
+  ],
+  "mirror": [],
+  "other": [],
+  "offcampus": "本库可通过以下方式实现校外远程访问<br />①<a href=\"http://tlink.lib.tsinghua.edu.cn/go?url=https://www.eighteenthcenturydrama.amdigital.co.uk\">  智能网关</a><br />②<a target=\"_blank\" href=\"${global.offcampus.exproxy}\">  校外访问控制系统</a><br />③<a target=\"_blank\" href=\"${global.offcampus.myloft.url}\">  MyLoft远程访问插件</a>（<a target=\"_blank\" href=\"${global.offcampus.myloftpdf.url}\">注册安装指南</a>）<br />",
+  "notice": "<p><span style=\"font-family: 微软雅黑, sans-serif;\">1.</span><span style=\"font-family: 微软雅黑, sans-serif;\">无并发用户数限制。</span></p>",
+  "accessurl": ""
+ },
+ {
+  "mmsid": "991021906684903966",
+  "name": "AMD Literary Manuscripts Leeds",
+  "lang": "eng",
+  "type": "档案",
+  "ext": "子库",
+  "sub": "文学",
+  "intro": "收录文献为英国利兹大学Brotherton图书馆（The Brotherton Library, University of Leeds）收藏的17世纪和18世纪的诗歌手稿。此外，这批收藏中还包括部分抄录的诗句、译文、歌曲和谜语，以及部分信件草稿、乐谱与剧本、医药配方、家庭账目等等，是研究文学、社会学、政治学与历史学等的珍贵史料。",
+  "tier": "T1",
+  "urls": [
+   "http://tlink.lib.tsinghua.edu.cn/go?url=https://www.literarymanuscriptsleeds.amdigital.co.uk/"
+  ],
+  "mirror": [],
+  "other": [],
+  "offcampus": "本库可通过以下方式实现校外远程访问<br />①<a href=\"http://tlink.lib.tsinghua.edu.cn/go?url=https://www.literarymanuscriptsleeds.amdigital.co.uk/\">  智能网关</a><br />②<a target=\"_blank\" href=\"${global.offcampus.exproxy}\">  校外访问控制系统</a><br />③<a target=\"_blank\" href=\"${global.offcampus.myloft.url}\">  MyLoft远程访问插件</a>（<a target=\"_blank\" href=\"${global.offcampus.myloftpdf.url}\">注册安装指南</a>）<br />",
+  "notice": "<div>\n<div>\n<p>1.无并发用户数限制。</p>\n</div>\n</div>",
+  "accessurl": ""
+ },
+ {
+  "mmsid": "991021779450903966",
+  "name": "AMD Shakespeare in Performance: Prompt Books from the Folger Shakespeare Library",
+  "lang": "eng",
+  "type": "档案",
+  "ext": "子库",
+  "sub": "文学",
+  "intro": "收录的莎士比亚戏剧表演演出提白书（prompt books）全部来自美国福尔杰莎士比亚图书馆（Folger Shakespeare Library），涵盖《哈姆雷特》、《罗密欧与朱丽叶》、《麦克白》、《李尔王》和《威尼斯商人》等34部莎士比亚戏剧，共计1000多本，演出时间覆盖1670s至1970s，讲述了十七世纪至二十世纪期间莎士比亚戏剧在英国、美国和国际舞台上演出的故事。透过这些资料，读者可深入幕后探索数百年来戏剧公司、演员和导演是如何解读莎士比亚戏剧的，丰富对莎士比亚戏剧自创作以来的解读和表演方式的理解。",
+  "tier": "T1",
+  "urls": [
+   "http://tlink.lib.tsinghua.edu.cn/go?url=https://www.shakespeareinperformance.amdigital.co.uk"
+  ],
+  "mirror": [],
+  "other": [],
+  "offcampus": "本库可通过以下方式实现校外远程访问<br />①<a href=\"http://tlink.lib.tsinghua.edu.cn/go?url=https://www.shakespeareinperformance.amdigital.co.uk\">  智能网关</a><br />②<a target=\"_blank\" href=\"${global.offcampus.exproxy}\">  校外访问控制系统</a><br />③<a target=\"_blank\" href=\"${global.offcampus.myloft.url}\">  MyLoft远程访问插件</a>（<a target=\"_blank\" href=\"${global.offcampus.myloftpdf.url}\">注册安装指南</a>）<br />",
+  "notice": "<p><span lang=\"EN-US\" style=\"font-family: 微软雅黑, sans-serif;\">1.</span><span style=\"font-family: 微软雅黑, sans-serif;\">无并发用户数限制。</span></p>\n<p><span style=\"font-family: 微软雅黑, sans-serif;\">2. 通过<span style=\"font-family: 宋体;\"><a href=\"https://eproxy.lib.tsinghua.edu.cn/\"><span style=\"color: #1e50a2; font-family: 微软雅黑, sans-serif;\">校外访问控制系统</span></a>登录的</span>方式暂无法下载全文&nbsp;。 </span></p>",
+  "accessurl": [
+   {
+    "v": "跨库检索，需登录出校，校内外可直接访问",
+    "url": "http://tlink.lib.tsinghua.edu.cn/go?url=http://www.amexplorer.amdigital.co.uk/"
+   }
+  ]
+ },
+ {
+  "mmsid": "991021779479903966",
+  "name": "AMD Shakespeare's Globe Archive: Theatres, Players & Performance",
+  "lang": "eng",
+  "type": "档案",
+  "ext": "子库",
+  "sub": "文学",
+  "intro": "收录文献资料全部源自1997年在英国伦敦落成开放的莎士比亚环球剧场（Globe Theatre）的档案资料收藏，涵盖从1997-2016年在莎士比亚环球剧场演出的300多部作品，同时也收录了记录环球剧场开放后舞台状况与演出环境发生变化的档案资料，以及剧场设计、修建特色和经营理念等方面的资料，是研究莎士比亚、戏剧、文化史和早期现代文学以及探索二十年间开创性的戏剧实验的重要资源。",
+  "tier": "T1",
+  "urls": [
+   "http://tlink.lib.tsinghua.edu.cn/go?url=https://www.shakespearesglobearchive.amdigital.co.uk/"
+  ],
+  "mirror": [],
+  "other": [],
+  "offcampus": "本库可通过以下方式实现校外远程访问<br />①<a href=\"http://tlink.lib.tsinghua.edu.cn/go?url=https://www.shakespearesglobearchive.amdigital.co.uk/\">  智能网关</a><br />②<a target=\"_blank\" href=\"${global.offcampus.exproxy}\">  校外访问控制系统</a><br />③<a target=\"_blank\" href=\"${global.offcampus.myloft.url}\">  MyLoft远程访问插件</a>（<a target=\"_blank\" href=\"${global.offcampus.myloftpdf.url}\">注册安装指南</a>）<br />",
+  "notice": "<p><span lang=\"EN-US\" style=\"font-family: 微软雅黑, sans-serif;\">1.</span><span style=\"font-family: 微软雅黑, sans-serif;\">无并发用户数限制。</span></p>\n<p><span style=\"font-family: 微软雅黑, sans-serif;\">2. 通过<span style=\"font-family: 宋体;\"><a href=\"https://eproxy.lib.tsinghua.edu.cn/\"><span style=\"color: #1e50a2; font-family: 微软雅黑, sans-serif;\">校外访问控制系统</span></a>登录的</span>方式暂无法下载全文&nbsp;。 </span></p>",
+  "accessurl": [
+   {
+    "v": "跨库检索，需登录出校，校内外可直接访问",
+    "url": "http://tlink.lib.tsinghua.edu.cn/go?url=http://www.amexplorer.amdigital.co.uk/"
+   }
+  ]
+ },
+ {
+  "mmsid": "991021498943903966",
+  "name": "CRCnetBASE",
+  "lang": "eng",
+  "type": "图书",
+  "ext": "主库",
+  "sub": "经济学;理学;管理学",
+  "intro": "CRC Press总部位于美国佛罗里达，是全球声誉卓著的科学与工程图书出版品牌；2003年 CRC Press加入英国Taylor & Francis出版集团。",
+  "tier": "T1",
+  "urls": [
+   "http://tlink.lib.tsinghua.edu.cn/go?url=www.taylorfrancis.com/collections/WB021"
+  ],
+  "mirror": [],
+  "other": [],
+  "offcampus": "<p>CRCnetBASE电子图书通过Taylor &amp; Francis平台访问，详见：<a href=\"http://ecollection.lib.tsinghua.edu.cn/databasenav/entrance/detail?mmsid=991021914475603966\">Taylor &amp; Francis 电子图书</a></p>",
+  "notice": "<p>校内访问，请通过TUNet登录访问，不要使用代理服务器，不要使用搜狗、360等有内嵌式代理的浏览器；不要使用迅雷等下载工具下载全文。</p>",
+  "accessurl": ""
+ },
+ {
+  "mmsid": "991021903106003966",
+  "name": "Ownership @ WRDS",
+  "lang": "eng",
+  "type": "数据事实",
+  "ext": "子库",
+  "sub": "经济学",
+  "intro": "Ownership是汤森路透的股权持有信息数据库，通过该库可访问有关机构、共同基金和内幕人士的全面全球股权持股数据；股权数据涵盖13F表上机构、共同基金、退休基金、保险基金、内幕人士以及在逾70个国家进行证券交易的应申报持股人和英国股票名册，美国数据可追溯至 1986 年，加拿大数据从 2003 年开始以及至1997 年以后英国董事的历史。",
+  "tier": "T1",
+  "urls": [
+   "https://wrds-www.wharton.upenn.edu/"
+  ],
+  "mirror": [],
+  "other": [],
+  "offcampus": "<p>该数据库通过WRDS平台提供访问。用户拥有WRDS个人账户后，使用账号密码方式直接登录网页访问，不受校内校外限制。</p>\n<p><strong>申请WRDS个人账户，参阅：</strong><a href=\"https://ecollection.lib.tsinghua.edu.cn/databasenav/entrance/detail?mmsid=991021498905803966\">WRDS平台使用说明</a>。</p>",
+  "notice": "",
+  "accessurl": ""
+ },
+ {
+  "mmsid": "991021498933403966",
+  "name": "Cambridge Core",
+  "lang": "eng",
+  "type": "图书;期刊",
+  "ext": "主库",
+  "sub": "综合",
+  "intro": "收录英国剑桥大学出版社 (Cambridge University Press，成立于1534年) 出版的400余种全文电子期刊，其中6种期刊在各自学科中排名第1位，19种分别排名前5位，38种排名前10位，60种期刊在至少一个学科中位居前25%。此外，剑桥期刊在线平台上的回溯内容已经与国家图书馆通过全国授权的方式进行了合作，回溯内容免费给全国高校开通使用，包含自起始卷期至今的全部内容，最早可回溯至1770年。收录4.6万多本电子图书。剑桥大学出版社是世界上最大的出版纯数学、应用数学和统计学著作的出版社之一，既出版Hardy、Lamb、Zygmund等著名科学家的经典著作，也出版当今热门课题的大学教材。作者队伍中既包括菲尔兹奖章获得者V.I. Arnold, M. Atiyah, A. Baker, S. Donaldson, V. Jones, D. Mumford 和 E. Witten等，以及世界著名的数学物理学家 S. W. Hawking, R. Penrose和诺贝尔奖获得者S. Weinberg等，也包括翟敬立、李承治、宗传明、邢朝平等著名华人学者。",
+  "tier": "T1",
+  "urls": [
+   "http://tlink.lib.tsinghua.edu.cn/go?url=https://www.cambridge.org/core"
+  ],
+  "mirror": [],
+  "other": [],
+  "offcampus": "<p>本库可通过以下方式实现校外远程访问<br />①<a href=\"http://tlink.lib.tsinghua.edu.cn/go?url=https://www.cambridge.org/core\"> 智能网关</a><br />②<a href=\"${global.offcampus.exproxy}\" target=\"_blank\" rel=\"noopener\"> 校外访问控制系统</a><br />③ <a href=\"https://shibboleth.cambridge.org/Shibboleth.sso/discovery?entityID=https://idp.tsinghua.edu.cn/idp/shibboleth&amp;target=https://shibboleth.cambridge.org/CJOShibb2/index?app=https://www.cambridge.org/core/shibboleth\">机构用户身份认证</a>（Shibboleth或OpenAthens认证方式）<br />④<a href=\"${global.offcampus.myloft.url}\" target=\"_blank\" rel=\"noopener\"> MyLoft远程访问插件</a>（<a href=\"${global.offcampus.myloftpdf.url}\" target=\"_blank\" rel=\"noopener\">注册安装指南</a>）</p>",
+  "notice": "<p>请勿设置代理，否则无法正常使用。</p>",
+  "accessurl": ""
+ },
+ {
+  "mmsid": "991021887630703966",
+  "name": "NSTL外文回溯期刊全文数据库",
+  "lang": "eng",
+  "type": "期刊",
+  "ext": "子库",
+  "sub": "理工综合;农学;医学",
+  "intro": "收录的回溯资源包括：Springer回溯数据库、Nature回溯数据库、OUP（牛津大学出版社）回溯数据库、IOP（英国物理学会）回溯数据库、Turpion回溯数据库等。NSTL购买的回溯数据库通过NSTL的服务平台免费为全国非营利学术型用户提供服务。",
+  "tier": "T1",
+  "urls": [
+   "http://tlink.lib.tsinghua.edu.cn/go?url=http://archive.nstl.gov.cn/Archives/"
+  ],
+  "mirror": [],
+  "other": [],
+  "offcampus": "本库可通过以下方式实现校外远程访问<br />①<a href=\"http://tlink.lib.tsinghua.edu.cn/go?url=http://archive.nstl.gov.cn/Archives/\">  智能网关</a><br />",
+  "notice": "",
+  "accessurl": ""
+ },
+ {
+  "mmsid": "991021851510903966",
+  "name": "OCLC FirstSearch PapersFirst",
+  "lang": "eng",
+  "type": "索引",
+  "ext": "子库",
+  "sub": "综合",
+  "intro": "收录1993年至今来自于大英图书馆文献供应中心的索引，涵盖了全球范围召开的大会、座谈会、博览会、研讨会、专业会、学术报告会所发表的论文，目前共有940多万条记录，可通过馆际互借获取全文。数据每两周更新。",
+  "tier": "T1",
+  "urls": [
+   "http://tlink.lib.tsinghua.edu.cn/go?url=http://firstsearch.oclc.org/done=referer;dbname=PapersFirst;FSIP"
+  ],
+  "mirror": [],
+  "other": [],
+  "offcampus": "本库可通过以下方式实现校外远程访问<br />①<a href=\"http://tlink.lib.tsinghua.edu.cn/go?url=http://firstsearch.oclc.org/done=referer;dbname=PapersFirst;FSIP\">  智能网关</a><br />②<a target=\"_blank\" href=\"${global.offcampus.exproxy}\">  校外访问控制系统</a><br />",
+  "notice": "",
+  "accessurl": ""
+ }
+]
