@@ -57,7 +57,7 @@ Dify → 知识库 → 创建 → 上传 `deploy/dist/knowledge-base/` 下所有
 ### 6. 接入检索工具
 Dify → 工具 → 创建自定义工具 → 导入 `tools/search_service/dify_tool_openapi.yaml`:
 - 把 schema 里 `servers.url` 改成第 3 步服务的地址(同网络填 `http://litsearch:8000`)。
-- 该工具含两个操作:`searchLiterature`(指定单一数据源)与 `searchLiteratureAll`(三源并查去重)。
+- 该工具含两个操作:`searchLiterature`(指定单一数据源)与 `searchLiteratureAll`(多源聚合去重)。
 
 ### 7. 建应用
 Dify → 创建应用(Chatflow / Agent)→

@@ -79,8 +79,13 @@ def search_works(query, per_page=5, year_from=None, year_to=None, work_type=None
         return {"error": "空查询：请提供检索词。", "query": query, "source": "crossref",
                 "total": 0, "results": []}
     per_page = max(1, min(per_page, 25))
-    params = {"query": query, "rows": str(per_page), "select": SELECT, "sort": sort,
-              "order": "desc"}
+    params = {"query": query, "rows": str(per_page), "select": SELECT}
+    # Crossref 的相关度排序值是 score(不是 relevance);相关度为默认,省略即可。
+    # 只有按被引/出版时间排序时才显式传 sort+order,避免无效值导致 400。
+    sort_map = {"is-referenced-by-count": "is-referenced-by-count", "published": "published"}
+    if sort in sort_map:
+        params["sort"] = sort_map[sort]
+        params["order"] = "desc"
     filt = _build_filter(year_from, year_to, work_type)
     if filt:
         params["filter"] = filt

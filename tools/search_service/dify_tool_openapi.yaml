@@ -5,7 +5,7 @@ info:
     面向文献检索智能体的实时学术检索接口，聚合三大免费开放数据源:
     OpenAlex(广度综合)、Crossref(权威元数据/DOI)、Semantic Scholar(语义与引文)。
     当用户想"查某个主题的具体论文/文献"时调用。既可指定单一数据源(searchLiterature)，
-    也可三源并查去重(searchLiteratureAll)。
+    也可多源聚合去重(searchLiteratureAll)。
   version: 1.0.0
 servers:
   # ⬇️ 部署 server.py 后改成你的地址(与 Dify 同网络填 http://litsearch:8000)
@@ -36,7 +36,7 @@ paths:
   /search_all:
     get:
       operationId: searchLiteratureAll
-      summary: 三源并查并去重
+      summary: 多源聚合去重(依次查询)
       description: >-
         同时在 OpenAlex、Crossref、Semantic Scholar 检索，按 DOI/标题去重，按被引降序返回。
         适合"我想全面看看这个主题有哪些重要文献"。
@@ -71,7 +71,7 @@ components:
       properties:
         query: {type: string}
         source: {type: string}
-        total: {type: integer, description: 命中总数(单源)或去重后条数(并查)}
+        total: {type: integer, description: 命中总数(单源)或去重后条数(聚合)}
         returned: {type: integer}
         markdown: {type: string, description: 现成 Markdown 摘要，可直接展示}
         results: {type: array, items: {$ref: "#/components/schemas/Work"}}

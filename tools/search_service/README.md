@@ -15,7 +15,7 @@
 | 端点 | 说明 |
 |---|---|
 | `GET /search?q=&source=&limit=&since=&until=&oa=&work_type=&sort=` | 在**单一**数据源检索(`source`: openalex/crossref/semanticscholar,默认 openalex) |
-| `GET /search_all?q=&limit=&since=&until=&oa=` | **三源并查**,按 DOI/标题去重,按被引降序 |
+| `GET /search_all?q=&limit=&since=&until=&oa=` | **多源聚合**,按 DOI/标题去重,按被引降序 |
 
 两个端点都返回统一结构 + 一个现成的 `markdown` 字段。
 
@@ -40,7 +40,7 @@ curl "http://localhost:8000/search_all?q=laicite&limit=3"
 
 工具 → 创建自定义工具 → 导入 `dify_tool_openapi.yaml` → 把 `servers.url` 改成本服务地址
 (与 Dify 同 docker 网络填 `http://litsearch:8000`)。之后在应用里挂上,模型即可自动调用
-`searchLiterature`(指定源)或 `searchLiteratureAll`(并查)。
+`searchLiterature`(指定源)或 `searchLiteratureAll`(聚合)。
 
 ## 命令行(各源单独用)
 

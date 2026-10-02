@@ -17,6 +17,7 @@ import argparse
 import json
 import os
 import sys
+import time
 import urllib.parse
 from pathlib import Path
 
@@ -77,9 +78,16 @@ def search_works(query, per_page=5, year_from=None, year_to=None,
     url = S2_BASE + "?" + urllib.parse.urlencode(params, safe=":,-")
     api_key = api_key or os.environ.get("S2_API_KEY")
     headers = {"x-api-key": api_key} if api_key else None
-    data, err = http_get_json(url, headers=headers, timeout=timeout)
+    # 无 key 时 S2 限流严格,易触发 429:做有限重试(指数退避)。生产建议配 S2_API_KEY。
+    data, err = None, None
+    for attempt in range(3):
+        data, err = http_get_json(url, headers=headers, timeout=timeout)
+        if not err or "429" not in err:
+            break
+        time.sleep(1.5 * (attempt + 1))
     if err:
-        return {"error": f"Semantic Scholar {err}", "query": query,
+        hint = "(无 API Key 时限流严格,建议设置环境变量 S2_API_KEY)" if "429" in err and not api_key else ""
+        return {"error": f"Semantic Scholar {err}{hint}", "query": query,
                 "source": "semanticscholar", "total": 0, "results": []}
     results = [_shape(it) for it in data.get("data", []) or []]
     return {"query": query, "source": "semanticscholar",

@@ -5,7 +5,7 @@
 
 给 Dify（或任何 agent 平台）当"自定义工具"用：Dify 只需挂这一个工具。
   - GET /search?q=...&source=openalex|crossref|semanticscholar   单一数据源
-  - GET /search_all?q=...                                        三源并查 + 去重
+  - GET /search_all?q=...                                        多源聚合 + 去重
 
 运行：
   pip install -r requirements.txt
@@ -75,7 +75,7 @@ def search(
     return data
 
 
-@app.get("/search_all", summary="三源并查并去重", operation_id="searchLiteratureAll")
+@app.get("/search_all", summary="多源聚合去重(依次查询)", operation_id="searchLiteratureAll")
 def search_all(
     q: str = Query(..., description="检索词"),
     limit: int = Query(5, ge=1, le=15, description="每个数据源的返回条数 1-15"),

@@ -1,0 +1,15 @@
+{"id": "q01", "dimension": ["意图路由", "知识库引用准确"], "question": "我研究法国大革命,想读法语原始文献,去哪些平台找?", "expected_route": "knowledge_base", "expected_behavior": "推荐法语区开放平台(如 Gallica)等,给访问路径与法语检索技巧,引用应来自知识库法语区条目。"}
+{"id": "q02", "dimension": ["意图路由", "工具调用", "文献真实性"], "question": "帮我查几篇关于 digital humanities 的重要论文", "expected_route": "realtime_search", "expected_behavior": "调用 searchLiteratureAll,返回真实论文(标题/作者/年份/链接),优先开放获取。"}
+{"id": "q03", "dimension": ["意图路由", "追问"], "question": "我想找点文献", "expected_route": "clarify", "expected_behavior": "信息不足,应先追问国别/区域、时段、主题、语言、要平台还是要论文。"}
+{"id": "q04", "dimension": ["意图路由", "知识库引用准确"], "question": "研究日本近代史,想找报纸和档案类数据库,能读日语", "expected_route": "knowledge_base", "expected_behavior": "推荐日本相关报纸/档案平台,给日语检索提示,引用来自知识库日本条目。"}
+{"id": "q05", "dimension": ["意图路由", "知识库引用准确"], "question": "俄语史料有哪些开放获取的平台?", "expected_route": "knowledge_base", "expected_behavior": "推荐俄罗斯与东欧开放平台;若知识库提示该区馆藏薄弱应如实说明。"}
+{"id": "q06", "dimension": ["工具调用", "文献真实性"], "question": "最近五年关于 laïcité(法国政教分离)的学术论文有哪些?", "expected_route": "realtime_search", "expected_behavior": "调用工具并按年份过滤,返回真实近年论文与链接。"}
+{"id": "q07", "dimension": ["工具调用", "链接有效"], "question": "帮我找开放获取的、关于 Bourdieu 教育社会学的论文", "expected_route": "realtime_search", "expected_behavior": "调用工具且优先开放获取,给出可打开的 oa 链接。"}
+{"id": "q08", "dimension": ["诚实降级"], "question": "帮我找 2025 年关于'量子引力在敦煌壁画中的应用'的权威论文", "expected_route": "realtime_search", "expected_behavior": "几乎无真实结果;应如实说没查到/相关度低,建议换关键词,绝不编造论文或链接。"}
+{"id": "q09", "dimension": ["知识库引用准确", "访问性分层"], "question": "CAIRN 是什么?我没有机构订阅能用吗?", "expected_route": "knowledge_base", "expected_behavior": "说明 CAIRN 为法语订阅库,提示确认机构订阅,并给开放获取替代方案。"}
+{"id": "q10", "dimension": ["意图路由", "知识库引用准确"], "question": "德语区有哪些可以免费看的历史报纸数字化平台?", "expected_route": "knowledge_base", "expected_behavior": "推荐德语区公开平台(如 ANNO/ZEFYS 等),引用来自公开平台·德语区。"}
+{"id": "q11", "dimension": ["工具调用", "文献真实性"], "question": "查一下 large language models 领域被引最高的几篇论文", "expected_route": "realtime_search", "expected_behavior": "调用工具并按被引排序,返回真实高被引论文。"}
+{"id": "q12", "dimension": ["意图路由", "多语言检索"], "question": "我想研究魏玛共和国时期的报刊舆论,只会中文和英文,怎么查?", "expected_route": "knowledge_base", "expected_behavior": "推荐德语区报刊平台,并给出把中文主题转成德语检索词的建议(如 Weimarer Republik)。"}
+{"id": "q13", "dimension": ["诚实降级", "访问性分层"], "question": "给我 British Newspaper Archive 的全文下载地址", "expected_route": "knowledge_base", "expected_behavior": "说明该库为付费/订阅,不能直接给全文下载;提示合规获取方式与开放替代。"}
+{"id": "q14", "dimension": ["工具调用", "链接有效"], "question": "用 Crossref 查一下 'reproduction in education bourdieu' 的权威出处", "expected_route": "realtime_search", "expected_behavior": "可指定 crossref 源检索,返回带 DOI 的权威元数据。"}
+{"id": "q15", "dimension": ["意图路由", "知识库引用准确"], "question": "拉美史研究,西班牙语/葡萄牙语的开放文献平台推荐", "expected_route": "knowledge_base", "expected_behavior": "推荐伊比利亚与拉美开放平台(如 SciELO/Redalyc 等),引用来自对应条目。"}

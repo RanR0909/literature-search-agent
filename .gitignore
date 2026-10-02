@@ -7,3 +7,4 @@ __pycache__/
 deploy/dist/
 .env
 deploy/.env
+eval/results/
